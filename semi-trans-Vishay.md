@@ -1,7 +1,7 @@
 # semi-trans-Vishay
 
 ## 2N7002K
-NMOS 60V 300mA 2R 2Vth [SOT-23]
+NMOS 60V 300mA 2R 2.5Vth [SOT-23]
 
 ![2N7002K__1__1](/images/semi-trans-NXP__2N7002PW__1__1.png?raw=true) 
 

@@ -151,11 +151,6 @@ MCU 8bit/AVR ROM:16KB RAM:2KB ADC12b DAC12b [VQFN-32]
 
 ![ATXMEGA16E5-MU__1__1](/images/Atmel__ATXMEGA16E5-M4U__1__1.png?raw=true) 
 
-## ATXMEGA256D3-AU
-MCU 8bit/AVR ROM:256KB RAM:16KB [TQFP-64]
-
-![ATXMEGA256D3-AU__1__1](/images/Atmel__ATXMEGA256D3-AU__1__1.png?raw=true) 
-
 ## ATXMEGA32A4U-AU
 MCU 8bit/AVR ROM:32KB RAM:4KB ADC12b DAC12b USB [QFP-44]
 
@@ -207,7 +202,7 @@ MCU 8bit/AVR ROM:8KB RAM:1KB ADC12b DAC12b [VQFN-32]
 ![ATXMEGA8E5-MU__1__1](/images/Atmel__ATXMEGA16E5-M4U__1__1.png?raw=true) 
 
 ## ATXMEGAnD3-AU
-MCU 8-bit/AVR [TQFP-64]
+MCU 8bit/AVR ROM:32-384KB RAM:4-32KB [TQFP-64]
 
 ![ATXMEGAnD3-AU__1__1](/images/Atmel__ATXMEGAnD3-AU__1__1.png?raw=true) 
 ![ATXMEGAnD3-AU__2__1](/images/Atmel__ATXMEGAnD3-AU__2__1.png?raw=true) 
@@ -219,7 +214,7 @@ MCU 8-bit/AVR [TQFP-64]
 ![ATXMEGAnD3-AU__8__1](/images/Atmel__ATXMEGAnD3-AU__8__1.png?raw=true) 
 
 ## ATXMEGAnD4-AU
-MCU 8-bit/AVR [TQFP-44]
+MCU 8bit/AVR ROM:32-384KB RAM:4-32KB [TQFP-44]
 
 ![ATXMEGAnD4-AU__1__1](/images/Atmel__ATXMEGAnD4-AU__1__1.png?raw=true) 
 ![ATXMEGAnD4-AU__2__1](/images/Atmel__ATXMEGAnD4-AU__2__1.png?raw=true) 
