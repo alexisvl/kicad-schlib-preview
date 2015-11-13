@@ -23,7 +23,7 @@ DIAC [footprint]
 ## DIODE
 Diode voltage current [footprint]
 
-![DIODE__1__1](/images/_semi__DIODE__1__1.png?raw=true) 
+![DIODE__1__1](/images/semi-diode-Vishay__S1A__1__1.png?raw=true) 
 
 ## DIODE-CA
 Diode.2 CA voltage current [footprint]
@@ -254,7 +254,7 @@ PUT voltage power (I_TRM) [footprint]
 ## SCHOTTKY
 Schottky voltage current [footprint]
 
-![SCHOTTKY__1__1](/images/semi-diode-MCC__SS1150-L__1__1.png?raw=true) 
+![SCHOTTKY__1__1](/images/semi-diode-Vishay__SS12__1__1.png?raw=true) 
 
 ## SCHOTTKY-CA
 Schottky.2 CA voltage current [footprint]

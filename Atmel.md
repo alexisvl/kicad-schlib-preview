@@ -214,7 +214,7 @@ MCU 8bit/AVR ROM:32-384KB RAM:4-32KB [TQFP-64]
 ![ATXMEGAnD3-AU__8__1](/images/Atmel__ATXMEGAnD3-AU__8__1.png?raw=true) 
 
 ## ATXMEGAnD4-AU
-MCU 8bit/AVR ROM:32-384KB RAM:4-32KB [TQFP-44]
+MCU 8bit/AVR ROM:16-128KB RAM:2-8KB [TQFP-44]
 
 ![ATXMEGAnD4-AU__1__1](/images/Atmel__ATXMEGAnD4-AU__1__1.png?raw=true) 
 ![ATXMEGAnD4-AU__2__1](/images/Atmel__ATXMEGAnD4-AU__2__1.png?raw=true) 
