@@ -6,7 +6,7 @@ LED Red [0603]
 ![LED-0603__1__1](/images/_semi__LED__1__1.png?raw=true) 
 
 ## LED-0805
-LED [0805]
+LED Red [0805]
 
 ![LED-0805__1__1](/images/_semi__LED__1__1.png?raw=true) 
 

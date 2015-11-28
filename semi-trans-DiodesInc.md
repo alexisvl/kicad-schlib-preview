@@ -26,10 +26,10 @@ NMOS-enh, dual, 30V 160mA logic
 ## DMP3098L
 MOSFET, P-enh, -30V, -3A, Rds approx 120m
 
-![DMP3098L__1__1](/images/semi-trans-NXP__PMV160UP__1__1.png?raw=true) 
+![DMP3098L__1__1](/images/_semi__PMOS__1__1.png?raw=true) 
 
 ## DMP4051LK3
 MOSFET, P-enh, -40V, -8.4A, Rds approx 85m
 
-![DMP4051LK3__1__1](/images/semi-trans-NXP__PMV160UP__1__1.png?raw=true) 
+![DMP4051LK3__1__1](/images/_semi__PMOS__1__1.png?raw=true) 
 

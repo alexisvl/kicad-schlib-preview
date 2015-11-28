@@ -3,32 +3,32 @@
 ## TIP120
 NPN-D amplifier, 5A, 60V, 2-65W
 
-![TIP120__1__1](/images/semi-trans-TIP__TIP120__1__1.png?raw=true) 
+![TIP120__1__1](/images/_semi__NPNDARL__1__1.png?raw=true) 
 
 ## TIP121
 NPN-D amplifier, 5A, 80V, 2-65W
 
-![TIP121__1__1](/images/semi-trans-TIP__TIP120__1__1.png?raw=true) 
+![TIP121__1__1](/images/_semi__NPNDARL__1__1.png?raw=true) 
 
 ## TIP122
 NPN-D amplifier, 5A, 100V, 2-65W
 
-![TIP122__1__1](/images/semi-trans-TIP__TIP120__1__1.png?raw=true) 
+![TIP122__1__1](/images/_semi__NPNDARL__1__1.png?raw=true) 
 
 ## TIP125
 PNP-D amplifier, -5A, -60V, 2-65W
 
-![TIP125__1__1](/images/semi-trans-TIP__TIP125__1__1.png?raw=true) 
+![TIP125__1__1](/images/_semi__PNPDARL__1__1.png?raw=true) 
 
 ## TIP126
 PNP-D amplifier, -5A, -80V, 2-65W
 
-![TIP126__1__1](/images/semi-trans-TIP__TIP125__1__1.png?raw=true) 
+![TIP126__1__1](/images/_semi__PNPDARL__1__1.png?raw=true) 
 
 ## TIP127
 PNP-D amplifier, -5A, -100V, 2-65W
 
-![TIP127__1__1](/images/semi-trans-TIP__TIP125__1__1.png?raw=true) 
+![TIP127__1__1](/images/_semi__PNPDARL__1__1.png?raw=true) 
 
 ## TIP140
 NPN-D amplifier, 10A, 60V, 125W, with resistors and diode
@@ -63,40 +63,40 @@ PNP-D amplifier, -10A, -100V, 125W, with resistors and diode
 ## TIP31A
 NPN amplifier, 3A, 60V, 40W
 
-![TIP31A__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
+![TIP31A__1__1](/images/_semi__NPN__1__1.png?raw=true) 
 
 ## TIP31C
 NPN amplifier, 3A, 100V, 40W
 
-![TIP31C__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
+![TIP31C__1__1](/images/_semi__NPN__1__1.png?raw=true) 
 
 ## TIP35A
 NPN amplifier, 25A, 60V, 125W
 
-![TIP35A__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
+![TIP35A__1__1](/images/_semi__NPN__1__1.png?raw=true) 
 
 ## TIP35B
 NPN amplifier, 25A, 80V, 125W
 
-![TIP35B__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
+![TIP35B__1__1](/images/_semi__NPN__1__1.png?raw=true) 
 
 ## TIP35C
 NPN amplifier, 25A, 100V, 125W
 
-![TIP35C__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
+![TIP35C__1__1](/images/_semi__NPN__1__1.png?raw=true) 
 
 ## TIP36A
 PNP amplifier, -25A, -60V, 125mW
 
-![TIP36A__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
+![TIP36A__1__1](/images/_semi__PNP__1__1.png?raw=true) 
 
 ## TIP36B
 PNP amplifier, -25A, -80V, 125mW
 
-![TIP36B__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
+![TIP36B__1__1](/images/_semi__PNP__1__1.png?raw=true) 
 
 ## TIP36C
 PNP amplifier, -25A, -100V, 125mW
 
-![TIP36C__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
+![TIP36C__1__1](/images/_semi__PNP__1__1.png?raw=true) 
 

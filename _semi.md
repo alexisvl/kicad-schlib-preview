@@ -23,7 +23,7 @@ DIAC [footprint]
 ## DIODE
 Diode voltage current [footprint]
 
-![DIODE__1__1](/images/semi-diode-Vishay__S1A__1__1.png?raw=true) 
+![DIODE__1__1](/images/_semi__DIODE__1__1.png?raw=true) 
 
 ## DIODE-CA
 Diode.2 CA voltage current [footprint]
@@ -61,7 +61,7 @@ LED color wavelength voltage current [footprint]
 ## NJF
 NJF (semi) voltage Idss [footprint]
 
-![NJF__1__1](/images/semi-trans-misc__BSR56__1__1.png?raw=true) 
+![NJF__1__1](/images/_semi__NJF__1__1.png?raw=true) 
 
 ## NJFC
 NJF (semi) voltage Idss [footprint]
@@ -76,17 +76,17 @@ NJF (semi) voltage Idss [footprint]
 ## NJFSYM
 NJF (semi) voltage Idss [footprint]
 
-![NJFSYM__1__1](/images/semi-trans-misc__J111__1__1.png?raw=true) 
+![NJFSYM__1__1](/images/_semi__NJFSYM__1__1.png?raw=true) 
 
 ## NMOS
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
-![NMOS__1__1](/images/semi-trans-NXP__2N7002PW__1__1.png?raw=true) 
+![NMOS__1__1](/images/_semi__NMOS__1__1.png?raw=true) 
 
 ## NMOS-2D
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
-![NMOS-2D__1__1](/images/semi-trans-NXP__BUK98180-100A__1__1.png?raw=true) 
+![NMOS-2D__1__1](/images/_semi__NMOS-2D__1__1.png?raw=true) 
 
 ## NMOS-4D-3S
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
@@ -121,17 +121,17 @@ NMOS DEP (semi) voltage current (Rdson) (Vgsth) [footprint]
 ## NPN
 NPN (semi) voltage current (power) (ft) [footprint]
 
-![NPN__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
+![NPN__1__1](/images/_semi__NPN__1__1.png?raw=true) 
 
 ## NPN-2C
 NPN (semi) voltage current (power) (ft) [footprint]
 
-![NPN-2C__1__1](/images/semi-trans-NXP__BFQ19__1__1.png?raw=true) 
+![NPN-2C__1__1](/images/semi-trans-PZT__PZT2222A__1__1.png?raw=true) 
 
 ## NPNDARL
 NPN Darl (semi) voltage current (power) (ft) [footprint]
 
-![NPNDARL__1__1](/images/semi-trans-TIP__TIP120__1__1.png?raw=true) 
+![NPNDARL__1__1](/images/_semi__NPNDARL__1__1.png?raw=true) 
 
 ## NPNDARL-2C
 NPN Darl (semi) voltage current (power) (ft) [footprint]
@@ -157,7 +157,7 @@ NPN.2 (semi) voltage current (power) (ft) [footprint]
 ## NPNLTP
 NPN.2 CE (semi) voltage current (power) (ft) [footprint]
 
-![NPNLTP__1__1](/images/semi-trans-NXP__PMP4201G__1__1.png?raw=true) 
+![NPNLTP__1__1](/images/_semi__NPNLTP__1__1.png?raw=true) 
 
 ## OPTONPN
 OPTONPN voltage current [footprint]
@@ -188,7 +188,7 @@ PJF (semi) voltage Idss [footprint]
 ## PMOS
 PMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
-![PMOS__1__1](/images/semi-trans-NXP__PMV160UP__1__1.png?raw=true) 
+![PMOS__1__1](/images/_semi__PMOS__1__1.png?raw=true) 
 
 ## PMOS-2D
 PMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
@@ -213,17 +213,17 @@ PMOS DEP (semi) voltage current (Rdson) (Vgsth) [footprint]
 ## PNP
 PNP (semi) voltage current (power) (ft) [footprint]
 
-![PNP__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
+![PNP__1__1](/images/_semi__PNP__1__1.png?raw=true) 
 
 ## PNP-2C
 PNP (semi) voltage current (power) (ft) [footprint]
 
-![PNP-2C__1__1](/images/semi-trans-NXP__BFQ149__1__1.png?raw=true) 
+![PNP-2C__1__1](/images/semi-trans-PZT__PZT2907A__1__1.png?raw=true) 
 
 ## PNPDARL
 PNP Darl (semi) voltage current (power) (ft) [footprint]
 
-![PNPDARL__1__1](/images/semi-trans-TIP__TIP125__1__1.png?raw=true) 
+![PNPDARL__1__1](/images/_semi__PNPDARL__1__1.png?raw=true) 
 
 ## PNPDARL-2C
 PNP (semi) voltage current (power) (ft) [footprint]
@@ -244,7 +244,7 @@ PNP.2 (semi) voltage current (power) (ft) [footprint]
 ## PNPLTP
 PNP.2 CE (semi) voltage current (power) (ft) [footprint]
 
-![PNPLTP__1__1](/images/semi-trans-NXP__PMP5201G__1__1.png?raw=true) 
+![PNPLTP__1__1](/images/_semi__PNPLTP__1__1.png?raw=true) 
 
 ## PUT
 PUT voltage power (I_TRM) [footprint]
@@ -254,7 +254,7 @@ PUT voltage power (I_TRM) [footprint]
 ## SCHOTTKY
 Schottky voltage current [footprint]
 
-![SCHOTTKY__1__1](/images/semi-diode-Vishay__SS12__1__1.png?raw=true) 
+![SCHOTTKY__1__1](/images/_semi__SCHOTTKY__1__1.png?raw=true) 
 
 ## SCHOTTKY-CA
 Schottky.2 CA voltage current [footprint]

@@ -11,7 +11,7 @@ Battery, few cells
 ![BATTERY-SHORT__1__1](/images/passive__BATTERY-SHORT__1__1.png?raw=true) 
 
 ## BEAD
-![BEAD__1__1](/images/pasv-ind__BEAD-0402__1__1.png?raw=true) 
+![BEAD__1__1](/images/passive__BEAD__1__1.png?raw=true) 
 
 ## C
 Capacitor
@@ -26,7 +26,7 @@ Common-mode ferrite bead
 ## CMCHOKE
 Common-mode choke
 
-![CMCHOKE__1__1](/images/pasv-ind__BEAD-EMC-MCZ1210__1__1.png?raw=true) 
+![CMCHOKE__1__1](/images/passive__CMCHOKE__1__1.png?raw=true) 
 
 ## CPOL
 Capacitor, polarized
@@ -54,7 +54,7 @@ Gas discharge tube
 ![GDT__1__1](/images/passive__GDT__1__1.png?raw=true) 
 
 ## L
-![L__1__1](/images/pasv-ind__L-0402__1__1.png?raw=true) 
+![L__1__1](/images/passive__L__1__1.png?raw=true) 
 
 ## LAMP
 Incandescent lamp
@@ -134,7 +134,7 @@ Resistor
 ## THERM
 Thermistor
 
-![THERM__1__1](/images/Littelfuse__POLYFUSE-16R400G__1__1.png?raw=true) 
+![THERM__1__1](/images/passive__THERM__1__1.png?raw=true) 
 
 ## THERMOCOUP
 Thermocouple

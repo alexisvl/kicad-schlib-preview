@@ -50,5 +50,5 @@ Reg Multi in:40V AdjV 1.5A 100kHz [DIP-8]
 ## MC79MvvCDT
 Reg Lin -500mA [TO-252]
 
-![MC79MvvCDT__1__1](/images/TexasInstruments__LM1086IT-v.v__1__1.png?raw=true) 
+![MC79MvvCDT__1__1](/images/ST__L79vvCD2T__1__1.png?raw=true) 
 

@@ -1,37 +1,37 @@
 # maxim
 
 ## DG419CJ
-AnSwitch SPDT CMOS 30V 0-70degC [DIP-8]
+[obs] AnSwitch SPST CMOS 36V [DIP-8]
 
 ![DG419CJ__1__1](/images/Vishay__DG449DS__1__1.png?raw=true) 
 ![DG419CJ__2__1](/images/maxim__DG419CJ__2__1.png?raw=true) 
 
 ## DG419CY
-AnSwitch SPDT CMOS 30V 0-70degC [SOIC-8]
+AnSwitch SPST CMOS 36V [SOIC-8]
 
 ![DG419CY__1__1](/images/Vishay__DG449DS__1__1.png?raw=true) 
 ![DG419CY__2__1](/images/maxim__DG419CJ__2__1.png?raw=true) 
 
 ## DG419DJ
-AnSwitch SPDT CMOS 30V -40-85degC [DIP-8]
+AnSwitch CMOS 36V [DIP-8]
 
 ![DG419DJ__1__1](/images/Vishay__DG449DS__1__1.png?raw=true) 
 ![DG419DJ__2__1](/images/maxim__DG419CJ__2__1.png?raw=true) 
 
 ## DG419DY
-AnSwitch SPDT CMOS 30V -40-85degC [SOIC-8]
+AnSwitch SPST CMOS 36V [SOIC-8]
 
 ![DG419DY__1__1](/images/Vishay__DG449DS__1__1.png?raw=true) 
 ![DG419DY__2__1](/images/maxim__DG419CJ__2__1.png?raw=true) 
 
 ## DG419LEUA
-AnSwitch SPDT CMOS 20V -40-85degC [MSOP-8]
+AnSwitch SPST CMOS 36V [MSOP-8]
 
 ![DG419LEUA__1__1](/images/Vishay__DG449DS__1__1.png?raw=true) 
 ![DG419LEUA__2__1](/images/maxim__DG419CJ__2__1.png?raw=true) 
 
 ## MAX4567EEE
-AnSwitch.2 SPDT CMOS ±6V [SOIC-16]
+AnSwitch.2 SPDT CMOS ±6V [QSOP-16]
 
 ![MAX4567EEE__1__1](/images/maxim__MAX4567EEE__1__1.png?raw=true) 
 ![MAX4567EEE__2__1](/images/maxim__MAX4567EEE__2__1.png?raw=true) 

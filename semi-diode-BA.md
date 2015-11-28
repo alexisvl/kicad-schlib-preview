@@ -1,19 +1,19 @@
 # semi-diode-BA
 
 ## BAS16
-Diode, 200mA, 75V
+Diode 75V 200mA [SOT-23]
 
-![BAS16__1__1](/images/semi-diode-Vishay__S1A__1__1.png?raw=true) 
+![BAS16__1__1](/images/_semi__DIODE__1__1.png?raw=true) 
 
 ## BAS70H
 Schottky 70V 70mA [SOD-123]
 
-![BAS70H__1__1](/images/semi-diode-Vishay__SS12__1__1.png?raw=true) 
+![BAS70H__1__1](/images/_semi__SCHOTTKY__1__1.png?raw=true) 
 
 ## BAT54
 Schottky 30V 200mA [SOT-23]
 
-![BAT54__1__1](/images/semi-diode-Vishay__SS12__1__1.png?raw=true) 
+![BAT54__1__1](/images/_semi__SCHOTTKY__1__1.png?raw=true) 
 
 ## BAT54A
 Schottky.2 CommonAnode 30V 200mA [SOT-23]
@@ -48,7 +48,7 @@ Schottky.2 Series 30V 200mA [SOT-323]
 ## BAT85S
 Schottky 30V 200mA [DO-35]
 
-![BAT85S__1__1](/images/semi-diode-Vishay__SS12__1__1.png?raw=true) 
+![BAT85S__1__1](/images/_semi__SCHOTTKY__1__1.png?raw=true) 
 
 ## BAV199
 Diode.2 Series 70V 140mA [SOT-23]
@@ -57,7 +57,7 @@ Diode.2 Series 70V 140mA [SOT-23]
 ![BAV199__1__2](/images/_semi__DIODE-SERIES__1__2.png?raw=true) 
 
 ## BAV99
-Diode.2 Series 75V 150mA [SOT-23]
+Diode.2 Series 70V 150mA [SOT-23]
 
 ![BAV99__1__1](/images/_semi__DIODE-SERIES__1__1.png?raw=true) 
 ![BAV99__1__2](/images/_semi__DIODE-SERIES__1__2.png?raw=true) 
@@ -65,8 +65,8 @@ Diode.2 Series 75V 150mA [SOT-23]
 ## BAV99DW
 Diode.4 DualSeries 75V 150mA [SOT-363]
 
-![BAV99DW__1__1](/images/semi-diode-BA__BAV99DW__1__1.png?raw=true) 
-![BAV99DW__2__1](/images/semi-diode-BA__BAV99DW__1__1.png?raw=true) 
+![BAV99DW__1__1](/images/semi-diode-NXP__BAP50-04W__1__1.png?raw=true) 
+![BAV99DW__2__1](/images/semi-diode-NXP__BAP50-04W__1__1.png?raw=true) 
 
 ## BAV99W
 Diode.2 Series 75V 150mA [SC-70]
