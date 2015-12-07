@@ -54,15 +54,23 @@ AnSwitch.2 SPDT CMOS ±6V [SOIC-16]
 ![MAX48x-uMAX__1__1](/images/maxim__MAX48x-uMAX__1__1.png?raw=true) 
 
 ## MAX5214
+DAC 14bit 18µs SPI INL:0.4 [MSOP-8]
+
 ![MAX5214__1__1](/images/maxim__MAX5214__1__1.png?raw=true) 
 
 ## MAX5215
+DAC 14bit 18µs I2C INL:0.4 [MSOP-8]
+
 ![MAX5215__1__1](/images/maxim__MAX5215__1__1.png?raw=true) 
 
 ## MAX5216
+DAC 16bit 18µs SPI INL:1.2 [MSOP-8]
+
 ![MAX5216__1__1](/images/maxim__MAX5214__1__1.png?raw=true) 
 
 ## MAX5217
+DAC 16bit 18µs I2C INL:1.2 [MSOP-8]
+
 ![MAX5217__1__1](/images/maxim__MAX5215__1__1.png?raw=true) 
 
 ## MAX5481

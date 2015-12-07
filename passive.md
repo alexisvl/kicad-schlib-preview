@@ -11,12 +11,12 @@ Battery, few cells
 ![BATTERY-SHORT__1__1](/images/passive__BATTERY-SHORT__1__1.png?raw=true) 
 
 ## BEAD
-![BEAD__1__1](/images/passive__BEAD__1__1.png?raw=true) 
+![BEAD__1__1](/images/pasv-ind__BEAD-0402__1__1.png?raw=true) 
 
 ## C
 Capacitor
 
-![C__1__1](/images/pasv-cap__C-0402__1__1.png?raw=true) 
+![C__1__1](/images/passive__C__1__1.png?raw=true) 
 
 ## CMBEAD
 Common-mode ferrite bead
@@ -26,17 +26,17 @@ Common-mode ferrite bead
 ## CMCHOKE
 Common-mode choke
 
-![CMCHOKE__1__1](/images/passive__CMCHOKE__1__1.png?raw=true) 
+![CMCHOKE__1__1](/images/pasv-ind__BEAD-EMC-MCZ1210__1__1.png?raw=true) 
 
 ## CPOL
 Capacitor, polarized
 
-![CPOL__1__1](/images/pasv-cap__C-ALUM-1030__1__1.png?raw=true) 
+![CPOL__1__1](/images/passive__CPOL__1__1.png?raw=true) 
 
 ## CVAR
 Capacitor
 
-![CVAR__1__1](/images/pasv-cap__CV-MURATA-TZC3P__1__1.png?raw=true) 
+![CVAR__1__1](/images/passive__CVAR__1__1.png?raw=true) 
 
 ## DELAY_MATCH
 Matched delay line
@@ -54,7 +54,7 @@ Gas discharge tube
 ![GDT__1__1](/images/passive__GDT__1__1.png?raw=true) 
 
 ## L
-![L__1__1](/images/passive__L__1__1.png?raw=true) 
+![L__1__1](/images/pasv-ind__L-0402__1__1.png?raw=true) 
 
 ## LAMP
 Incandescent lamp
@@ -73,7 +73,7 @@ Incandescent lamp
 ## LFERR
 Inductor, ferrite core
 
-![LFERR__1__1](/images/pasv-Bourns__L-BOURNS-RLB0914__1__1.png?raw=true) 
+![LFERR__1__1](/images/pasv-ind__L-MURATA-1200LRS__1__1.png?raw=true) 
 
 ## NEON
 Neon lamp
@@ -94,7 +94,7 @@ Resistor
 ## POT-TRIM
 Resistor
 
-![POT-TRIM__1__1](/images/pasv-Bourns__POT-BOURNS-3296W__1__1.png?raw=true) 
+![POT-TRIM__1__1](/images/passive__POT-TRIM__1__1.png?raw=true) 
 
 ## R
 Resistor (template)
@@ -144,8 +144,8 @@ Thermocouple
 ## TRANS-2
 Transformer
 
-![TRANS-2__1__1](/images/pasv-Bourns__L-BOURNS-PM3604__1__1.png?raw=true) 
-![TRANS-2__2__1](/images/pasv-Bourns__L-BOURNS-PM3604__1__1.png?raw=true) 
+![TRANS-2__1__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
+![TRANS-2__2__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
 
 ## TRANS-2CT
 Transformer
@@ -156,24 +156,24 @@ Transformer
 ## TRANS-3
 Transformer
 
-![TRANS-3__1__1](/images/pasv-Bourns__L-BOURNS-PM3604__1__1.png?raw=true) 
-![TRANS-3__2__1](/images/pasv-Bourns__L-BOURNS-PM3604__1__1.png?raw=true) 
-![TRANS-3__3__1](/images/pasv-Bourns__L-BOURNS-PM3604__1__1.png?raw=true) 
+![TRANS-3__1__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
+![TRANS-3__2__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
+![TRANS-3__3__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
 
 ## TRANS-3-1CT
 Transformer
 
-![TRANS-3-1CT__1__1](/images/pasv-Bourns__L-BOURNS-PM3604__1__1.png?raw=true) 
+![TRANS-3-1CT__1__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
 ![TRANS-3-1CT__2__1](/images/passive__TRANS-3-1CT__2__1.png?raw=true) 
-![TRANS-3-1CT__3__1](/images/pasv-Bourns__L-BOURNS-PM3604__1__1.png?raw=true) 
+![TRANS-3-1CT__3__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
 
 ## TRANS-4
 Transformer
 
-![TRANS-4__1__1](/images/pasv-Bourns__L-BOURNS-PM3604__1__1.png?raw=true) 
-![TRANS-4__2__1](/images/pasv-Bourns__L-BOURNS-PM3604__1__1.png?raw=true) 
-![TRANS-4__3__1](/images/pasv-Bourns__L-BOURNS-PM3604__1__1.png?raw=true) 
-![TRANS-4__4__1](/images/pasv-Bourns__L-BOURNS-PM3604__1__1.png?raw=true) 
+![TRANS-4__1__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
+![TRANS-4__2__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
+![TRANS-4__3__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
+![TRANS-4__4__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
 
 ## TWISTEDPAIR
 Twisted pair

@@ -5,6 +5,12 @@ ADC.4 16bit 860SPS I2C [MSOP-10]
 
 ![ADS1115IDGSR__1__1](/images/TexasInstruments__ADS1115IDGSR__1__1.png?raw=true) 
 
+## ADS1120IPWR
+ADC.4/2 16bit 2kSa/s LowNoise PGA TempSensor SPI [TSSOP-16]
+
+![ADS1120IPWR__1__1](/images/TexasInstruments__ADS1120IPWR__1__1.png?raw=true) 
+![ADS1120IPWR__2__1](/images/TexasInstruments__ADS1120IPWR__2__1.png?raw=true) 
+
 ## CDCE913PW
 OscPLL 230MHz LVCMOS SpreadSpectrum [TSSOP-14]
 
@@ -177,6 +183,11 @@ Comp OpenColl [DIP-8]
 
 ![LM311N__1__1](/images/TexasInstruments__LM311M__1__1.png?raw=true) 
 ![LM311N__2__1](/images/TexasInstruments__LM311M__2__1.png?raw=true) 
+
+## LM3150
+Wide-Vin Synchronous Buck SMPS Controller
+
+![LM3150__1__1](/images/TexasInstruments__LM3150__1__1.png?raw=true) 
 
 ## LM317AEMP
 Reg Lin AdjV 1A [SOT-223]
@@ -354,6 +365,8 @@ OpAmp VFB 200MHz 4100V/µs [DIP-8]
 ![LM7171BIN__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## LM7705
+Reg SwCap in:5V -230mV 26mA 92kHz [VSSOP-8]
+
 ![LM7705__1__1](/images/TexasInstruments__LM7705__1__1.png?raw=true) 
 
 ## LMH6552SD

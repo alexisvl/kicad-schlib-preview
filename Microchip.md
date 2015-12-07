@@ -45,6 +45,14 @@ ADC 13bit 100kSa/s SPI INL:2 [SOIC-8]
 
 ![MCP3301-CI/SN__1__1](/images/Microchip__MCP3301-BI-SN__1__1.png?raw=true) 
 
+## MCP4251-nnnE/SL
+8-Bit Dual SPI Digital Potentiometer
+
+![MCP4251-nnnE/SL__1__1](/images/Microchip__MCP4251-nnnE-SL__1__1.png?raw=true) 
+![MCP4251-nnnE/SL__2__1](/images/Microchip__MCP4251-nnnE-SL__2__1.png?raw=true) 
+![MCP4251-nnnE/SL__3__1](/images/Microchip__MCP4251-nnnE-SL__3__1.png?raw=true) 
+![MCP4251-nnnE/SL__4__1](/images/Microchip__MCP4251-nnnE-SL__4__1.png?raw=true) 
+
 ## MCP4716A0T-E/CH
 DAC 10bit 6µs I2C INL:3.6 EEPROM [SOT-23-6]
 
@@ -54,6 +62,11 @@ DAC 10bit 6µs I2C INL:3.6 EEPROM [SOT-23-6]
 DAC 12bit 6µs I2C INL:0.2 EEPROM [MSOP-10]
 
 ![MCP4728A0-E/UN__1__1](/images/Microchip__MCP4728A0-E-UN__1__1.png?raw=true) 
+
+## MCP4801-E/SN
+DAC 8bit 4.5µs SPI INL:0.125 [SOIC-8]
+
+![MCP4801-E/SN__1__1](/images/Microchip__MCP4801-E-SN__1__1.png?raw=true) 
 
 ## MCP4921-E/SN
 DAC 12bit 4.5µs SPI INL:12 [SOIC-8]
@@ -90,6 +103,9 @@ Sensor Temp 0-70C ±4C Analog [TO-92]
 Sensor Temp 0-70C ±4C Analog [SOT-23]
 
 ![MCP9701T-E/TT__1__1](/images/Microchip__MCP9701-E-TO__1__1.png?raw=true) 
+
+## MIC29502WU-TR
+![MIC29502WU-TR__1__1](/images/Microchip__MIC29502WU-TR__1__1.png?raw=true) 
 
 ## PIC10F200-I/P
 MCU 8bit/PIC ROM:384B RAM:16B [DIP-8]

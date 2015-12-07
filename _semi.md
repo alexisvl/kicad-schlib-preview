@@ -126,7 +126,7 @@ NPN (semi) voltage current (power) (ft) [footprint]
 ## NPN-2C
 NPN (semi) voltage current (power) (ft) [footprint]
 
-![NPN-2C__1__1](/images/semi-trans-PZT__PZT2222A__1__1.png?raw=true) 
+![NPN-2C__1__1](/images/_semi__NPN-2C__1__1.png?raw=true) 
 
 ## NPNDARL
 NPN Darl (semi) voltage current (power) (ft) [footprint]
@@ -218,7 +218,7 @@ PNP (semi) voltage current (power) (ft) [footprint]
 ## PNP-2C
 PNP (semi) voltage current (power) (ft) [footprint]
 
-![PNP-2C__1__1](/images/semi-trans-PZT__PZT2907A__1__1.png?raw=true) 
+![PNP-2C__1__1](/images/_semi__PNP-2C__1__1.png?raw=true) 
 
 ## PNPDARL
 PNP Darl (semi) voltage current (power) (ft) [footprint]

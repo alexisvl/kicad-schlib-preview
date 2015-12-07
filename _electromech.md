@@ -31,7 +31,7 @@ Millivoltmeter
 ## PUSH
 Switch, pushbutton
 
-![PUSH__1__1](/images/electomech-misc__TACT-TE-FSMSM__1__1.png?raw=true) 
+![PUSH__1__1](/images/_electromech__PUSH__1__1.png?raw=true) 
 
 ## RELAY_DPDT
 Relay, DPDT
@@ -45,7 +45,7 @@ Relay, DPDT, with diode
 
 ![RELAY_DPDT_DIODE__1__1](/images/_electromech__DPDT__1__1.png?raw=true) 
 ![RELAY_DPDT_DIODE__2__1](/images/_electromech__DPDT__1__1.png?raw=true) 
-![RELAY_DPDT_DIODE__3__1](/images/electomech-misc__RELAY-HAMLIN-HE3600-DIODE__2__1.png?raw=true) 
+![RELAY_DPDT_DIODE__3__1](/images/_electromech__RELAY_DPDT_DIODE__3__1.png?raw=true) 
 
 ## RELAY_SPDT
 Relay, SPDT
@@ -62,14 +62,14 @@ Relay, SPDT, with diode
 ## RELAY_SPST
 Relay, SPST
 
-![RELAY_SPST__1__1](/images/electomech-misc__RELAY-HAMLIN-HE3600__1__1.png?raw=true) 
+![RELAY_SPST__1__1](/images/_electromech__RELAY_SPST__1__1.png?raw=true) 
 ![RELAY_SPST__2__1](/images/_electromech__RELAY_SPDT__2__1.png?raw=true) 
 
 ## RELAY_SPST_DIODE
 Relay, SPST
 
-![RELAY_SPST_DIODE__1__1](/images/electomech-misc__RELAY-HAMLIN-HE3600__1__1.png?raw=true) 
-![RELAY_SPST_DIODE__2__1](/images/electomech-misc__RELAY-HAMLIN-HE3600-DIODE__2__1.png?raw=true) 
+![RELAY_SPST_DIODE__1__1](/images/_electromech__RELAY_SPST__1__1.png?raw=true) 
+![RELAY_SPST_DIODE__2__1](/images/_electromech__RELAY_DPDT_DIODE__3__1.png?raw=true) 
 
 ## ROTARY_PUSH
 Rotary encoder with pushbutton
@@ -105,7 +105,7 @@ Switch, MOM-OFF-MOM
 ## TACT
 Switch, SPST tactile
 
-![TACT__1__1](/images/electomech-misc__TACT-ESWITCH-TL1105__1__1.png?raw=true) 
+![TACT__1__1](/images/_electromech__TACT__1__1.png?raw=true) 
 
 ## UAMMETER
 Microammeter

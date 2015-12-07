@@ -8,12 +8,12 @@ NMOS 60V 310mA 1.6R 2.4Vth [SC-70]
 ## BFQ149
 PNP -15V -100mA 5GHz [SOT-89]
 
-![BFQ149__1__1](/images/semi-trans-PZT__PZT2907A__1__1.png?raw=true) 
+![BFQ149__1__1](/images/_semi__PNP-2C__1__1.png?raw=true) 
 
 ## BFQ19
 [obs] NPN 15V 100mA 5GHz [SOT-89]
 
-![BFQ19__1__1](/images/semi-trans-PZT__PZT2222A__1__1.png?raw=true) 
+![BFQ19__1__1](/images/_semi__NPN-2C__1__1.png?raw=true) 
 
 ## BFR540
 NPN 9 GHz wideband transistor
