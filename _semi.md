@@ -84,11 +84,13 @@ NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
 ![NMOS-2D__1__1](/images/_semi__NMOS-2D__1__1.png?raw=true) 
+![NMOS-2D__1__2](/images/_semi__NMOS-2D__1__2.png?raw=true) 
 
 ## NMOS-4D-3S
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
 ![NMOS-4D-3S__1__1](/images/_semi__NMOS-4D-3S__1__1.png?raw=true) 
+![NMOS-4D-3S__1__2](/images/_semi__NMOS-4D-3S__1__2.png?raw=true) 
 
 ## NMOS2G
 NMOS DG (semi) voltage current (Rdson) (Vgsth) [footprint]
@@ -124,6 +126,7 @@ NPN (semi) voltage current (power) (ft) [footprint]
 NPN (semi) voltage current (power) (ft) [footprint]
 
 ![NPN-2C__1__1](/images/_semi__NPN-2C__1__1.png?raw=true) 
+![NPN-2C__1__2](/images/_semi__NPN-2C__1__2.png?raw=true) 
 
 ## NPNDARL
 NPN Darl (semi) voltage current (power) (ft) [footprint]
@@ -189,11 +192,13 @@ PMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 PMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
 ![PMOS-2D__1__1](/images/_semi__PMOS-2D__1__1.png?raw=true) 
+![PMOS-2D__1__2](/images/_semi__PMOS-2D__1__2.png?raw=true) 
 
 ## PMOS-4D-3S
 PMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
 ![PMOS-4D-3S__1__1](/images/_semi__PMOS-4D-3S__1__1.png?raw=true) 
+![PMOS-4D-3S__1__2](/images/_semi__PMOS-4D-3S__1__2.png?raw=true) 
 
 ## PMOS4
 PMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
@@ -214,6 +219,7 @@ PNP (semi) voltage current (power) (ft) [footprint]
 PNP (semi) voltage current (power) (ft) [footprint]
 
 ![PNP-2C__1__1](/images/_semi__PNP-2C__1__1.png?raw=true) 
+![PNP-2C__1__2](/images/_semi__PNP-2C__1__2.png?raw=true) 
 
 ## PNPDARL
 PNP Darl (semi) voltage current (power) (ft) [footprint]

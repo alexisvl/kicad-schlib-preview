@@ -15,7 +15,7 @@ PNP, matched, -40V, -200mA, 200mW
 ## DMN3018SSS
 NMOS 30V 5.5A 35mR 1.7Vth [SOIC-8]
 
-![DMN3018SSS__1__1](/images/_semi__NMOS-4D-3S__1__1.png?raw=true) 
+![DMN3018SSS__1__1](/images/semi-trans-DiodesInc__DMN3018SSS__1__1.png?raw=true) 
 
 ## DMN63D8LV
 NMOS-enh, dual, 30V 160mA logic
