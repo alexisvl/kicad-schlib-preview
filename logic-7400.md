@@ -3,38 +3,38 @@
 ## 7400-DIP
 Quad NAND gate
 
-![7400-DIP__1__1](/images/logic-4000__4011-SO__1__1.png?raw=true) 
+![7400-DIP__1__1](/images/logic-7400__7400-DIP__1__1.png?raw=true) 
 ![7400-DIP__2__1](/images/logic-7400__7400-DIP__2__1.png?raw=true) 
 ![7400-DIP__3__1](/images/logic-7400__7400-DIP__3__1.png?raw=true) 
-![7400-DIP__4__1](/images/logic-4000__4011-SO__4__1.png?raw=true) 
-![7400-DIP__5__1](/images/logic-4000__4066-SO__5__1.png?raw=true) 
+![7400-DIP__4__1](/images/logic-7400__7400-DIP__4__1.png?raw=true) 
+![7400-DIP__5__1](/images/logic-7400__7400-DIP__5__1.png?raw=true) 
 
 ## 7400-SO
 Quad NAND gate
 
-![7400-SO__1__1](/images/logic-4000__4011-SO__1__1.png?raw=true) 
+![7400-SO__1__1](/images/logic-7400__7400-DIP__1__1.png?raw=true) 
 ![7400-SO__2__1](/images/logic-7400__7400-DIP__2__1.png?raw=true) 
 ![7400-SO__3__1](/images/logic-7400__7400-DIP__3__1.png?raw=true) 
-![7400-SO__4__1](/images/logic-4000__4011-SO__4__1.png?raw=true) 
-![7400-SO__5__1](/images/logic-4000__4066-SO__5__1.png?raw=true) 
+![7400-SO__4__1](/images/logic-7400__7400-DIP__4__1.png?raw=true) 
+![7400-SO__5__1](/images/logic-7400__7400-DIP__5__1.png?raw=true) 
 
 ## 7400-SSOP
 Quad NAND gate
 
-![7400-SSOP__1__1](/images/logic-4000__4011-SO__1__1.png?raw=true) 
+![7400-SSOP__1__1](/images/logic-7400__7400-DIP__1__1.png?raw=true) 
 ![7400-SSOP__2__1](/images/logic-7400__7400-DIP__2__1.png?raw=true) 
 ![7400-SSOP__3__1](/images/logic-7400__7400-DIP__3__1.png?raw=true) 
-![7400-SSOP__4__1](/images/logic-4000__4011-SO__4__1.png?raw=true) 
-![7400-SSOP__5__1](/images/logic-4000__4066-SO__5__1.png?raw=true) 
+![7400-SSOP__4__1](/images/logic-7400__7400-DIP__4__1.png?raw=true) 
+![7400-SSOP__5__1](/images/logic-7400__7400-DIP__5__1.png?raw=true) 
 
 ## 7400-TSSOP
 Quad NAND gate
 
-![7400-TSSOP__1__1](/images/logic-4000__4011-SO__1__1.png?raw=true) 
+![7400-TSSOP__1__1](/images/logic-7400__7400-DIP__1__1.png?raw=true) 
 ![7400-TSSOP__2__1](/images/logic-7400__7400-DIP__2__1.png?raw=true) 
 ![7400-TSSOP__3__1](/images/logic-7400__7400-DIP__3__1.png?raw=true) 
-![7400-TSSOP__4__1](/images/logic-4000__4011-SO__4__1.png?raw=true) 
-![7400-TSSOP__5__1](/images/logic-4000__4066-SO__5__1.png?raw=true) 
+![7400-TSSOP__4__1](/images/logic-7400__7400-DIP__4__1.png?raw=true) 
+![7400-TSSOP__5__1](/images/logic-7400__7400-DIP__5__1.png?raw=true) 
 
 ## 7404-DIP
 Hex inverting Schmitt trigger
@@ -83,45 +83,45 @@ Hex inverting Schmitt trigger
 ## 7414-DIP
 Hex inverting Schmitt trigger
 
-![7414-DIP__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
-![7414-DIP__2__1](/images/logic-4000__40106-SO__2__1.png?raw=true) 
-![7414-DIP__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
-![7414-DIP__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
-![7414-DIP__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 
-![7414-DIP__6__1](/images/logic-4000__40106-SO__6__1.png?raw=true) 
+![7414-DIP__1__1](/images/logic-7400__7414-DIP__1__1.png?raw=true) 
+![7414-DIP__2__1](/images/logic-7400__7414-DIP__2__1.png?raw=true) 
+![7414-DIP__3__1](/images/logic-7400__7414-DIP__3__1.png?raw=true) 
+![7414-DIP__4__1](/images/logic-7400__7414-DIP__4__1.png?raw=true) 
+![7414-DIP__5__1](/images/logic-7400__7414-DIP__5__1.png?raw=true) 
+![7414-DIP__6__1](/images/logic-7400__7414-DIP__6__1.png?raw=true) 
 ![7414-DIP__7__1](/images/logic-7400__7404-DIP__7__1.png?raw=true) 
 
 ## 7414-SO
 Hex inverting Schmitt trigger
 
-![7414-SO__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
-![7414-SO__2__1](/images/logic-4000__40106-SO__2__1.png?raw=true) 
-![7414-SO__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
-![7414-SO__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
-![7414-SO__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 
-![7414-SO__6__1](/images/logic-4000__40106-SO__6__1.png?raw=true) 
+![7414-SO__1__1](/images/logic-7400__7414-DIP__1__1.png?raw=true) 
+![7414-SO__2__1](/images/logic-7400__7414-DIP__2__1.png?raw=true) 
+![7414-SO__3__1](/images/logic-7400__7414-DIP__3__1.png?raw=true) 
+![7414-SO__4__1](/images/logic-7400__7414-DIP__4__1.png?raw=true) 
+![7414-SO__5__1](/images/logic-7400__7414-DIP__5__1.png?raw=true) 
+![7414-SO__6__1](/images/logic-7400__7414-DIP__6__1.png?raw=true) 
 ![7414-SO__7__1](/images/logic-7400__7404-DIP__7__1.png?raw=true) 
 
 ## 7414-SSOP
 Hex inverting Schmitt trigger
 
-![7414-SSOP__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
-![7414-SSOP__2__1](/images/logic-4000__40106-SO__2__1.png?raw=true) 
-![7414-SSOP__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
-![7414-SSOP__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
-![7414-SSOP__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 
-![7414-SSOP__6__1](/images/logic-4000__40106-SO__6__1.png?raw=true) 
+![7414-SSOP__1__1](/images/logic-7400__7414-DIP__1__1.png?raw=true) 
+![7414-SSOP__2__1](/images/logic-7400__7414-DIP__2__1.png?raw=true) 
+![7414-SSOP__3__1](/images/logic-7400__7414-DIP__3__1.png?raw=true) 
+![7414-SSOP__4__1](/images/logic-7400__7414-DIP__4__1.png?raw=true) 
+![7414-SSOP__5__1](/images/logic-7400__7414-DIP__5__1.png?raw=true) 
+![7414-SSOP__6__1](/images/logic-7400__7414-DIP__6__1.png?raw=true) 
 ![7414-SSOP__7__1](/images/logic-7400__7404-DIP__7__1.png?raw=true) 
 
 ## 7414-TSSOP
 Hex inverting Schmitt trigger
 
-![7414-TSSOP__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
-![7414-TSSOP__2__1](/images/logic-4000__40106-SO__2__1.png?raw=true) 
-![7414-TSSOP__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
-![7414-TSSOP__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
-![7414-TSSOP__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 
-![7414-TSSOP__6__1](/images/logic-4000__40106-SO__6__1.png?raw=true) 
+![7414-TSSOP__1__1](/images/logic-7400__7414-DIP__1__1.png?raw=true) 
+![7414-TSSOP__2__1](/images/logic-7400__7414-DIP__2__1.png?raw=true) 
+![7414-TSSOP__3__1](/images/logic-7400__7414-DIP__3__1.png?raw=true) 
+![7414-TSSOP__4__1](/images/logic-7400__7414-DIP__4__1.png?raw=true) 
+![7414-TSSOP__5__1](/images/logic-7400__7414-DIP__5__1.png?raw=true) 
+![7414-TSSOP__6__1](/images/logic-7400__7414-DIP__6__1.png?raw=true) 
 ![7414-TSSOP__7__1](/images/logic-7400__7404-DIP__7__1.png?raw=true) 
 
 ## 74141-DIP
@@ -132,19 +132,19 @@ TTL Nixie tube driver
 
 ## 74153-DIP
 ![74153-DIP__1__1](/images/logic-7400__74153-DIP__1__1.png?raw=true) 
-![74153-DIP__2__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
+![74153-DIP__2__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
 
 ## 74153-SO
 ![74153-SO__1__1](/images/logic-7400__74153-DIP__1__1.png?raw=true) 
-![74153-SO__2__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
+![74153-SO__2__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
 
 ## 74153-SSOP
 ![74153-SSOP__1__1](/images/logic-7400__74153-DIP__1__1.png?raw=true) 
-![74153-SSOP__2__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
+![74153-SSOP__2__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
 
 ## 74153-TSSOP
 ![74153-TSSOP__1__1](/images/logic-7400__74153-DIP__1__1.png?raw=true) 
-![74153-TSSOP__2__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
+![74153-TSSOP__2__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
 
 ## 74165-DIP
 PI, SO 8-bit latching shift register
@@ -216,7 +216,7 @@ Octal bus transciever
 Hex inverting Schmitt trigger
 
 ![742G14-SOT363__1__1](/images/logic-7400__742G14-SOT363__1__1.png?raw=true) 
-![742G14-SOT363__2__1](/images/logic-4000__40106-SO__2__1.png?raw=true) 
+![742G14-SOT363__2__1](/images/logic-7400__7414-DIP__2__1.png?raw=true) 
 ![742G14-SOT363__3__1](/images/logic-7400__742G14-SOT363__3__1.png?raw=true) 
 
 ## 7430-TSSOP
@@ -229,25 +229,25 @@ Eight-input NAND gate
 SI, S/PO 8-bit latching shift register
 
 ![74595-DIP__1__1](/images/logic-7400__74595-DIP__1__1.png?raw=true) 
-![74595-DIP__2__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
+![74595-DIP__2__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
 
 ## 74595-SO
 SI, S/PO 8-bit latching shift register
 
 ![74595-SO__1__1](/images/logic-7400__74595-DIP__1__1.png?raw=true) 
-![74595-SO__2__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
+![74595-SO__2__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
 
 ## 74595-SSOP
 SI, S/PO 8-bit latching shift register
 
 ![74595-SSOP__1__1](/images/logic-7400__74595-DIP__1__1.png?raw=true) 
-![74595-SSOP__2__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
+![74595-SSOP__2__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
 
 ## 74595-TSSOP
 SI, S/PO 8-bit latching shift register
 
 ![74595-TSSOP__1__1](/images/logic-7400__74595-DIP__1__1.png?raw=true) 
-![74595-TSSOP__2__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
+![74595-TSSOP__2__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
 
 ## 7474-DIP
 Dual pos-edge D flip flop

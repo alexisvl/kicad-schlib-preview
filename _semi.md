@@ -4,16 +4,13 @@
 Diode.4 Bridge voltage current [footprint]
 
 ![BRIDGE__1__1](/images/_semi__BRIDGE__1__1.png?raw=true) 
+![BRIDGE__1__2](/images/_semi__BRIDGE__1__2.png?raw=true) 
 
 ## BRIDGE-SCH
 Schottky.4 Bridge voltage current [footprint]
 
 ![BRIDGE-SCH__1__1](/images/_semi__BRIDGE-SCH__1__1.png?raw=true) 
-
-## BRIDGE2
-Diode.4 Bridge voltage current [footprint]
-
-![BRIDGE2__1__1](/images/_semi__BRIDGE2__1__1.png?raw=true) 
+![BRIDGE-SCH__1__2](/images/_semi__BRIDGE-SCH__1__2.png?raw=true) 
 
 ## DIAC
 DIAC [footprint]
@@ -46,7 +43,7 @@ Diode.2 CK voltage current [footprint]
 ## DPIN
 Diode PIN voltage current [footprint]
 
-![DPIN__1__1](/images/_semi__DPIN__1__1.png?raw=true) 
+![DPIN__1__1](/images/semi-diode-Toshiba__1SS381__1__1.png?raw=true) 
 
 ## IGBT
 IGBT voltage current (power) [footprint]
@@ -132,21 +129,19 @@ NPN (semi) voltage current (power) (ft) [footprint]
 NPN Darl (semi) voltage current (power) (ft) [footprint]
 
 ![NPNDARL__1__1](/images/_semi__NPNDARL__1__1.png?raw=true) 
+![NPNDARL__1__2](/images/_semi__NPNDARL__1__2.png?raw=true) 
 
 ## NPNDARL-2C
 NPN Darl (semi) voltage current (power) (ft) [footprint]
 
 ![NPNDARL-2C__1__1](/images/_semi__NPNDARL-2C__1__1.png?raw=true) 
+![NPNDARL-2C__1__2](/images/_semi__NPNDARL-2C__1__2.png?raw=true) 
 
 ## NPNDARL-FULL
 NPN Darl (semi) voltage current (power) (ft) [footprint]
 
 ![NPNDARL-FULL__1__1](/images/_semi__NPNDARL-FULL__1__1.png?raw=true) 
-
-## NPNDARL2
-NPN (semi) voltage current (power) (ft) [footprint]
-
-![NPNDARL2__1__1](/images/_semi__NPNDARL2__1__1.png?raw=true) 
+![NPNDARL-FULL__1__2](/images/_semi__NPNDARL__1__2.png?raw=true) 
 
 ## NPNDUAL
 NPN.2 (semi) voltage current (power) (ft) [footprint]
@@ -224,16 +219,19 @@ PNP (semi) voltage current (power) (ft) [footprint]
 PNP Darl (semi) voltage current (power) (ft) [footprint]
 
 ![PNPDARL__1__1](/images/_semi__PNPDARL__1__1.png?raw=true) 
+![PNPDARL__1__2](/images/_semi__PNPDARL__1__2.png?raw=true) 
 
 ## PNPDARL-2C
 PNP (semi) voltage current (power) (ft) [footprint]
 
 ![PNPDARL-2C__1__1](/images/_semi__PNPDARL-2C__1__1.png?raw=true) 
+![PNPDARL-2C__1__2](/images/_semi__PNPDARL-2C__1__2.png?raw=true) 
 
 ## PNPDARL-FULL
 PNP Darl (semi) voltage current (power) (ft) [footprint]
 
 ![PNPDARL-FULL__1__1](/images/_semi__PNPDARL-FULL__1__1.png?raw=true) 
+![PNPDARL-FULL__1__2](/images/_semi__PNPDARL__1__2.png?raw=true) 
 
 ## PNPDUAL
 PNP.2 (semi) voltage current (power) (ft) [footprint]
@@ -304,7 +302,7 @@ UJT voltage power [footprint]
 ## VARICAP
 Varicap voltage Cjrange [footprint]
 
-![VARICAP__1__1](/images/_semi__VARICAP__1__1.png?raw=true) 
+![VARICAP__1__1](/images/semi-diode-Toshiba__1SV305__1__1.png?raw=true) 
 
 ## ZENER
 Zener voltage power Iz:zenertestcurrent [footprint]

@@ -3,32 +3,32 @@
 ## TIP120
 NPN-D amplifier, 5A, 60V, 2-65W
 
-![TIP120__1__1](/images/_semi__NPNDARL__1__1.png?raw=true) 
+![TIP120__1__1](/images/semi-trans-TIP__TIP120__1__1.png?raw=true) 
 
 ## TIP121
 NPN-D amplifier, 5A, 80V, 2-65W
 
-![TIP121__1__1](/images/_semi__NPNDARL__1__1.png?raw=true) 
+![TIP121__1__1](/images/semi-trans-TIP__TIP120__1__1.png?raw=true) 
 
 ## TIP122
 NPN-D amplifier, 5A, 100V, 2-65W
 
-![TIP122__1__1](/images/_semi__NPNDARL__1__1.png?raw=true) 
+![TIP122__1__1](/images/semi-trans-TIP__TIP120__1__1.png?raw=true) 
 
 ## TIP125
 PNP-D amplifier, -5A, -60V, 2-65W
 
-![TIP125__1__1](/images/_semi__PNPDARL__1__1.png?raw=true) 
+![TIP125__1__1](/images/semi-trans-TIP__TIP125__1__1.png?raw=true) 
 
 ## TIP126
 PNP-D amplifier, -5A, -80V, 2-65W
 
-![TIP126__1__1](/images/_semi__PNPDARL__1__1.png?raw=true) 
+![TIP126__1__1](/images/semi-trans-TIP__TIP125__1__1.png?raw=true) 
 
 ## TIP127
 PNP-D amplifier, -5A, -100V, 2-65W
 
-![TIP127__1__1](/images/_semi__PNPDARL__1__1.png?raw=true) 
+![TIP127__1__1](/images/semi-trans-TIP__TIP125__1__1.png?raw=true) 
 
 ## TIP140
 NPN-D amplifier, 10A, 60V, 125W, with resistors and diode

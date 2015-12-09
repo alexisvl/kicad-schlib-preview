@@ -365,8 +365,6 @@ OpAmp VFB 200MHz 4100V/µs [DIP-8]
 ![LM7171BIN__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## LM7705
-Reg SwCap in:5V -230mV 26mA 92kHz [VSSOP-8]
-
 ![LM7705__1__1](/images/TexasInstruments__LM7705__1__1.png?raw=true) 
 
 ## LMH6552SD
@@ -553,7 +551,7 @@ Logic.2 Inverter LVCMOS [SOT-23-6]
 Logic.2 InvSchmitt LVCMOS [SOT-23-6]
 
 ![SN74LVC2G14DBV__1__1](/images/logic-7400__742G14-SOT363__1__1.png?raw=true) 
-![SN74LVC2G14DBV__2__1](/images/logic-4000__40106-SO__2__1.png?raw=true) 
+![SN74LVC2G14DBV__2__1](/images/logic-7400__7414-DIP__2__1.png?raw=true) 
 ![SN74LVC2G14DBV__3__1](/images/AnalogDevices__ADCMP604BKSZ__2__1.png?raw=true) 
 
 ## SN75176BDR

@@ -52,8 +52,3 @@ Reg Lin -500mA [TO-252]
 
 ![MC79MvvCDT__1__1](/images/ST__L79vvCD2T__1__1.png?raw=true) 
 
-## NUF2042XV6
-InputProt RC+TVS USB [SOT-563]
-
-![NUF2042XV6__1__1](/images/onsemi__NUF2042XV6__1__1.png?raw=true) 
-
