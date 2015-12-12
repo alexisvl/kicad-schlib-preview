@@ -3,28 +3,28 @@
 ## 4011-SO
 Quad NAND gate
 
-![4011-SO__1__1](/images/logic-7400__7400-DIP__1__1.png?raw=true) 
+![4011-SO__1__1](/images/logic-4000__4011-SO__1__1.png?raw=true) 
 ![4011-SO__2__1](/images/logic-4000__4011-SO__2__1.png?raw=true) 
 ![4011-SO__3__1](/images/logic-4000__4011-SO__3__1.png?raw=true) 
-![4011-SO__4__1](/images/logic-7400__7400-DIP__4__1.png?raw=true) 
+![4011-SO__4__1](/images/logic-4000__4011-SO__4__1.png?raw=true) 
 ![4011-SO__5__1](/images/logic-4000__4011-SO__5__1.png?raw=true) 
 
 ## 4011-SSOP
 Quad NAND gate
 
-![4011-SSOP__1__1](/images/logic-7400__7400-DIP__1__1.png?raw=true) 
+![4011-SSOP__1__1](/images/logic-4000__4011-SO__1__1.png?raw=true) 
 ![4011-SSOP__2__1](/images/logic-4000__4011-SO__2__1.png?raw=true) 
 ![4011-SSOP__3__1](/images/logic-4000__4011-SO__3__1.png?raw=true) 
-![4011-SSOP__4__1](/images/logic-7400__7400-DIP__4__1.png?raw=true) 
+![4011-SSOP__4__1](/images/logic-4000__4011-SO__4__1.png?raw=true) 
 ![4011-SSOP__5__1](/images/logic-4000__4011-SO__5__1.png?raw=true) 
 
 ## 4011-TSSOP
 Quad NAND gate
 
-![4011-TSSOP__1__1](/images/logic-7400__7400-DIP__1__1.png?raw=true) 
+![4011-TSSOP__1__1](/images/logic-4000__4011-SO__1__1.png?raw=true) 
 ![4011-TSSOP__2__1](/images/logic-4000__4011-SO__2__1.png?raw=true) 
 ![4011-TSSOP__3__1](/images/logic-4000__4011-SO__3__1.png?raw=true) 
-![4011-TSSOP__4__1](/images/logic-7400__7400-DIP__4__1.png?raw=true) 
+![4011-TSSOP__4__1](/images/logic-4000__4011-SO__4__1.png?raw=true) 
 ![4011-TSSOP__5__1](/images/logic-4000__4011-SO__5__1.png?raw=true) 
 
 ## 4051-SO
@@ -90,17 +90,17 @@ Quad NAND gate
 ## 4046-SO
 ![4046-SO__1__1](/images/logic-4000__4046-SO__1__1.png?raw=true) 
 ![4046-SO__2__1](/images/logic-4000__4046-SO__2__1.png?raw=true) 
-![4046-SO__3__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
+![4046-SO__3__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
 
 ## 4046-SSOP
 ![4046-SSOP__1__1](/images/logic-4000__4046-SO__1__1.png?raw=true) 
 ![4046-SSOP__2__1](/images/logic-4000__4046-SO__2__1.png?raw=true) 
-![4046-SSOP__3__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
+![4046-SSOP__3__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
 
 ## 4046-TSSOP
 ![4046-TSSOP__1__1](/images/logic-4000__4046-SO__1__1.png?raw=true) 
 ![4046-TSSOP__2__1](/images/logic-4000__4046-SO__2__1.png?raw=true) 
-![4046-TSSOP__3__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
+![4046-TSSOP__3__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
 
 ## 4059-DIP-W
 Programmable divide-by-n counter
@@ -121,7 +121,7 @@ Quad analog switch
 ![4066-SO__2__1](/images/logic-4000__4066-SO__2__1.png?raw=true) 
 ![4066-SO__3__1](/images/logic-4000__4066-SO__3__1.png?raw=true) 
 ![4066-SO__4__1](/images/logic-4000__4066-SO__4__1.png?raw=true) 
-![4066-SO__5__1](/images/logic-7400__7400-DIP__5__1.png?raw=true) 
+![4066-SO__5__1](/images/logic-4000__4066-SO__5__1.png?raw=true) 
 
 ## 4066-SSOP
 Quad analog switch
@@ -130,7 +130,7 @@ Quad analog switch
 ![4066-SSOP__2__1](/images/logic-4000__4066-SO__2__1.png?raw=true) 
 ![4066-SSOP__3__1](/images/logic-4000__4066-SO__3__1.png?raw=true) 
 ![4066-SSOP__4__1](/images/logic-4000__4066-SO__4__1.png?raw=true) 
-![4066-SSOP__5__1](/images/logic-7400__7400-DIP__5__1.png?raw=true) 
+![4066-SSOP__5__1](/images/logic-4000__4066-SO__5__1.png?raw=true) 
 
 ## 4066-TSSOP
 Quad analog switch
@@ -139,48 +139,48 @@ Quad analog switch
 ![4066-TSSOP__2__1](/images/logic-4000__4066-SO__2__1.png?raw=true) 
 ![4066-TSSOP__3__1](/images/logic-4000__4066-SO__3__1.png?raw=true) 
 ![4066-TSSOP__4__1](/images/logic-4000__4066-SO__4__1.png?raw=true) 
-![4066-TSSOP__5__1](/images/logic-7400__7400-DIP__5__1.png?raw=true) 
+![4066-TSSOP__5__1](/images/logic-4000__4066-SO__5__1.png?raw=true) 
 
 ## 40106-SO
 Hex inverting Schmitt trigger
 
-![40106-SO__1__1](/images/logic-7400__7414-DIP__1__1.png?raw=true) 
-![40106-SO__2__1](/images/logic-7400__7414-DIP__2__1.png?raw=true) 
-![40106-SO__3__1](/images/logic-7400__7414-DIP__3__1.png?raw=true) 
-![40106-SO__4__1](/images/logic-7400__7414-DIP__4__1.png?raw=true) 
-![40106-SO__5__1](/images/logic-7400__7414-DIP__5__1.png?raw=true) 
-![40106-SO__6__1](/images/logic-7400__7414-DIP__6__1.png?raw=true) 
+![40106-SO__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
+![40106-SO__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
+![40106-SO__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
+![40106-SO__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
+![40106-SO__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 
+![40106-SO__6__1](/images/logic-4000__40106-SO__6__1.png?raw=true) 
 ![40106-SO__7__1](/images/logic-4000__40106-SO__7__1.png?raw=true) 
 
 ## 40106-SSOP
 Hex inverting Schmitt trigger
 
-![40106-SSOP__1__1](/images/logic-7400__7414-DIP__1__1.png?raw=true) 
-![40106-SSOP__2__1](/images/logic-7400__7414-DIP__2__1.png?raw=true) 
-![40106-SSOP__3__1](/images/logic-7400__7414-DIP__3__1.png?raw=true) 
-![40106-SSOP__4__1](/images/logic-7400__7414-DIP__4__1.png?raw=true) 
-![40106-SSOP__5__1](/images/logic-7400__7414-DIP__5__1.png?raw=true) 
-![40106-SSOP__6__1](/images/logic-7400__7414-DIP__6__1.png?raw=true) 
+![40106-SSOP__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
+![40106-SSOP__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
+![40106-SSOP__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
+![40106-SSOP__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
+![40106-SSOP__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 
+![40106-SSOP__6__1](/images/logic-4000__40106-SO__6__1.png?raw=true) 
 ![40106-SSOP__7__1](/images/logic-4000__40106-SO__7__1.png?raw=true) 
 
 ## 40106-TSSOP
 Hex inverting Schmitt trigger
 
-![40106-TSSOP__1__1](/images/logic-7400__7414-DIP__1__1.png?raw=true) 
-![40106-TSSOP__2__1](/images/logic-7400__7414-DIP__2__1.png?raw=true) 
-![40106-TSSOP__3__1](/images/logic-7400__7414-DIP__3__1.png?raw=true) 
-![40106-TSSOP__4__1](/images/logic-7400__7414-DIP__4__1.png?raw=true) 
-![40106-TSSOP__5__1](/images/logic-7400__7414-DIP__5__1.png?raw=true) 
-![40106-TSSOP__6__1](/images/logic-7400__7414-DIP__6__1.png?raw=true) 
+![40106-TSSOP__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
+![40106-TSSOP__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
+![40106-TSSOP__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
+![40106-TSSOP__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
+![40106-TSSOP__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 
+![40106-TSSOP__6__1](/images/logic-4000__40106-SO__6__1.png?raw=true) 
 ![40106-TSSOP__7__1](/images/logic-4000__40106-SO__7__1.png?raw=true) 
 
 ## 4011-DIP
 Quad NAND gate
 
-![4011-DIP__1__1](/images/logic-7400__7400-DIP__1__1.png?raw=true) 
+![4011-DIP__1__1](/images/logic-4000__4011-SO__1__1.png?raw=true) 
 ![4011-DIP__2__1](/images/logic-4000__4011-SO__2__1.png?raw=true) 
 ![4011-DIP__3__1](/images/logic-4000__4011-SO__3__1.png?raw=true) 
-![4011-DIP__4__1](/images/logic-7400__7400-DIP__4__1.png?raw=true) 
+![4011-DIP__4__1](/images/logic-4000__4011-SO__4__1.png?raw=true) 
 ![4011-DIP__5__1](/images/logic-4000__4011-SO__5__1.png?raw=true) 
 
 ## 4051-DIP
@@ -206,7 +206,7 @@ Quad NAND gate
 ## 4046-DIP
 ![4046-DIP__1__1](/images/logic-4000__4046-SO__1__1.png?raw=true) 
 ![4046-DIP__2__1](/images/logic-4000__4046-SO__2__1.png?raw=true) 
-![4046-DIP__3__1](/images/logic-7400__74153-DIP__2__1.png?raw=true) 
+![4046-DIP__3__1](/images/logic-4000__4046-SO__3__1.png?raw=true) 
 
 ## 4059-DIP
 Programmable divide-by-n counter
@@ -221,16 +221,16 @@ Quad analog switch
 ![4066-DIP__2__1](/images/logic-4000__4066-SO__2__1.png?raw=true) 
 ![4066-DIP__3__1](/images/logic-4000__4066-SO__3__1.png?raw=true) 
 ![4066-DIP__4__1](/images/logic-4000__4066-SO__4__1.png?raw=true) 
-![4066-DIP__5__1](/images/logic-7400__7400-DIP__5__1.png?raw=true) 
+![4066-DIP__5__1](/images/logic-4000__4066-SO__5__1.png?raw=true) 
 
 ## 40106-DIP
 Hex inverting Schmitt trigger
 
-![40106-DIP__1__1](/images/logic-7400__7414-DIP__1__1.png?raw=true) 
-![40106-DIP__2__1](/images/logic-7400__7414-DIP__2__1.png?raw=true) 
-![40106-DIP__3__1](/images/logic-7400__7414-DIP__3__1.png?raw=true) 
-![40106-DIP__4__1](/images/logic-7400__7414-DIP__4__1.png?raw=true) 
-![40106-DIP__5__1](/images/logic-7400__7414-DIP__5__1.png?raw=true) 
-![40106-DIP__6__1](/images/logic-7400__7414-DIP__6__1.png?raw=true) 
+![40106-DIP__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
+![40106-DIP__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
+![40106-DIP__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
+![40106-DIP__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
+![40106-DIP__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 
+![40106-DIP__6__1](/images/logic-4000__40106-SO__6__1.png?raw=true) 
 ![40106-DIP__7__1](/images/logic-4000__40106-SO__7__1.png?raw=true) 
 

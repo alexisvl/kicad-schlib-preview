@@ -13,5 +13,7 @@
 ![LPDDR-SDRAM-60VFBGA__2__1](/images/Micron__LPDDR-SDRAM-60VFBGA__2__1.png?raw=true) 
 
 ## M25PX80-VMN6TP
+Mem Flash 1MB SPI 75MHz [SOIC-8]
+
 ![M25PX80-VMN6TP__1__1](/images/Micron__M25PX80-VMN6TP__1__1.png?raw=true) 
 

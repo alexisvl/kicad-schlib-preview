@@ -95,7 +95,7 @@ Amp SampleHold 4µs LowIB [DIP-8]
 ## LM1086IT-v.v
 Reg LDO 1.5A [TO-220]
 
-![LM1086IT-v.v__1__1](/images/ST__L79vvCD2T__1__1.png?raw=true) 
+![LM1086IT-v.v__1__1](/images/TexasInstruments__LM1086IT-v.v__1__1.png?raw=true) 
 
 ## LM1117DT-ADJ
 Reg LDO AdjV 800mA [TO-252]
@@ -105,7 +105,7 @@ Reg LDO AdjV 800mA [TO-252]
 ## LM1117DT-v.v
 Reg LDO 800mA [TO-252]
 
-![LM1117DT-v.v__1__1](/images/ST__L79vvCV__1__1.png?raw=true) 
+![LM1117DT-v.v__1__1](/images/TexasInstruments__LM1117DT-v.v__1__1.png?raw=true) 
 
 ## LM1117IMP-ADJ
 Reg LDO AdjV 800mA [SOT-223]
@@ -125,7 +125,7 @@ Reg LDO AdjV 800mA [TO-263]
 ## LM1117SX-v.v
 Reg LDO 800mA [TO-263]
 
-![LM1117SX-v.v__1__1](/images/ST__L79vvCV__1__1.png?raw=true) 
+![LM1117SX-v.v__1__1](/images/TexasInstruments__LM1117DT-v.v__1__1.png?raw=true) 
 
 ## LM1117T-ADJ
 Reg LDO AdjV 800mA [TO-220]
@@ -135,7 +135,7 @@ Reg LDO AdjV 800mA [TO-220]
 ## LM1117T-v.v
 Reg LDO 800mA [TO-220]
 
-![LM1117T-v.v__1__1](/images/ST__L79vvCD2T__1__1.png?raw=true) 
+![LM1117T-v.v__1__1](/images/TexasInstruments__LM1086IT-v.v__1__1.png?raw=true) 
 
 ## LM20323MH
 Reg Buck in:36V AdjV 3A 520kHz Sync [TSSOP-20-PP]
@@ -365,6 +365,8 @@ OpAmp VFB 200MHz 4100V/µs [DIP-8]
 ![LM7171BIN__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## LM7705
+Reg SwCap in:5V -230mV 26mA 92kHz [VSSOP-8]
+
 ![LM7705__1__1](/images/TexasInstruments__LM7705__1__1.png?raw=true) 
 
 ## LMH6552SD
@@ -544,14 +546,14 @@ AnSwitch SPDT CMOS [SOT-23-6]
 Logic.2 Inverter LVCMOS [SOT-23-6]
 
 ![SN74LVC2G04DBV__1__1](/images/TexasInstruments__SN74LVC2G04DBV__1__1.png?raw=true) 
-![SN74LVC2G04DBV__2__1](/images/logic-7400__7404-DIP__2__1.png?raw=true) 
+![SN74LVC2G04DBV__2__1](/images/TexasInstruments__SN74LVC2G04DBV__2__1.png?raw=true) 
 ![SN74LVC2G04DBV__3__1](/images/AnalogDevices__ADCMP604BKSZ__2__1.png?raw=true) 
 
 ## SN74LVC2G14DBV
 Logic.2 InvSchmitt LVCMOS [SOT-23-6]
 
-![SN74LVC2G14DBV__1__1](/images/logic-7400__742G14-SOT363__1__1.png?raw=true) 
-![SN74LVC2G14DBV__2__1](/images/logic-7400__7414-DIP__2__1.png?raw=true) 
+![SN74LVC2G14DBV__1__1](/images/TexasInstruments__SN74LVC2G14DBV__1__1.png?raw=true) 
+![SN74LVC2G14DBV__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
 ![SN74LVC2G14DBV__3__1](/images/AnalogDevices__ADCMP604BKSZ__2__1.png?raw=true) 
 
 ## SN75176BDR

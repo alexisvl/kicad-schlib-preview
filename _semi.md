@@ -35,7 +35,7 @@ Diode.2 CK voltage current [footprint]
 ![DIODE-CK__1__2](/images/_semi__DIODE-CK__1__2.png?raw=true) 
 
 ## DIODE-SERIES
-Diode.2 CK voltage current [footprint]
+Diode.2 Series voltage current [footprint]
 
 ![DIODE-SERIES__1__1](/images/_semi__DIODE-SERIES__1__1.png?raw=true) 
 ![DIODE-SERIES__1__2](/images/_semi__DIODE-SERIES__1__2.png?raw=true) 
@@ -43,12 +43,13 @@ Diode.2 CK voltage current [footprint]
 ## DPIN
 Diode PIN voltage current [footprint]
 
-![DPIN__1__1](/images/semi-diode-Toshiba__1SS381__1__1.png?raw=true) 
+![DPIN__1__1](/images/_semi__DPIN__1__1.png?raw=true) 
 
 ## IGBT
 IGBT voltage current (power) [footprint]
 
 ![IGBT__1__1](/images/_semi__IGBT__1__1.png?raw=true) 
+![IGBT__1__2](/images/_semi__IGBT__1__2.png?raw=true) 
 
 ## LED
 LED color wavelength voltage current [footprint]
@@ -140,17 +141,11 @@ NPN Darl (semi) voltage current (power) (ft) [footprint]
 ![NPNDARL-2C__1__1](/images/_semi__NPNDARL-2C__1__1.png?raw=true) 
 ![NPNDARL-2C__1__2](/images/_semi__NPNDARL-2C__1__2.png?raw=true) 
 
-## NPNDARL-FULL
-NPN Darl (semi) voltage current (power) (ft) [footprint]
-
-![NPNDARL-FULL__1__1](/images/_semi__NPNDARL-FULL__1__1.png?raw=true) 
-![NPNDARL-FULL__1__2](/images/_semi__NPNDARL__1__2.png?raw=true) 
-
 ## NPNDUAL
 NPN.2 (semi) voltage current (power) (ft) [footprint]
 
 ![NPNDUAL__1__1](/images/_semi__NPNDUAL__1__1.png?raw=true) 
-![NPNDUAL__2__1](/images/_semi__NPNDUAL__1__1.png?raw=true) 
+![NPNDUAL__2__1](/images/_semi__NPNDUAL__2__1.png?raw=true) 
 
 ## NPNLTP
 NPN.2 CE (semi) voltage current (power) (ft) [footprint]
@@ -233,17 +228,11 @@ PNP (semi) voltage current (power) (ft) [footprint]
 ![PNPDARL-2C__1__1](/images/_semi__PNPDARL-2C__1__1.png?raw=true) 
 ![PNPDARL-2C__1__2](/images/_semi__PNPDARL-2C__1__2.png?raw=true) 
 
-## PNPDARL-FULL
-PNP Darl (semi) voltage current (power) (ft) [footprint]
-
-![PNPDARL-FULL__1__1](/images/_semi__PNPDARL-FULL__1__1.png?raw=true) 
-![PNPDARL-FULL__1__2](/images/_semi__PNPDARL__1__2.png?raw=true) 
-
 ## PNPDUAL
 PNP.2 (semi) voltage current (power) (ft) [footprint]
 
 ![PNPDUAL__1__1](/images/_semi__PNPDUAL__1__1.png?raw=true) 
-![PNPDUAL__2__1](/images/_semi__PNPDUAL__1__1.png?raw=true) 
+![PNPDUAL__2__1](/images/_semi__PNPDUAL__2__1.png?raw=true) 
 
 ## PNPLTP
 PNP.2 CE (semi) voltage current (power) (ft) [footprint]
@@ -264,16 +253,19 @@ Schottky voltage current [footprint]
 Schottky.2 CA voltage current [footprint]
 
 ![SCHOTTKY-CA__1__1](/images/_semi__SCHOTTKY-CA__1__1.png?raw=true) 
+![SCHOTTKY-CA__1__2](/images/_semi__SCHOTTKY-CA__1__2.png?raw=true) 
 
 ## SCHOTTKY-CK
 Schottky.2 CK voltage current [footprint]
 
 ![SCHOTTKY-CK__1__1](/images/_semi__SCHOTTKY-CK__1__1.png?raw=true) 
+![SCHOTTKY-CK__1__2](/images/_semi__SCHOTTKY-CK__1__2.png?raw=true) 
 
 ## SCHOTTKY-SERIES
 Schottky.2 Series voltage current [footprint]
 
 ![SCHOTTKY-SERIES__1__1](/images/_semi__SCHOTTKY-SERIES__1__1.png?raw=true) 
+![SCHOTTKY-SERIES__1__2](/images/_semi__SCHOTTKY-SERIES__1__2.png?raw=true) 
 
 ## SCR
 SCR voltage current (I_TSM) [footprint]
@@ -308,7 +300,7 @@ UJT voltage power [footprint]
 ## VARICAP
 Varicap voltage Cjrange [footprint]
 
-![VARICAP__1__1](/images/semi-diode-Toshiba__1SV305__1__1.png?raw=true) 
+![VARICAP__1__1](/images/_semi__VARICAP__1__1.png?raw=true) 
 
 ## ZENER
 Zener voltage power Iz:zenertestcurrent [footprint]
