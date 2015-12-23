@@ -489,6 +489,13 @@ OpAmp.2 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [VSSOP-8]
 ![OPA2376AIDGK__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
 ![OPA2376AIDGK__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
 
+## OPA2378AIDCN
+OpAmp.2 900kHz RRI RRO VLowVos VLowIB AutoZero [SOT-23-8]
+
+![OPA2378AIDCN__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
+![OPA2378AIDCN__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
+![OPA2378AIDCN__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+
 ## OPA376AID
 OpAmp 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [SOIC-8]
 
@@ -506,6 +513,18 @@ OpAmp 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [SC-70-5]
 
 ![OPA376AIDCK__1__1](/images/TexasInstruments__OPA376AIDCK__1__1.png?raw=true) 
 ![OPA376AIDCK__2__1](/images/AnalogDevices__AD8601ARTZ__2__1.png?raw=true) 
+
+## OPA378AIDBV
+OpAmp 900kHz RRI RRO VLowVos VLowIB AutoZero [SOT-23-5]
+
+![OPA378AIDBV__1__1](/images/AnalogDevices__AD8601ARTZ__1__1.png?raw=true) 
+![OPA378AIDBV__2__1](/images/AnalogDevices__AD8601ARTZ__2__1.png?raw=true) 
+
+## OPA378AIDCK
+OpAmp 900kHz RRI RRO VLowVos VLowIB AutoZero [SC-70-5]
+
+![OPA378AIDCK__1__1](/images/TexasInstruments__OPA376AIDCK__1__1.png?raw=true) 
+![OPA378AIDCK__2__1](/images/AnalogDevices__AD8601ARTZ__2__1.png?raw=true) 
 
 ## OPA4376AIPW
 OpAmp.4 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [TSSOP-14]
@@ -692,6 +711,12 @@ Reg LDO 300mA [SOT-23-5]
 Reg LDO 300mA [WSON-6]
 
 ![TLV702vvDSE__1__1](/images/TexasInstruments__TLV702vvDSE__1__1.png?raw=true) 
+
+## TPIC6B595DW
+Logic ShiftReg Latched Power [SOIC-20]
+
+![TPIC6B595DW__1__1](/images/TexasInstruments__TPIC6B595DW__1__1.png?raw=true) 
+![TPIC6B595DW__2__1](/images/TexasInstruments__TPIC6B595DW__2__1.png?raw=true) 
 
 ## TPS61045DRB
 Reg Boost in:6V AdjV 20mA 1MHz DigitalAdj [SON-8]

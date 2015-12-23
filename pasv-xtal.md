@@ -13,10 +13,10 @@ Resonator Ceramic 4-7.99MHz [SMD]
 ## XTAL-ABRACON-ABM8G
 Crystal, grounded
 
-![XTAL-ABRACON-ABM8G__1__1](/images/pasv-xtal__XTAL-ABRACON-ABM8G__1__1.png?raw=true) 
+![XTAL-ABRACON-ABM8G__1__1](/images/passive__XTALG__1__1.png?raw=true) 
 
 ## XTAL-HC49US-SMD
 Crystal, SMD HC-49/US
 
-![XTAL-HC49US-SMD__1__1](/images/pasv-xtal__XTAL-HC49US-SMD__1__1.png?raw=true) 
+![XTAL-HC49US-SMD__1__1](/images/passive__XTAL__1__1.png?raw=true) 
 

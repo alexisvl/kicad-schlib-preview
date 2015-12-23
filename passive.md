@@ -188,10 +188,10 @@ Twisted pair
 ## XTAL
 Crystal
 
-![XTAL__1__1](/images/pasv-xtal__XTAL-HC49US-SMD__1__1.png?raw=true) 
+![XTAL__1__1](/images/passive__XTAL__1__1.png?raw=true) 
 
 ## XTALG
 Crystal, grounded
 
-![XTALG__1__1](/images/pasv-xtal__XTAL-ABRACON-ABM8G__1__1.png?raw=true) 
+![XTALG__1__1](/images/passive__XTALG__1__1.png?raw=true) 
 

@@ -1,5 +1,10 @@
 # semi-diode-Vishay
 
+## 1N4148W
+Diode 75V 150mA [SOD-123]
+
+![1N4148W__1__1](/images/_semi__DIODE__1__1.png?raw=true) 
+
 ## S1A
 Diode, 1A, 50V
 

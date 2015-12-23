@@ -152,11 +152,30 @@ NPN.2 CE (semi) voltage current (power) (ft) [footprint]
 
 ![NPNLTP__1__1](/images/_semi__NPNLTP__1__1.png?raw=true) 
 
-## OPTONPN
-OPTONPN voltage current [footprint]
+## OPTO-FET
+OPTO-FET voltage current [footprint]
 
-![OPTONPN__1__1](/images/_semi__OPTONPN__1__1.png?raw=true) 
-![OPTONPN__2__1](/images/_semi__OPTONPN__2__1.png?raw=true) 
+![OPTO-FET__1__1](/images/_semi__OPTO-FET__1__1.png?raw=true) 
+![OPTO-FET__2__1](/images/_semi__OPTO-FET__2__1.png?raw=true) 
+
+## OPTO-NPN
+OPTO-NPN voltage current [footprint]
+
+![OPTO-NPN__1__1](/images/_semi__OPTO-FET__1__1.png?raw=true) 
+![OPTO-NPN__2__1](/images/_semi__OPTO-NPN__2__1.png?raw=true) 
+
+## OPTO-PD
+OPTO-PD voltage current [footprint]
+
+![OPTO-PD__1__1](/images/_semi__OPTO-FET__1__1.png?raw=true) 
+![OPTO-PD__2__1](/images/_semi__OPTO-PD__2__1.png?raw=true) 
+
+## OPTO-PD-LIN
+OPTO-PD Linearized voltage current [footprint]
+
+![OPTO-PD-LIN__1__1](/images/_semi__OPTO-FET__1__1.png?raw=true) 
+![OPTO-PD-LIN__2__1](/images/_semi__OPTO-PD-LIN__2__1.png?raw=true) 
+![OPTO-PD-LIN__3__1](/images/_semi__OPTO-PD-LIN__3__1.png?raw=true) 
 
 ## PJF
 PJF (semi) voltage Idss [footprint]

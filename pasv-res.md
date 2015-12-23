@@ -70,6 +70,16 @@ Axial resistor, 2 W
 
 ![R-KOASPEER-MOS-3W__1__1](/images/passive__R__1__1.png?raw=true) 
 
+## R-VISHAY-WSL3637-LARGE
+Resistor (template)
+
+![R-VISHAY-WSL3637-LARGE__1__1](/images/pasv-res__R-VISHAY-WSL3637-LARGE__1__1.png?raw=true) 
+
+## R-VISHAY-WSL3637-SMALL
+Resistor (template)
+
+![R-VISHAY-WSL3637-SMALL__1__1](/images/pasv-res__R-VISHAY-WSL3637-LARGE__1__1.png?raw=true) 
+
 ## RESPACK-4X0603-CONC
 Resistor pack, 4x0603 (1206) concave
 

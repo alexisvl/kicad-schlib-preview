@@ -36,6 +36,11 @@ Inductor, power (to 11A), shielded
 
 ![L-BOURNS-SRR1210__1__1](/images/pasv-Bourns__L-BOURNS-RLB0914__1__1.png?raw=true) 
 
+## LCM-BOURNS-SRF2012A
+Common-mode choke
+
+![LCM-BOURNS-SRF2012A__1__1](/images/pasv-Bourns__LCM-BOURNS-SRF2012A__1__1.png?raw=true) 
+
 ## POT-BOURNS-3296W
 Pot Trim 25turn 100ppm/K [PTH]
 

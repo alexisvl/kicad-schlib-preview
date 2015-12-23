@@ -101,10 +101,20 @@ MCU 32bit/ARM-M0+ ROM:16-256KB RAM:2-32KB [QFP-32]
 
 ![ATSAMD20EnnA-AU__1__1](/images/Atmel__ATSAMD20EnnA-AU__1__1.png?raw=true) 
 
+## ATSAMD20EnnA-MU
+MCU 32bit/ARM-M0+ ROM:16-256KB RAM:2-32KB [QFN-32]
+
+![ATSAMD20EnnA-MU__1__1](/images/Atmel__ATSAMD20EnnA-MU__1__1.png?raw=true) 
+
 ## ATSAMD20GnnA-AU
 MCU 32bit/ARM-M0+ ROM:16-256KB RAM:2-32KB [QFP-48]
 
 ![ATSAMD20GnnA-AU__1__1](/images/Atmel__ATSAMD20GnnA-AU__1__1.png?raw=true) 
+
+## ATSAMD20GnnA-MU
+MCU 32bit/ARM-M0+ ROM:16-256KB RAM:2-32KB [QFN-48]
+
+![ATSAMD20GnnA-MU__1__1](/images/Atmel__ATSAMD20GnnA-MU__1__1.png?raw=true) 
 
 ## ATTINY24A-SS
 MCU 8bit/AVR ROM:2KB RAM:128B [SOIC-14]

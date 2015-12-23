@@ -43,5 +43,5 @@ Schottky 60V 3A [SMB]
 ## MJD31C
 NPN 100V 3A 1.5W [TO-252]
 
-![MJD31C__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
+![MJD31C__1__1](/images/semi-trans-Fairchild__KSC3503__1__1.png?raw=true) 
 

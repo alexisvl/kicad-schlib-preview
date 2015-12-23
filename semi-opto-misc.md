@@ -26,3 +26,10 @@ LED Red [0603]
 ![LED-LITEON-C155GEKT__1__1](/images/semi-opto-misc__LED-LITEON-C155GEKT__1__1.png?raw=true) 
 ![LED-LITEON-C155GEKT__2__1](/images/semi-opto-misc__LED-LITEON-C155GEKT__2__1.png?raw=true) 
 
+## LED-YETDA-5060BRG4
+LED RGB [SMD]
+
+![LED-YETDA-5060BRG4__1__1](/images/semi-opto-misc__LED-YETDA-5060BRG4__1__1.png?raw=true) 
+![LED-YETDA-5060BRG4__2__1](/images/semi-opto-misc__LED-YETDA-5060BRG4__2__1.png?raw=true) 
+![LED-YETDA-5060BRG4__3__1](/images/semi-opto-misc__LED-YETDA-5060BRG4__3__1.png?raw=true) 
+
