@@ -48,7 +48,7 @@ Diode, 150mA, 75V, 4ns, leakage < 3uA
 ## 1N52XXB
 Diode, Zener, 500mW, 20mA, 1N5221B-1N5263B
 
-![1N52XXB__1__1](/images/semi-diode-OnSemi__1SMA59xxBT3G__1__1.png?raw=true) 
+![1N52XXB__1__1](/images/semi-diode-NXP__PESD5V0X1ULD__1__1.png?raw=true) 
 
 ## 1N5400
 Diode, 3A, 50V
@@ -88,32 +88,32 @@ Diode, 3A, 1kV
 ## 1N5817
 Diode, Schottky, 1A, 20V
 
-![1N5817__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![1N5817__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## 1N5818
 Diode, Schottky, 1A, 30V
 
-![1N5818__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![1N5818__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## 1N5819
 Diode, Schottky, 1A, 40V
 
-![1N5819__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![1N5819__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## 1N5820
 Diode, Schottky, 3A, 20V
 
-![1N5820__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![1N5820__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## 1N5821
 Diode, Schottky, 3A, 30V
 
-![1N5821__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![1N5821__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## 1N5822
 Diode, Schottky, 3A, 40V
 
-![1N5822__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![1N5822__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## 1N914
 Diode, 150mA, 75V, 4ns

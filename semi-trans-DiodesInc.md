@@ -25,12 +25,12 @@ NMOS.2 30V 200mA 4.2R 1.5Vth [SOT-563]
 ![DMN63D8LV__2__1](/images/semi-trans-DiodesInc__DMN63D8LV__2__1.png?raw=true) 
 
 ## DMP3098L
-MOSFET, P-enh, -30V, -3A, Rds approx 120m
+PMOS -30V -3A 120mR -1.8Vth [SOT-23]
 
-![DMP3098L__1__1](/images/semi-trans-DiodesInc__DMP3098L__1__1.png?raw=true) 
+![DMP3098L__1__1](/images/semi-trans-Fairchild__FDN5618P__1__1.png?raw=true) 
 
 ## DMP4051LK3
-MOSFET, P-enh, -40V, -8.4A, Rds approx 85m
+PMOS -40V -8.4A 85mR -3Vth [TO-252]
 
-![DMP4051LK3__1__1](/images/semi-trans-DiodesInc__DMP4051LK3__1__1.png?raw=true) 
+![DMP4051LK3__1__1](/images/semi-trans-IXYS__IXTH24P20__1__1.png?raw=true) 
 

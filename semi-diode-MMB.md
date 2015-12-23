@@ -3,7 +3,7 @@
 ## MM3ZxxxT1G
 Diode, Zener, 300mW, 5mA
 
-![MM3ZxxxT1G__1__1](/images/semi-diode-OnSemi__1SMA59xxBT3G__1__1.png?raw=true) 
+![MM3ZxxxT1G__1__1](/images/semi-diode-NXP__PESD5V0X1ULD__1__1.png?raw=true) 
 
 ## MMBD4148
 Diode 75V 200mA [SOT-23]
@@ -36,5 +36,5 @@ Diode 75V 200mA [SOT-23]
 ## MMSZ52XXB
 Diode, Zener, 500mW, 20mA, MMSZN5226B-MMSZN5257B
 
-![MMSZ52XXB__1__1](/images/semi-diode-OnSemi__1SMA59xxBT3G__1__1.png?raw=true) 
+![MMSZ52XXB__1__1](/images/semi-diode-NXP__PESD5V0X1ULD__1__1.png?raw=true) 
 

@@ -8,12 +8,12 @@ Diode 75V 200mA [SOT-23]
 ## BAS70H
 Schottky 70V 70mA [SOD-123]
 
-![BAS70H__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![BAS70H__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## BAT54
 Schottky 30V 200mA [SOT-23]
 
-![BAT54__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![BAT54__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## BAT54A
 Schottky.2 CommonAnode 30V 200mA [SOT-23]
@@ -48,7 +48,7 @@ Schottky.2 Series 30V 200mA [SOT-323]
 ## BAT85S
 Schottky 30V 200mA [DO-35]
 
-![BAT85S__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![BAT85S__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## BAV199
 Diode.2 Series 70V 140mA [SOT-23]
@@ -77,15 +77,15 @@ Diode.2 Series 75V 150mA [SC-70]
 ## BZX79
 Diode, Zener, 500mW, 5mA, 2.4-56V
 
-![BZX79__1__1](/images/semi-diode-OnSemi__1SMA59xxBT3G__1__1.png?raw=true) 
+![BZX79__1__1](/images/semi-diode-NXP__PESD5V0X1ULD__1__1.png?raw=true) 
 
 ## BZX84
 Diode, Zener, 250mW, 5mA, 4.7-36V
 
-![BZX84__1__1](/images/semi-diode-OnSemi__1SMA59xxBT3G__1__1.png?raw=true) 
+![BZX84__1__1](/images/semi-diode-NXP__PESD5V0X1ULD__1__1.png?raw=true) 
 
 ## BZX85
 Diode, Zener, 1.3W, 2.7-100V
 
-![BZX85__1__1](/images/semi-diode-OnSemi__1SMA59xxBT3G__1__1.png?raw=true) 
+![BZX85__1__1](/images/semi-diode-NXP__PESD5V0X1ULD__1__1.png?raw=true) 
 

@@ -103,27 +103,27 @@ PNP -45V -100mA 250mW LowNoise [SOT-23]
 ## BD135
 NPN 45V 1.5A 1.25W [TO-126]
 
-![BD135__1__1](/images/semi-trans-BC__BD135__1__1.png?raw=true) 
+![BD135__1__1](/images/semi-trans-Fairchild__KSC3503__1__1.png?raw=true) 
 
 ## BD136
 PNP -45V -1.5A 1.25W [TO-126]
 
-![BD136__1__1](/images/semi-trans-BC__BD136__1__1.png?raw=true) 
+![BD136__1__1](/images/semi-trans-Fairchild__KSA1381__1__1.png?raw=true) 
 
 ## BD137
 NPN 60V 1.5A 1.25W [TO-126]
 
-![BD137__1__1](/images/semi-trans-BC__BD135__1__1.png?raw=true) 
+![BD137__1__1](/images/semi-trans-Fairchild__KSC3503__1__1.png?raw=true) 
 
 ## BD139
 NPN 80V 1.5A 1.25W [TO-126]
 
-![BD139__1__1](/images/semi-trans-BC__BD135__1__1.png?raw=true) 
+![BD139__1__1](/images/semi-trans-Fairchild__KSC3503__1__1.png?raw=true) 
 
 ## BD140
 PNP -80V -1.5A 1.25W [TO-126]
 
-![BD140__1__1](/images/semi-trans-BC__BD136__1__1.png?raw=true) 
+![BD140__1__1](/images/semi-trans-Fairchild__KSA1381__1__1.png?raw=true) 
 
 ## BF545A
 NJF 30V 2-6.5mA [SOT-23]
@@ -153,5 +153,5 @@ NMOS 10V 50mA 45R Symmetric [SOT-143]
 ## BSS84
 PMOS -50V -130mA 10R -1.7Vth [SOT-23]
 
-![BSS84__1__1](/images/semi-trans-DiodesInc__DMP3098L__1__1.png?raw=true) 
+![BSS84__1__1](/images/semi-trans-Fairchild__FDN5618P__1__1.png?raw=true) 
 

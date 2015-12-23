@@ -43,50 +43,50 @@ Diode, 1A, 1kV
 ## SS12
 Diode, Schottky, 1A, 20V
 
-![SS12__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![SS12__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## SS13
 Diode, Schottky, 1A, 30V
 
-![SS13__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![SS13__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## SS14
 Diode, Schottky, 1A, 40V
 
-![SS14__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![SS14__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## SS15
 Diode, Schottky, 1A, 50V
 
-![SS15__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![SS15__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## SS16
 Diode, Schottky, 1A, 60V
 
-![SS16__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![SS16__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## SS32
 Diode, Schottky, 3A, 20V
 
-![SS32__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![SS32__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## SS33
 Diode, Schottky, 3A, 30V
 
-![SS33__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![SS33__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## SS34
 Diode, Schottky, 3A, 40V
 
-![SS34__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![SS34__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## SS35
 Diode, Schottky, 3A, 50V
 
-![SS35__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![SS35__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 
 ## SS36
 Diode, Schottky, 3A, 60V
 
-![SS36__1__1](/images/semi-diode-OnSemi__MBR0520__1__1.png?raw=true) 
+![SS36__1__1](/images/semi-diode-ST__STPS10L25G__1__1.png?raw=true) 
 

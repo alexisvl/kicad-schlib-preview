@@ -13,5 +13,5 @@ Dual PIN diode, 50V, 50mA
 ## PESD5V0X1ULD
 Diode, ESD protection, low capacitance
 
-![PESD5V0X1ULD__1__1](/images/semi-diode-OnSemi__1SMA59xxBT3G__1__1.png?raw=true) 
+![PESD5V0X1ULD__1__1](/images/semi-diode-NXP__PESD5V0X1ULD__1__1.png?raw=true) 
 
