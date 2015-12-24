@@ -98,7 +98,7 @@ NMOS 60V 200mA [TO-92]
 ## 2N7002
 NMOS 60V 115mA [SOT-23]
 
-![2N7002__1__1](/images/semi-trans-AOS__AOD514__1__1.png?raw=true) 
+![2N7002__1__1](/images/semi-trans-Infineon__IRFML8244__1__1.png?raw=true) 
 
 ## 4N35
 Optocoup NPN+base 3kV 60mA 30Vceo [DIP-6]

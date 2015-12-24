@@ -3,12 +3,12 @@
 ## L78MvvCDT
 Reg Lin 500mA [TO-252]
 
-![L78MvvCDT__1__1](/images/Intersil__ISL21070__1__1.png?raw=true) 
+![L78MvvCDT__1__1](/images/AnalogDevices__ADR380__1__1.png?raw=true) 
 
 ## L78vvCD2T
 Reg Lin 1.5A [TO-263]
 
-![L78vvCD2T__1__1](/images/Intersil__ISL21070__1__1.png?raw=true) 
+![L78vvCD2T__1__1](/images/AnalogDevices__ADR380__1__1.png?raw=true) 
 
 ## L78vvCV
 Reg Lin 1.5A [TO-220]

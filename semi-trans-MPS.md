@@ -1,37 +1,12 @@
 # semi-trans-MPS
 
 ## MPSA42
-NPN amplifier, 500mA, 300V, 625mW
+NPN 300V 300mA 600mW [TO-92]
 
-![MPSA42__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
-
-## MPSA43
-NPN amplifier, 500mA, 200V, 625mW
-
-![MPSA43__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
+![MPSA42__1__1](/images/semi-trans-2N__2N2219__1__1.png?raw=true) 
 
 ## MPSA92
-PNP amplifier, -500mA, -300V, 625mW
+PNP -300V -300mA 600mW [TO-92]
 
-![MPSA92__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
-
-## MPSA93
-PNP amplifier, -500mA, -200V, 625mW
-
-![MPSA93__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
-
-## MPSH10
-NPN amplifier, 50mA, 25V, 650MHz
-
-![MPSH10__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
-
-## MPSH11
-NPN amplifier, 50mA, 25V, 650MHz
-
-![MPSH11__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
-
-## MPSH81
-PNP amplifier, -50mA, -20V, 600MHz
-
-![MPSH81__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
+![MPSA92__1__1](/images/semi-trans-2N__2N2905__1__1.png?raw=true) 
 

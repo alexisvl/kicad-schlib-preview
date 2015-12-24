@@ -53,52 +53,52 @@ PNP -45V -100mA 500mW LowNoise [TO-92]
 ## BC846
 NPN 65V 100mA 250mW [SOT-23]
 
-![BC846__1__1](/images/semi-trans-BC__BC846__1__1.png?raw=true) 
+![BC846__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
 
 ## BC847
 NPN 45V 100mA 250mW [SOT-23]
 
-![BC847__1__1](/images/semi-trans-BC__BC846__1__1.png?raw=true) 
+![BC847__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
 
 ## BC848
 NPN 30V 100mA 250mW [SOT-23]
 
-![BC848__1__1](/images/semi-trans-BC__BC846__1__1.png?raw=true) 
+![BC848__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
 
 ## BC849
 NPN 30V 100mA 250mW LowNoise [SOT-23]
 
-![BC849__1__1](/images/semi-trans-BC__BC846__1__1.png?raw=true) 
+![BC849__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
 
 ## BC850
 NPN 45V 100mA 250mW LowNoise [SOT-23]
 
-![BC850__1__1](/images/semi-trans-BC__BC846__1__1.png?raw=true) 
+![BC850__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
 
 ## BC856
 PNP -65V -100mA 250mW [SOT-23]
 
-![BC856__1__1](/images/semi-trans-BC__BC856__1__1.png?raw=true) 
+![BC856__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
 
 ## BC857
 PNP -45V -100mA 250mW [SOT-23]
 
-![BC857__1__1](/images/semi-trans-BC__BC856__1__1.png?raw=true) 
+![BC857__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
 
 ## BC858
 PNP -30V -100mA 250mW [SOT-23]
 
-![BC858__1__1](/images/semi-trans-BC__BC856__1__1.png?raw=true) 
+![BC858__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
 
 ## BC859
 PNP -30V -100mA 250mW LowNoise [SOT-23]
 
-![BC859__1__1](/images/semi-trans-BC__BC856__1__1.png?raw=true) 
+![BC859__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
 
 ## BC860
 PNP -45V -100mA 250mW LowNoise [SOT-23]
 
-![BC860__1__1](/images/semi-trans-BC__BC856__1__1.png?raw=true) 
+![BC860__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
 
 ## BD135
 NPN 45V 1.5A 1.25W [TO-126]
@@ -143,7 +143,7 @@ NJF 30V 12-25mA [SOT-23]
 ## BSS138
 NMOS 60V 360mA 3.5-6R 1.3Vth [SOT-23]
 
-![BSS138__1__1](/images/semi-trans-AOS__AOD514__1__1.png?raw=true) 
+![BSS138__1__1](/images/semi-trans-Infineon__IRFML8244__1__1.png?raw=true) 
 
 ## BSS83
 NMOS 10V 50mA 45R Symmetric [SOT-143]

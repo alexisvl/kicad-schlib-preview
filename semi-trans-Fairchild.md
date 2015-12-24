@@ -1,7 +1,7 @@
 # semi-trans-Fairchild
 
 ## FDD7N20TM
-NMOS 200V 3A 500mR 5Vth [TO-252]
+NMOS 200V 3A 580mR 5Vth [TO-252]
 
 ![FDD7N20TM__1__1](/images/semi-trans-Fairchild__FDD7N20TM__1__1.png?raw=true) 
 

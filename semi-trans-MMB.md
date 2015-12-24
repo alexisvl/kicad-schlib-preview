@@ -1,42 +1,42 @@
 # semi-trans-MMB
 
 ## MMBF4416
-NJF, RF, 30V, 5-15mA, -2.5--6Voff
+NJF 35V 5-15mA -2.5-6Vth RF [SOT-23]
 
-![MMBF4416__1__1](/images/semi-trans-misc__BSR56__1__1.png?raw=true) 
+![MMBF4416__1__1](/images/semi-trans-MMB__MMBF4416__1__1.png?raw=true) 
 
 ## MMBFJ111
-NJF, switch, 35V, >20mA, <-10Voff
+NJF 35V >20mA -3-10Vth [SOT-23]
 
-![MMBFJ111__1__1](/images/semi-trans-misc__J111__1__1.png?raw=true) 
+![MMBFJ111__1__1](/images/semi-trans-MMB__MMBFJ111__1__1.png?raw=true) 
 
 ## MMBFJ112
-NJF, switch, 35V, >5mA, <-5Voff
+NJF 35V >5mA -1-5Vth [SOT-23]
 
-![MMBFJ112__1__1](/images/semi-trans-misc__J111__1__1.png?raw=true) 
+![MMBFJ112__1__1](/images/semi-trans-MMB__MMBFJ111__1__1.png?raw=true) 
 
 ## MMBFJ113
-NJF, switch, 35V, >2mA, <-3Voff
+NJF 35V >2mA -0.5-3Vth [SOT-23]
 
-![MMBFJ113__1__1](/images/semi-trans-misc__J111__1__1.png?raw=true) 
+![MMBFJ113__1__1](/images/semi-trans-MMB__MMBFJ111__1__1.png?raw=true) 
 
 ## MMBFJ309
-NJF 25V Idss:12-30mA 450MHz [SOT-23]
+NJF 25V 12-30mA -1-4Vth 450MHz [SOT-23]
 
-![MMBFJ309__1__1](/images/semi-trans-misc__J111__1__1.png?raw=true) 
+![MMBFJ309__1__1](/images/semi-trans-MMB__MMBFJ111__1__1.png?raw=true) 
 
 ## MMBFJ310
-NJF 25V Idss:24-60mA 450MHz [SOT-23]
+NJF 25V 24-60mA -2-6.5Vth 450MHz [SOT-23]
 
-![MMBFJ310__1__1](/images/semi-trans-misc__J111__1__1.png?raw=true) 
+![MMBFJ310__1__1](/images/semi-trans-MMB__MMBFJ111__1__1.png?raw=true) 
 
 ## MMBT2222A
-NPN switch, 40V, 600mA, 225mW
+NPN 40V 600mA 225mW [SOT-23]
 
 ![MMBT2222A__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
 
 ## MMBT2907A
-PNP switch, -40V, -600mA, 225mW
+PNP -40V -600mA 225mW [SOT-23]
 
 ![MMBT2907A__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
 
@@ -60,53 +60,48 @@ PNP -40V -600mA [SOT-23]
 
 ![MMBT4403__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
 
-## MMBT5086
-PNP amplifier, 50mA, 50V, higher gain
-
-![MMBT5086__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
-
 ## MMBT5087
-PNP amplifier, 50mA, 50V, higher gain
+PNP -50V -50mA 225mW HighBeta [SOT-23]
 
 ![MMBT5087__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
 
 ## MMBT5088
-NPN amplifier, 50mA, 30V, higher gain
+NPN 30V 50mA 225mW HighBeta [SOT-23]
 
 ![MMBT5088__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
 
 ## MMBT5089
-NPN amplifier, 50mA, 25V, higher gain
+NPN 25V 50mA 225mW HighBeta [SOT-23]
 
 ![MMBT5089__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
 
 ## MMBTA42
-NPN amplifier, 500mA, 300V
+NPN 300V 300mA 225mW [SOT-23]
 
 ![MMBTA42__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
 
 ## MMBTA92
-PNP amplifier, -500mA, -300V
+PNP -300V -300mA 225mW [SOT-23]
 
 ![MMBTA92__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
 
 ## MMBTH10
-NPN amplifier, 50mA, 25V, 650MHz
+NPN 25V 50mA 650MHz [SOT-23]
 
 ![MMBTH10__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
 
 ## MMBTH81
-PNP amplifier, -50mA, -20V, 600MHz
+PNP 20V 50mA 600MHz [SOT-23]
 
 ![MMBTH81__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
 
 ## PMST4401
 NPN 40V 600mA 200mW [SC-70]
 
-![PMST4401__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
+![PMST4401__1__1](/images/semi-trans-MMB__PMST4401__1__1.png?raw=true) 
 
 ## PMST4403
 PNP -40V -600mA 200mW [SC-70]
 
-![PMST4403__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
+![PMST4403__1__1](/images/semi-trans-MMB__PMST4403__1__1.png?raw=true) 
 

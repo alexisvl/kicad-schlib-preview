@@ -416,12 +416,12 @@ Reg LDO Triple 200mA [LFCSP-16]
 ## ADR380
 VRef Series 2.048V 0.24% 25ppm/K [SOT-23]
 
-![ADR380__1__1](/images/Intersil__ISL21070__1__1.png?raw=true) 
+![ADR380__1__1](/images/AnalogDevices__ADR380__1__1.png?raw=true) 
 
 ## ADR381
 VRef Series 2.5V 0.24% 25ppm/K [SOT-23]
 
-![ADR381__1__1](/images/Intersil__ISL21070__1__1.png?raw=true) 
+![ADR381__1__1](/images/AnalogDevices__ADR380__1__1.png?raw=true) 
 
 ## ADR4520BRZ
 VRef Series 2.048V 0.02% 2ppm/K [SOIC-8]

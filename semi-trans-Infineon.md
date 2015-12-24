@@ -1,5 +1,16 @@
 # semi-trans-Infineon
 
+## BFQ19
+NPN 15V 100mA 5GHz [SOT-89]
+
+![BFQ19__1__1](/images/semi-trans-Infineon__BFQ19__1__1.png?raw=true) 
+![BFQ19__1__2](/images/semi-trans-Infineon__BFQ19__1__2.png?raw=true) 
+
+## BFS17W
+NPN 25V 25mA 1.4GHz [SC-70]
+
+![BFS17W__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
+
 ## BSD314SPE
 PMOS -30V -1.5A 140mR [SOT-363]
 
@@ -15,4 +26,24 @@ PMOS -30V -1.5A 140mR [SOT-363]
 NMOS 550V 13A 250mR [TO-247]
 
 ![IPW50R250CP__1__1](/images/semi-trans-Fairchild__FDD7N20TM__1__1.png?raw=true) 
+
+## IRFML8244
+NMOS 25V 5.8A 2.3Vth [SOT-23]
+
+![IRFML8244__1__1](/images/semi-trans-Infineon__IRFML8244__1__1.png?raw=true) 
+
+## IRLML2060
+NMOS 60V 1.2A 2.5Vth [SOT-23]
+
+![IRLML2060__1__1](/images/semi-trans-Infineon__IRFML8244__1__1.png?raw=true) 
+
+## IRLML2402
+NMOS 20V 1.2A 0.7Vth [SOT-23]
+
+![IRLML2402__1__1](/images/semi-trans-Infineon__IRFML8244__1__1.png?raw=true) 
+
+## IRLML6402
+PMOS -20V -2.2A -1.2Vth [SOT-23]
+
+![IRLML6402__1__1](/images/semi-trans-Fairchild__FDN5618P__1__1.png?raw=true) 
 
