@@ -79,7 +79,7 @@ NJF (semi) voltage Idss [footprint]
 ## NMOS
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
-![NMOS__1__1](/images/semi-trans-Fairchild__FDD7N20TM__1__1.png?raw=true) 
+![NMOS__1__1](/images/_semi__NMOS__1__1.png?raw=true) 
 
 ## NMOS-2D
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]

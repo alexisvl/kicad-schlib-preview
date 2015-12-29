@@ -18,12 +18,12 @@ Reg LDO 250mA [SOT-89]
 ## MCP1700T-vv02E/TT
 Reg LDO 250mA [SOT-23]
 
-![MCP1700T-vv02E/TT__1__1](/images/TexasInstruments__LM1086IT-v.v__1__1.png?raw=true) 
+![MCP1700T-vv02E/TT__1__1](/images/ST__L79vvCD2T__1__1.png?raw=true) 
 
 ## MCP1754ST-vv02E/CB
 Reg LDO 150mA [SOT-23]
 
-![MCP1754ST-vv02E/CB__1__1](/images/TexasInstruments__LM1086IT-v.v__1__1.png?raw=true) 
+![MCP1754ST-vv02E/CB__1__1](/images/ST__L79vvCD2T__1__1.png?raw=true) 
 
 ## MCP2210-I/SS
 Interface USB SPI [SSOP-20]

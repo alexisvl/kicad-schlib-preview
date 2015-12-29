@@ -1,17 +1,12 @@
 # semi-diode-NXP
 
 ## BAP1321-02
-PIN diode, 60V, 100mA
+Diode PIN 60V 100mA [SOD-523]
 
-![BAP1321-02__1__1](/images/semi-diode-Vishay__S1A__1__1.png?raw=true) 
-
-## BAP50-04W
-Dual PIN diode, 50V, 50mA
-
-![BAP50-04W__1__1](/images/semi-diode-NXP__BAP50-04W__1__1.png?raw=true) 
+![BAP1321-02__1__1](/images/_semi__DPIN__1__1.png?raw=true) 
 
 ## PESD5V0X1ULD
-Diode, ESD protection, low capacitance
+TVS 5V [SOD-882D]
 
-![PESD5V0X1ULD__1__1](/images/semi-diode-NXP__PESD5V0X1ULD__1__1.png?raw=true) 
+![PESD5V0X1ULD__1__1](/images/_semi__ZENER__1__1.png?raw=true) 
 

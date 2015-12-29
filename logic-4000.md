@@ -145,7 +145,7 @@ Quad analog switch
 Hex inverting Schmitt trigger
 
 ![40106-SO__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
-![40106-SO__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
+![40106-SO__2__1](/images/logic-4000__40106-SO__2__1.png?raw=true) 
 ![40106-SO__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
 ![40106-SO__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
 ![40106-SO__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 
@@ -156,7 +156,7 @@ Hex inverting Schmitt trigger
 Hex inverting Schmitt trigger
 
 ![40106-SSOP__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
-![40106-SSOP__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
+![40106-SSOP__2__1](/images/logic-4000__40106-SO__2__1.png?raw=true) 
 ![40106-SSOP__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
 ![40106-SSOP__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
 ![40106-SSOP__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 
@@ -167,7 +167,7 @@ Hex inverting Schmitt trigger
 Hex inverting Schmitt trigger
 
 ![40106-TSSOP__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
-![40106-TSSOP__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
+![40106-TSSOP__2__1](/images/logic-4000__40106-SO__2__1.png?raw=true) 
 ![40106-TSSOP__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
 ![40106-TSSOP__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
 ![40106-TSSOP__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 
@@ -227,7 +227,7 @@ Quad analog switch
 Hex inverting Schmitt trigger
 
 ![40106-DIP__1__1](/images/logic-4000__40106-SO__1__1.png?raw=true) 
-![40106-DIP__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
+![40106-DIP__2__1](/images/logic-4000__40106-SO__2__1.png?raw=true) 
 ![40106-DIP__3__1](/images/logic-4000__40106-SO__3__1.png?raw=true) 
 ![40106-DIP__4__1](/images/logic-4000__40106-SO__4__1.png?raw=true) 
 ![40106-DIP__5__1](/images/logic-4000__40106-SO__5__1.png?raw=true) 

@@ -3,31 +3,31 @@
 ## DG419CJ
 [obs] AnSwitch SPST CMOS 36V [DIP-8]
 
-![DG419CJ__1__1](/images/maxim__DG419CJ__1__1.png?raw=true) 
+![DG419CJ__1__1](/images/Vishay__DG449DS__1__1.png?raw=true) 
 ![DG419CJ__2__1](/images/maxim__DG419CJ__2__1.png?raw=true) 
 
 ## DG419CY
 AnSwitch SPST CMOS 36V [SOIC-8]
 
-![DG419CY__1__1](/images/maxim__DG419CJ__1__1.png?raw=true) 
+![DG419CY__1__1](/images/Vishay__DG449DS__1__1.png?raw=true) 
 ![DG419CY__2__1](/images/maxim__DG419CJ__2__1.png?raw=true) 
 
 ## DG419DJ
 AnSwitch CMOS 36V [DIP-8]
 
-![DG419DJ__1__1](/images/maxim__DG419CJ__1__1.png?raw=true) 
+![DG419DJ__1__1](/images/Vishay__DG449DS__1__1.png?raw=true) 
 ![DG419DJ__2__1](/images/maxim__DG419CJ__2__1.png?raw=true) 
 
 ## DG419DY
 AnSwitch SPST CMOS 36V [SOIC-8]
 
-![DG419DY__1__1](/images/maxim__DG419CJ__1__1.png?raw=true) 
+![DG419DY__1__1](/images/Vishay__DG449DS__1__1.png?raw=true) 
 ![DG419DY__2__1](/images/maxim__DG419CJ__2__1.png?raw=true) 
 
 ## DG419LEUA
 AnSwitch SPST CMOS 36V [MSOP-8]
 
-![DG419LEUA__1__1](/images/maxim__DG419CJ__1__1.png?raw=true) 
+![DG419LEUA__1__1](/images/Vishay__DG449DS__1__1.png?raw=true) 
 ![DG419LEUA__2__1](/images/maxim__DG419CJ__2__1.png?raw=true) 
 
 ## MAX11644

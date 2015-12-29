@@ -9,7 +9,7 @@ NPN 15V 100mA 5GHz [SOT-89]
 ## BFS17W
 NPN 25V 25mA 1.4GHz [SC-70]
 
-![BFS17W__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
+![BFS17W__1__1](/images/semi-trans-Toshiba__MT3S16U__1__1.png?raw=true) 
 
 ## BSD314SPE
 PMOS -30V -1.5A 140mR [SOT-363]
@@ -20,12 +20,12 @@ PMOS -30V -1.5A 140mR [SOT-363]
 ## IPP230N06L3
 [obs] NMOS 60V 30A 23mR 2.2Vth [TO-220]
 
-![IPP230N06L3__1__1](/images/semi-trans-Fairchild__FDD7N20TM__1__1.png?raw=true) 
+![IPP230N06L3__1__1](/images/_semi__NMOS__1__1.png?raw=true) 
 
 ## IPW50R250CP
 NMOS 550V 13A 250mR [TO-247]
 
-![IPW50R250CP__1__1](/images/semi-trans-Fairchild__FDD7N20TM__1__1.png?raw=true) 
+![IPW50R250CP__1__1](/images/_semi__NMOS__1__1.png?raw=true) 
 
 ## IRFML8244
 NMOS 25V 5.8A 2.3Vth [SOT-23]
@@ -45,5 +45,5 @@ NMOS 20V 1.2A 0.7Vth [SOT-23]
 ## IRLML6402
 PMOS -20V -2.2A -1.2Vth [SOT-23]
 
-![IRLML6402__1__1](/images/semi-trans-Fairchild__FDN5618P__1__1.png?raw=true) 
+![IRLML6402__1__1](/images/semi-trans-IRF__IRFP9240__1__1.png?raw=true) 
 

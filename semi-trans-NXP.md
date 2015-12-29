@@ -14,12 +14,12 @@ PNP -15V -100mA 5GHz [SOT-89]
 ## BFR540
 NPN 15V 120mA 9GHz [SOT-23]
 
-![BFR540__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
+![BFR540__1__1](/images/semi-trans-Toshiba__MT3S16U__1__1.png?raw=true) 
 
 ## BFT92W
 PNP -20V -35mA 4GHz [SOT-323]
 
-![BFT92W__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
+![BFT92W__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## BUK954R8-60E
 NMOS 60V 100A 4.9mR 1.7Vth [TO-220]
@@ -38,18 +38,18 @@ NPN.2 45V 100mA Matched CommonEmitter [SOT-353]
 ![PMP4201G__1__1](/images/semi-trans-NXP__PMP4201G__1__1.png?raw=true) 
 
 ## PMP4201Y
-NPN.2 (semi) voltage current (power) (ft) [footprint]
+NPN.2 45V 100mA Matched [SOT-363]
 
 ![PMP4201Y__1__1](/images/semi-trans-DiodesInc__DMMT3904W__1__1.png?raw=true) 
 ![PMP4201Y__2__1](/images/semi-trans-DiodesInc__DMMT3904W__2__1.png?raw=true) 
 
 ## PMP5201G
-PNP.2 CE (semi) voltage current (power) (ft) [footprint]
+PNP.2 -45V -100mA Matched CommonEmitter [SOT-353]
 
 ![PMP5201G__1__1](/images/semi-trans-NXP__PMP5201G__1__1.png?raw=true) 
 
 ## PMP5201Y
-PNP.2 (semi) voltage current (power) (ft) [footprint]
+PNP.2 -45V -100mA Matched [SOT-363]
 
 ![PMP5201Y__1__1](/images/semi-trans-DiodesInc__DMMT3906W__1__1.png?raw=true) 
 ![PMP5201Y__2__1](/images/semi-trans-DiodesInc__DMMT3906W__2__1.png?raw=true) 
@@ -57,15 +57,15 @@ PNP.2 (semi) voltage current (power) (ft) [footprint]
 ## PMSS3904
 NPN 40V 100mA 200mW [SC-70]
 
-![PMSS3904__1__1](/images/semi-trans-MMB__MMBT2222A__1__1.png?raw=true) 
+![PMSS3904__1__1](/images/semi-trans-Toshiba__MT3S16U__1__1.png?raw=true) 
 
 ## PMSS3906
 PNP -40V -100mA 200mW [SC-70]
 
-![PMSS3906__1__1](/images/semi-trans-MMB__MMBT2907A__1__1.png?raw=true) 
+![PMSS3906__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## PMV160UP
 PMOS -20V -1.2A 210mR -950mVth [SOT-23]
 
-![PMV160UP__1__1](/images/semi-trans-Fairchild__FDN5618P__1__1.png?raw=true) 
+![PMV160UP__1__1](/images/semi-trans-IRF__IRFP9240__1__1.png?raw=true) 
 

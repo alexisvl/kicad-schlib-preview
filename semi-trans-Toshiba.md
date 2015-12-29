@@ -1,7 +1,7 @@
 # semi-trans-Toshiba
 
 ## MT3S16U
-BJT, NPN 4GHz 5V 60mA 100mW
+NPN 5V 60mA 4GHz [SC-70]
 
-![MT3S16U__1__1](/images/semi-trans-MMB__PMST4401__1__1.png?raw=true) 
+![MT3S16U__1__1](/images/semi-trans-Toshiba__MT3S16U__1__1.png?raw=true) 
 

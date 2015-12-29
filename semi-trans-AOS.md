@@ -3,8 +3,8 @@
 ## AO4441
 PMOS -60V -3.1A 130mR -2.1Vth [SOIC-8]
 
-![AO4441__1__1](/images/semi-trans-AOS__AO4441__1__1.png?raw=true) 
-![AO4441__1__2](/images/semi-trans-AOS__AO4441__1__2.png?raw=true) 
+![AO4441__1__1](/images/_semi__PMOS-4D-3S__1__1.png?raw=true) 
+![AO4441__1__2](/images/_semi__PMOS-4D-3S__1__2.png?raw=true) 
 
 ## AO4805
 PMOS.2 -30V -9A 18mR -2.8Vth [SOIC-8]
