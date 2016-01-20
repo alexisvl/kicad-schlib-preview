@@ -27,7 +27,7 @@ NMOS.2 30V 200mA 4.2R 1.5Vth [SOT-563]
 ## DMP3098L
 PMOS -30V -3A 120mR -1.8Vth [SOT-23]
 
-![DMP3098L__1__1](/images/semi-trans-IRF__IRFP9240__1__1.png?raw=true) 
+![DMP3098L__1__1](/images/semi-trans-generic__BSS84__1__1.png?raw=true) 
 
 ## DMP4051LK3
 PMOS -40V -8.4A 85mR -3Vth [TO-252]

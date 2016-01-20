@@ -319,7 +319,7 @@ UJT voltage power [footprint]
 ## VARICAP
 Varicap voltage Cjrange [footprint]
 
-![VARICAP__1__1](/images/_semi__VARICAP__1__1.png?raw=true) 
+![VARICAP__1__1](/images/semi-diode-Toshiba__1SV305__1__1.png?raw=true) 
 
 ## ZENER
 Zener voltage power Iz:zenertestcurrent [footprint]

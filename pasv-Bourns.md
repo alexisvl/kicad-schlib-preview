@@ -3,8 +3,8 @@
 ## L-BOURNS-PM3604
 SMD coupled inductor
 
-![L-BOURNS-PM3604__1__1](/images/passive__TRANS-2__1__1.png?raw=true) 
-![L-BOURNS-PM3604__2__1](/images/passive__TRANS-2__1__1.png?raw=true) 
+![L-BOURNS-PM3604__1__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
+![L-BOURNS-PM3604__2__1](/images/pasv-BiTech__L-BITECH-HM78D-1210__1__1.png?raw=true) 
 
 ## L-BOURNS-RLB0914
 Inductor, power (to 5.4A), semi-shielded
@@ -44,10 +44,10 @@ Common-mode choke
 ## POT-BOURNS-3296W
 Pot Trim 25turn 100ppm/K [PTH]
 
-![POT-BOURNS-3296W__1__1](/images/passive__POT-TRIM__1__1.png?raw=true) 
+![POT-BOURNS-3296W__1__1](/images/pasv-Bourns__POT-BOURNS-3296W__1__1.png?raw=true) 
 
 ## POT-BOURNS-TC33X-2
 Pot Trim 250ppm/K [SMD]
 
-![POT-BOURNS-TC33X-2__1__1](/images/passive__POT-TRIM__1__1.png?raw=true) 
+![POT-BOURNS-TC33X-2__1__1](/images/pasv-Bourns__POT-BOURNS-3296W__1__1.png?raw=true) 
 

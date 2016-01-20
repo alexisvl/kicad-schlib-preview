@@ -8,7 +8,7 @@ NMOS 200V 3A 580mR 5Vth [TO-252]
 ## FDN5618P
 PMOS -60V -1.25A 230mR -3Vth [SOT-23]
 
-![FDN5618P__1__1](/images/semi-trans-IRF__IRFP9240__1__1.png?raw=true) 
+![FDN5618P__1__1](/images/semi-trans-generic__BSS84__1__1.png?raw=true) 
 
 ## FQN1N50C
 NMOS 500V 380mA 6R 3Vth [TO-92]
@@ -29,10 +29,10 @@ NMOS 100V 1.7A 350mR 2Vth [SOT-223]
 ## KSA1381
 PNP -300V -100mA 7W 150MHz [TO-126]
 
-![KSA1381__1__1](/images/semi-trans-Fairchild__KSA1381__1__1.png?raw=true) 
+![KSA1381__1__1](/images/semi-trans-generic__BD136__1__1.png?raw=true) 
 
 ## KSC3503
 NPN 300V 100mA 7W 150MHz [TO-126]
 
-![KSC3503__1__1](/images/semi-trans-Fairchild__KSC3503__1__1.png?raw=true) 
+![KSC3503__1__1](/images/semi-trans-generic__BD135__1__1.png?raw=true) 
 

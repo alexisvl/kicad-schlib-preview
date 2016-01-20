@@ -28,5 +28,5 @@ PMOS -100V -19A 200mR [TO-220]
 ## IRFP9240
 PMOS -200V -12A 500mR [TO-247]
 
-![IRFP9240__1__1](/images/semi-trans-IRF__IRFP9240__1__1.png?raw=true) 
+![IRFP9240__1__1](/images/semi-trans-generic__BSS84__1__1.png?raw=true) 
 
