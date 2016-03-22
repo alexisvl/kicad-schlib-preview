@@ -43,6 +43,11 @@ Logic RX LVDS-CMOS 400Mbps [SOT-23-5]
 ![DS90LV012ATMF__1__1](/images/TexasInstruments__DS90LV012ATMF__1__1.png?raw=true) 
 ![DS90LV012ATMF__2__1](/images/TexasInstruments__DS90LT012ATMF__2__1.png?raw=true) 
 
+## INA3221
+PowerMonitor 3chan I2C [QFN-16]
+
+![INA3221__1__1](/images/TexasInstruments__INA3221__1__1.png?raw=true) 
+
 ## ISO1541DR
 Logic Isolator I2C 3V-5.5V 1MHz 2.5kV [SOIC-8]
 
@@ -64,16 +69,16 @@ Logic Isolator 5.5V 1-150Mbps 2.5kV [SOIC-8]
 ## LF353D
 OpAmp.2 3MHz JFET VLowIB LowNoise [SOIC-8]
 
-![LF353D__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LF353D__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![LF353D__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LF353D__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LF353D__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![LF353D__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LF353P
 OpAmp.2 3MHz JFET VLowIB LowNoise [DIP-8]
 
-![LF353P__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LF353P__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![LF353P__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LF353P__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LF353P__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![LF353P__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LF356M
 OpAmp 5MHz JFET VLowIB LowNoise [SOIC-8]
@@ -226,8 +231,8 @@ Comp.2 80ns OpenColl [DIP-14]
 ## LM324M
 OpAmp.4 1MHz SSIO LowIB [SOIC-14]
 
-![LM324M__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LM324M__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
+![LM324M__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LM324M__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
 ![LM324M__3__1](/images/AnalogDevices__AD8554ARUZ__3__1.png?raw=true) 
 ![LM324M__4__1](/images/AnalogDevices__AD8554ARUZ__4__1.png?raw=true) 
 ![LM324M__5__1](/images/AnalogDevices__AD8554ARUZ__5__1.png?raw=true) 
@@ -235,8 +240,8 @@ OpAmp.4 1MHz SSIO LowIB [SOIC-14]
 ## LM324N
 OpAmp.4 1MHz SSIO LowIB [DIP-14]
 
-![LM324N__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LM324N__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
+![LM324N__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LM324N__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
 ![LM324N__3__1](/images/AnalogDevices__AD8554ARUZ__3__1.png?raw=true) 
 ![LM324N__4__1](/images/AnalogDevices__AD8554ARUZ__4__1.png?raw=true) 
 ![LM324N__5__1](/images/AnalogDevices__AD8554ARUZ__5__1.png?raw=true) 
@@ -244,8 +249,8 @@ OpAmp.4 1MHz SSIO LowIB [DIP-14]
 ## LM324PW
 OpAmp.4 1MHz SSIO LowIB [TSSOP-14]
 
-![LM324PW__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LM324PW__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
+![LM324PW__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LM324PW__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
 ![LM324PW__3__1](/images/AnalogDevices__AD8554ARUZ__3__1.png?raw=true) 
 ![LM324PW__4__1](/images/AnalogDevices__AD8554ARUZ__4__1.png?raw=true) 
 ![LM324PW__5__1](/images/AnalogDevices__AD8554ARUZ__5__1.png?raw=true) 
@@ -290,30 +295,30 @@ Sensor Temp -50-212F ±1F Analog [SOIC-8]
 ## LM358DGK
 OpAmp.2 700kHz SSIO [MSOP-8]
 
-![LM358DGK__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LM358DGK__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![LM358DGK__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LM358DGK__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LM358DGK__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![LM358DGK__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LM358M
 OpAmp.2 700kHz SSIO [SOIC-8]
 
-![LM358M__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LM358M__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![LM358M__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LM358M__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LM358M__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![LM358M__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LM358N
 OpAmp.2 700kHz SSIO [DIP-8]
 
-![LM358N__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LM358N__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![LM358N__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LM358N__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LM358N__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![LM358N__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LM358PW
 OpAmp.2 700kHz SSIO [TSSOP-8]
 
-![LM358PW__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LM358PW__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![LM358PW__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LM358PW__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LM358PW__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![LM358PW__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LM35DM
 Sensor Temp -55-150C ±0.5C Analog [SOIC-8]
@@ -325,21 +330,21 @@ Comp.2 OpenColl [SOIC-8]
 
 ![LM393M__1__1](/images/TexasInstruments__LM393M__1__1.png?raw=true) 
 ![LM393M__2__1](/images/TexasInstruments__LM393M__2__1.png?raw=true) 
-![LM393M__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LM393M__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LM393N
 Comp.2 OpenColl [DIP-8]
 
 ![LM393N__1__1](/images/TexasInstruments__LM393M__1__1.png?raw=true) 
 ![LM393N__2__1](/images/TexasInstruments__LM393M__2__1.png?raw=true) 
-![LM393N__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LM393N__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LM393PW
 Comp.2 OpenColl [TSSOP-8]
 
 ![LM393PW__1__1](/images/TexasInstruments__LM393M__1__1.png?raw=true) 
 ![LM393PW__2__1](/images/TexasInstruments__LM393M__2__1.png?raw=true) 
-![LM393PW__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LM393PW__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LM4040AvvDBZ
 VRef Shunt 0.1% 100ppm/K [SOT-23]
@@ -378,8 +383,8 @@ OpAmp CFA DiffOut 1.5GHz [WSON-8]
 ## LMH6714MF
 OpAmp CFA 400MHz [SOT-23-5]
 
-![LMH6714MF__1__1](/images/AnalogDevices__AD8601ARTZ__1__1.png?raw=true) 
-![LMH6714MF__2__1](/images/AnalogDevices__AD8601ARTZ__2__1.png?raw=true) 
+![LMH6714MF__1__1](/images/LinearTech__LT1395CS5__1__1.png?raw=true) 
+![LMH6714MF__2__1](/images/LinearTech__LT1395CS5__2__1.png?raw=true) 
 
 ## LMH7220MK
 Comp 2.9ns LVDS [TSOT-23-6]
@@ -395,8 +400,8 @@ Reg Boost in:14V AdjV 1.4A 1.6MHz [SOT-23-5]
 ## LMV324ID
 OpAmp.4 1MHz RRO LowIB [SOIC-14]
 
-![LMV324ID__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LMV324ID__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
+![LMV324ID__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LMV324ID__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
 ![LMV324ID__3__1](/images/AnalogDevices__AD8554ARUZ__3__1.png?raw=true) 
 ![LMV324ID__4__1](/images/AnalogDevices__AD8554ARUZ__4__1.png?raw=true) 
 ![LMV324ID__5__1](/images/AnalogDevices__AD8554ARUZ__5__1.png?raw=true) 
@@ -404,8 +409,8 @@ OpAmp.4 1MHz RRO LowIB [SOIC-14]
 ## LMV324IPW
 OpAmp.4 1MHz RRO LowIB [TSSOP-14]
 
-![LMV324IPW__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LMV324IPW__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
+![LMV324IPW__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LMV324IPW__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
 ![LMV324IPW__3__1](/images/AnalogDevices__AD8554ARUZ__3__1.png?raw=true) 
 ![LMV324IPW__4__1](/images/AnalogDevices__AD8554ARUZ__4__1.png?raw=true) 
 ![LMV324IPW__5__1](/images/AnalogDevices__AD8554ARUZ__5__1.png?raw=true) 
@@ -413,21 +418,21 @@ OpAmp.4 1MHz RRO LowIB [TSSOP-14]
 ## LMV358ID
 OpAmp.2 1MHz RRO LowIB [SOIC-8]
 
-![LMV358ID__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LMV358ID__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![LMV358ID__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LMV358ID__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LMV358ID__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![LMV358ID__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LMV358IPW
 OpAmp.2 1MHz RRO LowIB [TSSOP-8]
 
-![LMV358IPW__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LMV358IPW__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![LMV358IPW__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LMV358IPW__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LMV358IPW__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![LMV358IPW__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LMV712MMX
 OpAmp 5MHz RRI RRO CMOS VLowIB [MSOP-10]
 
-![LMV712MMX__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
+![LMV712MMX__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
 ![LMV712MMX__2__1](/images/TexasInstruments__LMV712MMX__2__1.png?raw=true) 
 ![LMV712MMX__3__1](/images/TexasInstruments__LMV712MMX__3__1.png?raw=true) 
 
@@ -440,16 +445,16 @@ Comp 120ns PushPull [SOT-23-6]
 ## LT1013DDR
 OpAmp.2 LowVos LowIB [SOIC-8]
 
-![LT1013DDR__1__1](/images/TexasInstruments__LT1013DDR__1__1.png?raw=true) 
-![LT1013DDR__2__1](/images/TexasInstruments__LT1013DDR__2__1.png?raw=true) 
-![LT1013DDR__3__1](/images/TexasInstruments__LT1013DDR__3__1.png?raw=true) 
+![LT1013DDR__1__1](/images/LinearTech__LT1013DS8__1__1.png?raw=true) 
+![LT1013DDR__2__1](/images/LinearTech__LT1013DS8__2__1.png?raw=true) 
+![LT1013DDR__3__1](/images/LinearTech__LT1013DS8__3__1.png?raw=true) 
 
 ## MC33078DGK
 OpAmp.2 16MHz LowVos LowIB LowNoise [MSOP-8]
 
-![MC33078DGK__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![MC33078DGK__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![MC33078DGK__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![MC33078DGK__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![MC33078DGK__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![MC33078DGK__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## NE555DR
 Osc/Timer 100kHz TTL [SOIC-8]
@@ -464,37 +469,37 @@ Osc/Timer 100kHz TTL [DIP-8]
 ## OPA1652AID
 OpAmp.2 18MHz FET LowVos VLowIB LowNoise [SOIC-8]
 
-![OPA1652AID__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![OPA1652AID__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![OPA1652AID__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![OPA1652AID__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![OPA1652AID__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![OPA1652AID__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## OPA1652AIDGK
 OpAmp.2 18MHz FET LowVos VLowIB LowNoise [VSSOP-8]
 
-![OPA1652AIDGK__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![OPA1652AIDGK__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![OPA1652AIDGK__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![OPA1652AIDGK__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![OPA1652AIDGK__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![OPA1652AIDGK__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## OPA2376AID
 OpAmp.2 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [SOIC-8]
 
-![OPA2376AID__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![OPA2376AID__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![OPA2376AID__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![OPA2376AID__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![OPA2376AID__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![OPA2376AID__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## OPA2376AIDGK
 OpAmp.2 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [VSSOP-8]
 
-![OPA2376AIDGK__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![OPA2376AIDGK__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![OPA2376AIDGK__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![OPA2376AIDGK__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![OPA2376AIDGK__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![OPA2376AIDGK__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## OPA2378AIDCN
 OpAmp.2 900kHz RRI RRO VLowVos VLowIB AutoZero [SOT-23-8]
 
-![OPA2378AIDCN__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![OPA2378AIDCN__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![OPA2378AIDCN__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![OPA2378AIDCN__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![OPA2378AIDCN__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![OPA2378AIDCN__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## OPA376AID
 OpAmp 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [SOIC-8]
@@ -505,32 +510,32 @@ OpAmp 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [SOIC-8]
 ## OPA376AIDBV
 OpAmp 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [SOT-23-5]
 
-![OPA376AIDBV__1__1](/images/AnalogDevices__AD8601ARTZ__1__1.png?raw=true) 
-![OPA376AIDBV__2__1](/images/AnalogDevices__AD8601ARTZ__2__1.png?raw=true) 
+![OPA376AIDBV__1__1](/images/LinearTech__LT1395CS5__1__1.png?raw=true) 
+![OPA376AIDBV__2__1](/images/LinearTech__LT1395CS5__2__1.png?raw=true) 
 
 ## OPA376AIDCK
 OpAmp 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [SC-70-5]
 
 ![OPA376AIDCK__1__1](/images/TexasInstruments__OPA376AIDCK__1__1.png?raw=true) 
-![OPA376AIDCK__2__1](/images/AnalogDevices__AD8601ARTZ__2__1.png?raw=true) 
+![OPA376AIDCK__2__1](/images/LinearTech__LT1395CS5__2__1.png?raw=true) 
 
 ## OPA378AIDBV
 OpAmp 900kHz RRI RRO VLowVos VLowIB AutoZero [SOT-23-5]
 
-![OPA378AIDBV__1__1](/images/AnalogDevices__AD8601ARTZ__1__1.png?raw=true) 
-![OPA378AIDBV__2__1](/images/AnalogDevices__AD8601ARTZ__2__1.png?raw=true) 
+![OPA378AIDBV__1__1](/images/LinearTech__LT1395CS5__1__1.png?raw=true) 
+![OPA378AIDBV__2__1](/images/LinearTech__LT1395CS5__2__1.png?raw=true) 
 
 ## OPA378AIDCK
 OpAmp 900kHz RRI RRO VLowVos VLowIB AutoZero [SC-70-5]
 
 ![OPA378AIDCK__1__1](/images/TexasInstruments__OPA376AIDCK__1__1.png?raw=true) 
-![OPA378AIDCK__2__1](/images/AnalogDevices__AD8601ARTZ__2__1.png?raw=true) 
+![OPA378AIDCK__2__1](/images/LinearTech__LT1395CS5__2__1.png?raw=true) 
 
 ## OPA4376AIPW
 OpAmp.4 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [TSSOP-14]
 
-![OPA4376AIPW__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![OPA4376AIPW__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
+![OPA4376AIPW__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![OPA4376AIPW__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
 ![OPA4376AIPW__3__1](/images/AnalogDevices__AD8554ARUZ__3__1.png?raw=true) 
 ![OPA4376AIPW__4__1](/images/AnalogDevices__AD8554ARUZ__4__1.png?raw=true) 
 ![OPA4376AIPW__5__1](/images/AnalogDevices__AD8554ARUZ__5__1.png?raw=true) 
@@ -572,7 +577,7 @@ Logic.2 Inverter LVCMOS [SOT-23-6]
 Logic.2 InvSchmitt LVCMOS [SOT-23-6]
 
 ![SN74LVC2G14DBV__1__1](/images/logic-7400__742G14-SOT363__1__1.png?raw=true) 
-![SN74LVC2G14DBV__2__1](/images/logic-4000__40106-SO__2__1.png?raw=true) 
+![SN74LVC2G14DBV__2__1](/images/logic-4000__40106-DIP__2__1.png?raw=true) 
 ![SN74LVC2G14DBV__3__1](/images/AnalogDevices__ADCMP604BKSZ__2__1.png?raw=true) 
 
 ## SN75176BDR
@@ -589,36 +594,36 @@ OpAmp CFA 420MHz 6500V/µs [MSOP-8-PAD]
 ## THS4222D
 OpAmp.2 VFB 230MHz RRO [SOIC-8]
 
-![THS4222D__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![THS4222D__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![THS4222D__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![THS4222D__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![THS4222D__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![THS4222D__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## THS4222DGN
 OpAmp.2 VFB 230MHz RRO [MSOP-8-PP]
 
-![THS4222DGN__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![THS4222DGN__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
+![THS4222DGN__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![THS4222DGN__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
 ![THS4222DGN__3__1](/images/TexasInstruments__THS4222DGN__3__1.png?raw=true) 
 
 ## TL072CD
 OpAmp.2 3MHz JFET VLowIB [SOIC-8]
 
-![TL072CD__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![TL072CD__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![TL072CD__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![TL072CD__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![TL072CD__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![TL072CD__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## TL072CP
 OpAmp.2 3MHz JFET VLowIB [DIP-8]
 
-![TL072CP__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![TL072CP__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![TL072CP__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![TL072CP__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![TL072CP__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![TL072CP__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## TL074CD
 OpAmp.4 3MHz JFET VLowIB [SOIC-14]
 
-![TL074CD__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![TL074CD__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
+![TL074CD__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![TL074CD__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
 ![TL074CD__3__1](/images/AnalogDevices__AD8554ARUZ__3__1.png?raw=true) 
 ![TL074CD__4__1](/images/AnalogDevices__AD8554ARUZ__4__1.png?raw=true) 
 ![TL074CD__5__1](/images/AnalogDevices__AD8554ARUZ__5__1.png?raw=true) 
@@ -626,8 +631,8 @@ OpAmp.4 3MHz JFET VLowIB [SOIC-14]
 ## TL074CN
 OpAmp.4 3MHz JFET VLowIB [DIP-14]
 
-![TL074CN__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![TL074CN__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
+![TL074CN__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![TL074CN__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
 ![TL074CN__3__1](/images/AnalogDevices__AD8554ARUZ__3__1.png?raw=true) 
 ![TL074CN__4__1](/images/AnalogDevices__AD8554ARUZ__4__1.png?raw=true) 
 ![TL074CN__5__1](/images/AnalogDevices__AD8554ARUZ__5__1.png?raw=true) 
@@ -650,22 +655,22 @@ VRef Shunt AdjV 1% [TO-92]
 ## TL972ID
 OpAmp.2 12MHz RRO [SOIC-8]
 
-![TL972ID__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![TL972ID__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![TL972ID__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![TL972ID__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![TL972ID__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![TL972ID__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## TL972PW
 OpAmp.2 12MHz RRO [TSSOP-8]
 
-![TL972PW__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![TL972PW__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![TL972PW__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![TL972PW__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![TL972PW__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![TL972PW__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## TL974ID
 OpAmp.4 12MHz RRO [SOIC-14]
 
-![TL974ID__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![TL974ID__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
+![TL974ID__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![TL974ID__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
 ![TL974ID__3__1](/images/AnalogDevices__AD8554ARUZ__3__1.png?raw=true) 
 ![TL974ID__4__1](/images/AnalogDevices__AD8554ARUZ__4__1.png?raw=true) 
 ![TL974ID__5__1](/images/AnalogDevices__AD8554ARUZ__5__1.png?raw=true) 
@@ -717,6 +722,16 @@ Logic ShiftReg Latched Power [SOIC-20]
 
 ![TPIC6B595DW__1__1](/images/TexasInstruments__TPIC6B595DW__1__1.png?raw=true) 
 ![TPIC6B595DW__2__1](/images/TexasInstruments__TPIC6B595DW__2__1.png?raw=true) 
+
+## TPS2110A
+PowerSwitch Mux2:1 Auto 750mA [TSSOP-8]
+
+![TPS2110A__1__1](/images/TexasInstruments__TPS2110A__1__1.png?raw=true) 
+
+## TPS2111A
+PowerSwitch Mux2:1 Auto 1.25A [TSSOP-8]
+
+![TPS2111A__1__1](/images/TexasInstruments__TPS2110A__1__1.png?raw=true) 
 
 ## TPS61045DRB
 Reg Boost in:6V AdjV 20mA 1MHz DigitalAdj [SON-8]

@@ -3,36 +3,36 @@
 ## LT1013DS8
 OpAmp.2 300kHz LowVos LowIB LowNoise [SOIC-8]
 
-![LT1013DS8__1__1](/images/TexasInstruments__LT1013DDR__1__1.png?raw=true) 
-![LT1013DS8__2__1](/images/TexasInstruments__LT1013DDR__2__1.png?raw=true) 
-![LT1013DS8__3__1](/images/TexasInstruments__LT1013DDR__3__1.png?raw=true) 
+![LT1013DS8__1__1](/images/LinearTech__LT1013DS8__1__1.png?raw=true) 
+![LT1013DS8__2__1](/images/LinearTech__LT1013DS8__2__1.png?raw=true) 
+![LT1013DS8__3__1](/images/LinearTech__LT1013DS8__3__1.png?raw=true) 
 
 ## LT1395CS5
 OpAmp CFA 400MHz [TSOT-23-5]
 
-![LT1395CS5__1__1](/images/AnalogDevices__AD8601ARTZ__1__1.png?raw=true) 
-![LT1395CS5__2__1](/images/AnalogDevices__AD8601ARTZ__2__1.png?raw=true) 
+![LT1395CS5__1__1](/images/LinearTech__LT1395CS5__1__1.png?raw=true) 
+![LT1395CS5__2__1](/images/LinearTech__LT1395CS5__2__1.png?raw=true) 
 
 ## LT1813CS8
 OpAmp.2 VFB 100MHz 750V/µs [SOIC-8]
 
-![LT1813CS8__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LT1813CS8__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![LT1813CS8__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LT1813CS8__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LT1813CS8__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![LT1813CS8__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LT1819CMS8
 OpAmp.2 VFB 400MHz 2500V/µs [MSOP-8]
 
-![LT1819CMS8__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LT1819CMS8__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![LT1819CMS8__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LT1819CMS8__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LT1819CMS8__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![LT1819CMS8__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LT1819CS8
 OpAmp.2 VFB 400MHz 2500V/µs [SOIC-8]
 
-![LT1819CS8__1__1](/images/AnalogDevices__AD8552ARUZ__1__1.png?raw=true) 
-![LT1819CS8__2__1](/images/AnalogDevices__AD8552ARUZ__2__1.png?raw=true) 
-![LT1819CS8__3__1](/images/AnalogDevices__AD8552ARUZ__3__1.png?raw=true) 
+![LT1819CS8__1__1](/images/LinearTech__LT1813CS8__1__1.png?raw=true) 
+![LT1819CS8__2__1](/images/LinearTech__LT1813CS8__2__1.png?raw=true) 
+![LT1819CS8__3__1](/images/LinearTech__LT1813CS8__3__1.png?raw=true) 
 
 ## LT1931AES5
 Reg Invert in:16V AdjV 1A 2.2MHz [TSOT-23-5]

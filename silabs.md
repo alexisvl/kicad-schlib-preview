@@ -1,7 +1,12 @@
 # silabs
 
+## CP2104
+Interface USB UART [QFN-24]
+
+![CP2104__1__1](/images/silabs__CP2104__1__1.png?raw=true) 
+
 ## CP2130
-USB-SPI master
+Interface USB SPI [QFN-24]
 
 ![CP2130__1__1](/images/silabs__CP2130__1__1.png?raw=true) 
 

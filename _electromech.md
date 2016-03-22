@@ -105,7 +105,7 @@ Switch, MOM-OFF-MOM
 ## TACT
 Switch, SPST tactile
 
-![TACT__1__1](/images/electomech-misc__TACT-ESWITCH-TL1105__1__1.png?raw=true) 
+![TACT__1__1](/images/_electromech__TACT__1__1.png?raw=true) 
 
 ## UAMMETER
 Microammeter

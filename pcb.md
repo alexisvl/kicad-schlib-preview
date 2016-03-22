@@ -1,5 +1,10 @@
 # pcb
 
+## FIDUCIAL-1.5mm
+Fiducial, 1.5mm copper, 3mm mask
+
+![FIDUCIAL-1.5mm__1__1](/images/pcb__FIDUCIAL-1.5mm__1__1.png?raw=true) 
+
 ## JUMPER
 Two-pin jumper
 

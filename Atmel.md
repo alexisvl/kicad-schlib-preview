@@ -116,6 +116,36 @@ MCU 32bit/ARM-M0+ ROM:16-256KB RAM:2-32KB [QFN-48]
 
 ![ATSAMD20GnnA-MU__1__1](/images/Atmel__ATSAMD20GnnA-MU__1__1.png?raw=true) 
 
+## ATSAMD21Ennc-AU
+MCU 32bit/ARM-M0+ ROM:32-256KB RAM:4-32KB USB [QFP-32]
+
+![ATSAMD21Ennc-AU__1__1](/images/Atmel__ATSAMD21Ennc-AU__1__1.png?raw=true) 
+
+## ATSAMD21Ennc-MU
+MCU 32bit/ARM-M0+ ROM:32-256KB RAM:4-32KB USB [QFN-32]
+
+![ATSAMD21Ennc-MU__1__1](/images/Atmel__ATSAMD21Ennc-MU__1__1.png?raw=true) 
+
+## ATSAMD21Gnnc-AU
+MCU 32bit/ARM-M0+ ROM:32-256KB RAM:4-32KB USB [QFP-48]
+
+![ATSAMD21Gnnc-AU__1__1](/images/Atmel__ATSAMD21Gnnc-AU__1__1.png?raw=true) 
+
+## ATSAMD21Gnnc-MU
+MCU 32bit/ARM-M0+ ROM:32-256KB RAM:4-32KB USB [QFN-48]
+
+![ATSAMD21Gnnc-MU__1__1](/images/Atmel__ATSAMD21Gnnc-MU__1__1.png?raw=true) 
+
+## ATSAMD21Jnnc-AU
+MCU 32bit/ARM-M0+ ROM:32-256KB RAM:4-32KB USB [QFP-64]
+
+![ATSAMD21Jnnc-AU__1__1](/images/Atmel__ATSAMD21Jnnc-AU__1__1.png?raw=true) 
+
+## ATSAMD21Jnnc-MU
+MCU 32bit/ARM-M0+ ROM:32-256KB RAM:4-32KB USB [QFN-64]
+
+![ATSAMD21Jnnc-MU__1__1](/images/Atmel__ATSAMD21Jnnc-MU__1__1.png?raw=true) 
+
 ## ATTINY24A-SS
 MCU 8bit/AVR ROM:2KB RAM:128B [SOIC-14]
 
@@ -210,6 +240,21 @@ MCU 8bit/AVR ROM:8KB RAM:1KB ADC12b DAC12b [UQFN-32]
 MCU 8bit/AVR ROM:8KB RAM:1KB ADC12b DAC12b [VQFN-32]
 
 ![ATXMEGA8E5-MU__1__1](/images/Atmel__ATXMEGA16E5-M4U__1__1.png?raw=true) 
+
+## ATXMEGAnA1U-AU
+MCU 8bit/AVR ROM:64-128KB RAM:4-8KB USB ExtMem [TQFP-100]
+
+![ATXMEGAnA1U-AU__1__1](/images/Atmel__ATXMEGAnA1U-AU__1__1.png?raw=true) 
+![ATXMEGAnA1U-AU__2__1](/images/Atmel__ATXMEGAnA1U-AU__2__1.png?raw=true) 
+![ATXMEGAnA1U-AU__3__1](/images/Atmel__ATXMEGAnA1U-AU__3__1.png?raw=true) 
+![ATXMEGAnA1U-AU__4__1](/images/Atmel__ATXMEGAnA1U-AU__4__1.png?raw=true) 
+![ATXMEGAnA1U-AU__5__1](/images/Atmel__ATXMEGAnA1U-AU__5__1.png?raw=true) 
+![ATXMEGAnA1U-AU__6__1](/images/Atmel__ATXMEGAnA1U-AU__6__1.png?raw=true) 
+![ATXMEGAnA1U-AU__7__1](/images/Atmel__ATXMEGAnA1U-AU__7__1.png?raw=true) 
+![ATXMEGAnA1U-AU__8__1](/images/Atmel__ATXMEGAnA1U-AU__8__1.png?raw=true) 
+![ATXMEGAnA1U-AU__9__1](/images/Atmel__ATXMEGAnA1U-AU__9__1.png?raw=true) 
+![ATXMEGAnA1U-AU__10__1](/images/Atmel__ATXMEGAnA1U-AU__10__1.png?raw=true) 
+![ATXMEGAnA1U-AU__11__1](/images/Atmel__ATXMEGAnA1U-AU__11__1.png?raw=true) 
 
 ## ATXMEGAnD3-AU
 MCU 8bit/AVR ROM:32-384KB RAM:4-32KB [TQFP-64]
