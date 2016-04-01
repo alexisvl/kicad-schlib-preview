@@ -18,12 +18,12 @@ Reg LDO 250mA [SOT-89]
 ## MCP1700T-vv02E/TT
 Reg LDO 250mA [SOT-23]
 
-![MCP1700T-vv02E/TT__1__1](/images/ST__L79vvCD2T__1__1.png?raw=true) 
+![MCP1700T-vv02E/TT__1__1](/images/Microchip__MCP1700T-vv02E-TT__1__1.png?raw=true) 
 
 ## MCP1754ST-vv02E/CB
 Reg LDO 150mA [SOT-23]
 
-![MCP1754ST-vv02E/CB__1__1](/images/ST__L79vvCD2T__1__1.png?raw=true) 
+![MCP1754ST-vv02E/CB__1__1](/images/Microchip__MCP1700T-vv02E-TT__1__1.png?raw=true) 
 
 ## MCP2210-I/SS
 Interface USB SPI [SSOP-20]
@@ -76,8 +76,8 @@ DAC 12bit 4.5µs SPI INL:12 [SOIC-8]
 ## MCP6V06-E/SN
 OpAmp 1.3MHz RRI RRO CMOS VLowVos VLowIB Chopper [SOIC-8]
 
-![MCP6V06-E/SN__1__1](/images/AnalogDevices__AD8597ARZ__1__1.png?raw=true) 
-![MCP6V06-E/SN__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
+![MCP6V06-E/SN__1__1](/images/Microchip__MCP6V06-E-SN__1__1.png?raw=true) 
+![MCP6V06-E/SN__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
 
 ## MCP7940M-I/SN
 RT Clock/Cal SRAM I2C [SOIC-8]

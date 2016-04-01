@@ -40,7 +40,7 @@ Quad NAND gate
 Hex inverting Schmitt trigger
 
 ![7404-DIP__1__1](/images/logic-7400__7404-DIP__1__1.png?raw=true) 
-![7404-DIP__2__1](/images/logic-7400__7404-DIP__2__1.png?raw=true) 
+![7404-DIP__2__1](/images/TexasInstruments__SN74LVC2G04DBV__2__1.png?raw=true) 
 ![7404-DIP__3__1](/images/logic-7400__7404-DIP__3__1.png?raw=true) 
 ![7404-DIP__4__1](/images/logic-7400__7404-DIP__4__1.png?raw=true) 
 ![7404-DIP__5__1](/images/logic-7400__7404-DIP__5__1.png?raw=true) 
@@ -51,7 +51,7 @@ Hex inverting Schmitt trigger
 Hex inverting Schmitt trigger
 
 ![7404-SO__1__1](/images/logic-7400__7404-DIP__1__1.png?raw=true) 
-![7404-SO__2__1](/images/logic-7400__7404-DIP__2__1.png?raw=true) 
+![7404-SO__2__1](/images/TexasInstruments__SN74LVC2G04DBV__2__1.png?raw=true) 
 ![7404-SO__3__1](/images/logic-7400__7404-DIP__3__1.png?raw=true) 
 ![7404-SO__4__1](/images/logic-7400__7404-DIP__4__1.png?raw=true) 
 ![7404-SO__5__1](/images/logic-7400__7404-DIP__5__1.png?raw=true) 
@@ -62,7 +62,7 @@ Hex inverting Schmitt trigger
 Hex inverting Schmitt trigger
 
 ![7404-SSOP__1__1](/images/logic-7400__7404-DIP__1__1.png?raw=true) 
-![7404-SSOP__2__1](/images/logic-7400__7404-DIP__2__1.png?raw=true) 
+![7404-SSOP__2__1](/images/TexasInstruments__SN74LVC2G04DBV__2__1.png?raw=true) 
 ![7404-SSOP__3__1](/images/logic-7400__7404-DIP__3__1.png?raw=true) 
 ![7404-SSOP__4__1](/images/logic-7400__7404-DIP__4__1.png?raw=true) 
 ![7404-SSOP__5__1](/images/logic-7400__7404-DIP__5__1.png?raw=true) 
@@ -73,7 +73,7 @@ Hex inverting Schmitt trigger
 Hex inverting Schmitt trigger
 
 ![7404-TSSOP__1__1](/images/logic-7400__7404-DIP__1__1.png?raw=true) 
-![7404-TSSOP__2__1](/images/logic-7400__7404-DIP__2__1.png?raw=true) 
+![7404-TSSOP__2__1](/images/TexasInstruments__SN74LVC2G04DBV__2__1.png?raw=true) 
 ![7404-TSSOP__3__1](/images/logic-7400__7404-DIP__3__1.png?raw=true) 
 ![7404-TSSOP__4__1](/images/logic-7400__7404-DIP__4__1.png?raw=true) 
 ![7404-TSSOP__5__1](/images/logic-7400__7404-DIP__5__1.png?raw=true) 
@@ -84,7 +84,7 @@ Hex inverting Schmitt trigger
 Hex inverting Schmitt trigger
 
 ![7414-DIP__1__1](/images/logic-4000__40106-DIP__1__1.png?raw=true) 
-![7414-DIP__2__1](/images/logic-4000__40106-DIP__2__1.png?raw=true) 
+![7414-DIP__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
 ![7414-DIP__3__1](/images/logic-4000__40106-DIP__3__1.png?raw=true) 
 ![7414-DIP__4__1](/images/logic-4000__40106-DIP__4__1.png?raw=true) 
 ![7414-DIP__5__1](/images/logic-4000__40106-DIP__5__1.png?raw=true) 
@@ -95,7 +95,7 @@ Hex inverting Schmitt trigger
 Hex inverting Schmitt trigger
 
 ![7414-SO__1__1](/images/logic-4000__40106-DIP__1__1.png?raw=true) 
-![7414-SO__2__1](/images/logic-4000__40106-DIP__2__1.png?raw=true) 
+![7414-SO__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
 ![7414-SO__3__1](/images/logic-4000__40106-DIP__3__1.png?raw=true) 
 ![7414-SO__4__1](/images/logic-4000__40106-DIP__4__1.png?raw=true) 
 ![7414-SO__5__1](/images/logic-4000__40106-DIP__5__1.png?raw=true) 
@@ -106,7 +106,7 @@ Hex inverting Schmitt trigger
 Hex inverting Schmitt trigger
 
 ![7414-SSOP__1__1](/images/logic-4000__40106-DIP__1__1.png?raw=true) 
-![7414-SSOP__2__1](/images/logic-4000__40106-DIP__2__1.png?raw=true) 
+![7414-SSOP__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
 ![7414-SSOP__3__1](/images/logic-4000__40106-DIP__3__1.png?raw=true) 
 ![7414-SSOP__4__1](/images/logic-4000__40106-DIP__4__1.png?raw=true) 
 ![7414-SSOP__5__1](/images/logic-4000__40106-DIP__5__1.png?raw=true) 
@@ -117,7 +117,7 @@ Hex inverting Schmitt trigger
 Hex inverting Schmitt trigger
 
 ![7414-TSSOP__1__1](/images/logic-4000__40106-DIP__1__1.png?raw=true) 
-![7414-TSSOP__2__1](/images/logic-4000__40106-DIP__2__1.png?raw=true) 
+![7414-TSSOP__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
 ![7414-TSSOP__3__1](/images/logic-4000__40106-DIP__3__1.png?raw=true) 
 ![7414-TSSOP__4__1](/images/logic-4000__40106-DIP__4__1.png?raw=true) 
 ![7414-TSSOP__5__1](/images/logic-4000__40106-DIP__5__1.png?raw=true) 
@@ -239,8 +239,8 @@ Logic Register 8bit [TSSOP-20]
 ## 742G14-SOT363
 Hex inverting Schmitt trigger
 
-![742G14-SOT363__1__1](/images/logic-7400__742G14-SOT363__1__1.png?raw=true) 
-![742G14-SOT363__2__1](/images/logic-4000__40106-DIP__2__1.png?raw=true) 
+![742G14-SOT363__1__1](/images/TexasInstruments__SN74LVC2G14DBV__1__1.png?raw=true) 
+![742G14-SOT363__2__1](/images/TexasInstruments__SN74LVC2G14DBV__2__1.png?raw=true) 
 ![742G14-SOT363__3__1](/images/logic-7400__742G14-SOT363__3__1.png?raw=true) 
 
 ## 7430-TSSOP

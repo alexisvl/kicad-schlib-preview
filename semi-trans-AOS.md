@@ -33,15 +33,15 @@ PMOS -40V -28A 29mR -1.9Vth [TO-252]
 ## AOD514
 NMOS 30V 17A 12mR 2Vth [TO-252]
 
-![AOD514__1__1](/images/semi-trans-generic__2N7002__1__1.png?raw=true) 
+![AOD514__1__1](/images/semi-trans-NXP__2N7002PW__1__1.png?raw=true) 
 
 ## AOD516
 NMOS 30V 18A 5mR 2Vth [TO-252]
 
-![AOD516__1__1](/images/semi-trans-generic__2N7002__1__1.png?raw=true) 
+![AOD516__1__1](/images/semi-trans-NXP__2N7002PW__1__1.png?raw=true) 
 
 ## AOD5T40P
 NMOS 400V 2.5A 1.45R 4.2Vth [TO-252]
 
-![AOD5T40P__1__1](/images/semi-trans-generic__2N7002__1__1.png?raw=true) 
+![AOD5T40P__1__1](/images/semi-trans-NXP__2N7002PW__1__1.png?raw=true) 
 

@@ -3,14 +3,14 @@
 ## DMMT3904W
 NPN.2 40V 200mA 200mW Matched [SOT-363]
 
-![DMMT3904W__1__1](/images/semi-trans-DiodesInc__DMMT3904W__1__1.png?raw=true) 
-![DMMT3904W__2__1](/images/semi-trans-DiodesInc__DMMT3904W__2__1.png?raw=true) 
+![DMMT3904W__1__1](/images/semi-trans-NXP__PMP4201Y__1__1.png?raw=true) 
+![DMMT3904W__2__1](/images/semi-trans-NXP__PMP4201Y__2__1.png?raw=true) 
 
 ## DMMT3906W
 PNP.2 -40V -200mA 200mW Matched [SOT-363]
 
-![DMMT3906W__1__1](/images/semi-trans-DiodesInc__DMMT3906W__1__1.png?raw=true) 
-![DMMT3906W__2__1](/images/semi-trans-DiodesInc__DMMT3906W__2__1.png?raw=true) 
+![DMMT3906W__1__1](/images/semi-trans-NXP__PMP5201Y__1__1.png?raw=true) 
+![DMMT3906W__2__1](/images/semi-trans-NXP__PMP5201Y__2__1.png?raw=true) 
 
 ## DMN3018SSS
 NMOS 30V 5.5A 35mR 1.7Vth [SOIC-8]
@@ -27,10 +27,10 @@ NMOS.2 30V 200mA 4.2R 1.5Vth [SOT-563]
 ## DMP3098L
 PMOS -30V -3A 120mR -1.8Vth [SOT-23]
 
-![DMP3098L__1__1](/images/semi-trans-generic__BSS84__1__1.png?raw=true) 
+![DMP3098L__1__1](/images/semi-trans-NXP__PMV160UP__1__1.png?raw=true) 
 
 ## DMP4051LK3
 PMOS -40V -8.4A 85mR -3Vth [TO-252]
 
-![DMP4051LK3__1__1](/images/semi-trans-IRF__IRF9540__1__1.png?raw=true) 
+![DMP4051LK3__1__1](/images/semi-trans-IXYS__IXTH24P20__1__1.png?raw=true) 
 

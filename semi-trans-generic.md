@@ -98,7 +98,7 @@ NMOS 60V 200mA [TO-92]
 ## 2N7002
 NMOS 60V 115mA [SOT-23]
 
-![2N7002__1__1](/images/semi-trans-generic__2N7002__1__1.png?raw=true) 
+![2N7002__1__1](/images/semi-trans-NXP__2N7002PW__1__1.png?raw=true) 
 
 ## BC546
 NPN 65V 100mA 500mW [TO-92]
@@ -153,52 +153,52 @@ PNP -45V -100mA 500mW LowNoise [TO-92]
 ## BC846
 NPN 65V 100mA 250mW [SOT-23]
 
-![BC846__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![BC846__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## BC847
 NPN 45V 100mA 250mW [SOT-23]
 
-![BC847__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![BC847__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## BC848
 NPN 30V 100mA 250mW [SOT-23]
 
-![BC848__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![BC848__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## BC849
 NPN 30V 100mA 250mW LowNoise [SOT-23]
 
-![BC849__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![BC849__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## BC850
 NPN 45V 100mA 250mW LowNoise [SOT-23]
 
-![BC850__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![BC850__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## BC856
 PNP -65V -100mA 250mW [SOT-23]
 
-![BC856__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![BC856__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## BC857
 PNP -45V -100mA 250mW [SOT-23]
 
-![BC857__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![BC857__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## BC858
 PNP -30V -100mA 250mW [SOT-23]
 
-![BC858__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![BC858__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## BC859
 PNP -30V -100mA 250mW LowNoise [SOT-23]
 
-![BC859__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![BC859__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## BC860
 PNP -45V -100mA 250mW LowNoise [SOT-23]
 
-![BC860__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![BC860__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## BD135
 NPN 45V 1.5A 1.25W [TO-126]
@@ -248,7 +248,7 @@ NJF 40V 50mA 4-10Vth [SOT-23]
 ## BSS138
 NMOS 60V 360mA 3.5-6R 1.3Vth [SOT-23]
 
-![BSS138__1__1](/images/semi-trans-generic__2N7002__1__1.png?raw=true) 
+![BSS138__1__1](/images/semi-trans-NXP__2N7002PW__1__1.png?raw=true) 
 
 ## BSS83
 NMOS 10V 50mA 45R Symmetric [SOT-143]
@@ -258,7 +258,7 @@ NMOS 10V 50mA 45R Symmetric [SOT-143]
 ## BSS84
 PMOS -50V -130mA 10R -1.7Vth [SOT-23]
 
-![BSS84__1__1](/images/semi-trans-generic__BSS84__1__1.png?raw=true) 
+![BSS84__1__1](/images/semi-trans-NXP__PMV160UP__1__1.png?raw=true) 
 
 ## J111
 NJF 35V >20mA -3-10Vth [TO-92]
@@ -308,67 +308,67 @@ NJF 25V 24-60mA -2-6.5Vth 450MHz [SOT-23]
 ## MMBT2222A
 NPN 40V 600mA 225mW [SOT-23]
 
-![MMBT2222A__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![MMBT2222A__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## MMBT2907A
 PNP -40V -600mA 225mW [SOT-23]
 
-![MMBT2907A__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![MMBT2907A__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## MMBT3904
 NPN 40V 200mA [SOT-23]
 
-![MMBT3904__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![MMBT3904__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## MMBT3906
 PNP -40V -200mA [SOT-23]
 
-![MMBT3906__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![MMBT3906__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## MMBT4401
 NPN 40V 600mA [SOT-23]
 
-![MMBT4401__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![MMBT4401__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## MMBT4403
 PNP -40V -600mA [SOT-23]
 
-![MMBT4403__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![MMBT4403__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## MMBT5087
 PNP -50V -50mA 225mW HighBeta [SOT-23]
 
-![MMBT5087__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![MMBT5087__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## MMBT5088
 NPN 30V 50mA 225mW HighBeta [SOT-23]
 
-![MMBT5088__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![MMBT5088__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## MMBT5089
 NPN 25V 50mA 225mW HighBeta [SOT-23]
 
-![MMBT5089__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![MMBT5089__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## MMBTA42
 NPN 300V 300mA 225mW [SOT-23]
 
-![MMBTA42__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![MMBTA42__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## MMBTA92
 PNP -300V -300mA 225mW [SOT-23]
 
-![MMBTA92__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![MMBTA92__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## MMBTH10
 NPN 25V 50mA 650MHz [SOT-23]
 
-![MMBTH10__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![MMBTH10__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## MMBTH81
 PNP 20V 50mA 600MHz [SOT-23]
 
-![MMBTH81__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![MMBTH81__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## MPSA42
 NPN 300V 300mA 600mW [TO-92]
@@ -383,12 +383,12 @@ PNP -300V -300mA 600mW [TO-92]
 ## PMST4401
 NPN 40V 600mA 200mW [SC-70]
 
-![PMST4401__1__1](/images/semi-trans-generic__BC846__1__1.png?raw=true) 
+![PMST4401__1__1](/images/semi-trans-NXP__BFR540__1__1.png?raw=true) 
 
 ## PMST4403
 PNP -40V -600mA 200mW [SC-70]
 
-![PMST4403__1__1](/images/semi-trans-generic__BC856__1__1.png?raw=true) 
+![PMST4403__1__1](/images/semi-trans-NXP__BFT92W__1__1.png?raw=true) 
 
 ## PN2222
 [obs] NPN 40V 600mA 600mW [TO-92]
@@ -423,38 +423,38 @@ PNP -60V -600mA 600mW [TO-92]
 ## PZT2222A
 NPN 40V 600mA [SOT-223]
 
-![PZT2222A__1__1](/images/semi-trans-generic__PZT2222A__1__1.png?raw=true) 
+![PZT2222A__1__1](/images/semi-trans-Infineon__BFQ19__1__1.png?raw=true) 
 ![PZT2222A__1__2](/images/semi-trans-generic__PZT2222A__1__2.png?raw=true) 
 
 ## PZT2907A
 PNP -40V -600mA [SOT-223]
 
-![PZT2907A__1__1](/images/semi-trans-generic__PZT2907A__1__1.png?raw=true) 
-![PZT2907A__1__2](/images/semi-trans-generic__PZT2907A__1__2.png?raw=true) 
+![PZT2907A__1__1](/images/semi-trans-NXP__BFQ149__1__1.png?raw=true) 
+![PZT2907A__1__2](/images/semi-trans-NXP__BFQ149__1__2.png?raw=true) 
 
 ## PZT3904
 NPN 40V 200mA 1W [SOT-223]
 
-![PZT3904__1__1](/images/semi-trans-generic__PZT2222A__1__1.png?raw=true) 
+![PZT3904__1__1](/images/semi-trans-Infineon__BFQ19__1__1.png?raw=true) 
 ![PZT3904__1__2](/images/semi-trans-generic__PZT2222A__1__2.png?raw=true) 
 
 ## PZT3906
 PNP -40V -200mA 1W [SOT-223]
 
-![PZT3906__1__1](/images/semi-trans-generic__PZT2907A__1__1.png?raw=true) 
-![PZT3906__1__2](/images/semi-trans-generic__PZT2907A__1__2.png?raw=true) 
+![PZT3906__1__1](/images/semi-trans-NXP__BFQ149__1__1.png?raw=true) 
+![PZT3906__1__2](/images/semi-trans-NXP__BFQ149__1__2.png?raw=true) 
 
 ## PZTA42
 NPN 300V 300mA [SOT-223]
 
-![PZTA42__1__1](/images/semi-trans-generic__PZT2222A__1__1.png?raw=true) 
+![PZTA42__1__1](/images/semi-trans-Infineon__BFQ19__1__1.png?raw=true) 
 ![PZTA42__1__2](/images/semi-trans-generic__PZT2222A__1__2.png?raw=true) 
 
 ## PZTA92
 PNP -300V -300mA [SOT-223]
 
-![PZTA92__1__1](/images/semi-trans-generic__PZT2907A__1__1.png?raw=true) 
-![PZTA92__1__2](/images/semi-trans-generic__PZT2907A__1__2.png?raw=true) 
+![PZTA92__1__1](/images/semi-trans-NXP__BFQ149__1__1.png?raw=true) 
+![PZTA92__1__2](/images/semi-trans-NXP__BFQ149__1__2.png?raw=true) 
 
 ## TIP120
 NPN Darl 60V 5A [TO-220]

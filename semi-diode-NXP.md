@@ -8,5 +8,5 @@ Diode PIN 60V 100mA [SOD-523]
 ## PESD5V0X1ULD
 TVS 5V [SOD-882D]
 
-![PESD5V0X1ULD__1__1](/images/_semi__ZENER__1__1.png?raw=true) 
+![PESD5V0X1ULD__1__1](/images/semi-diode-generic__1N52XXB__1__1.png?raw=true) 
 

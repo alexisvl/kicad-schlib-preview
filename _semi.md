@@ -20,7 +20,7 @@ DIAC [footprint]
 ## DIODE
 Diode voltage current [footprint]
 
-![DIODE__1__1](/images/_semi__DIODE__1__1.png?raw=true) 
+![DIODE__1__1](/images/semi-diode-generic__1N4001__1__1.png?raw=true) 
 
 ## DIODE-CA
 Diode.2 CA voltage current [footprint]
@@ -79,7 +79,7 @@ NJF (semi) voltage Idss [footprint]
 ## NMOS
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
-![NMOS__1__1](/images/_semi__NMOS__1__1.png?raw=true) 
+![NMOS__1__1](/images/semi-trans-Infineon__IPP230N06L3__1__1.png?raw=true) 
 
 ## NMOS-2D
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
@@ -311,6 +311,11 @@ TVS Bidi voltage (pulse) (Cj) [footprint]
 
 ![TVS_BI__1__1](/images/_semi__TVS_BI__1__1.png?raw=true) 
 
+## TVS_THY
+TVS voltage power Iz:zenertestcurrent Thyristor [footprint]
+
+![TVS_THY__1__1](/images/_semi__TVS_THY__1__1.png?raw=true) 
+
 ## UJT
 UJT voltage power [footprint]
 
@@ -324,5 +329,5 @@ Varicap voltage Cjrange [footprint]
 ## ZENER
 Zener voltage power Iz:zenertestcurrent [footprint]
 
-![ZENER__1__1](/images/_semi__ZENER__1__1.png?raw=true) 
+![ZENER__1__1](/images/semi-diode-generic__1N52XXB__1__1.png?raw=true) 
 
