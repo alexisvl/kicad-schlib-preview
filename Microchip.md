@@ -18,17 +18,22 @@ Reg LDO 250mA [SOT-89]
 ## MCP1700T-vv02E/TT
 Reg LDO 250mA [SOT-23]
 
-![MCP1700T-vv02E/TT__1__1](/images/Microchip__MCP1700T-vv02E-TT__1__1.png?raw=true) 
+![MCP1700T-vv02E/TT__1__1](/images/TexasInstruments__LM1086IT-v.v__1__1.png?raw=true) 
 
 ## MCP1754ST-vv02E/CB
 Reg LDO 150mA [SOT-23]
 
-![MCP1754ST-vv02E/CB__1__1](/images/Microchip__MCP1700T-vv02E-TT__1__1.png?raw=true) 
+![MCP1754ST-vv02E/CB__1__1](/images/TexasInstruments__LM1086IT-v.v__1__1.png?raw=true) 
 
 ## MCP2210-I/SS
 Interface USB SPI [SSOP-20]
 
 ![MCP2210-I/SS__1__1](/images/Microchip__MCP2210-I-SS__1__1.png?raw=true) 
+
+## MCP2221-I/SL
+Interface USB I2C UART GPIO [SOIC-14]
+
+![MCP2221-I/SL__1__1](/images/Microchip__MCP2221-I-SL__1__1.png?raw=true) 
 
 ## MCP23008-E/SO
 GPIO.8 I2C 1.7MHz [SOIC-18]
@@ -76,8 +81,18 @@ DAC 12bit 4.5µs SPI INL:12 [SOIC-8]
 ## MCP6V06-E/SN
 OpAmp 1.3MHz RRI RRO CMOS VLowVos VLowIB Chopper [SOIC-8]
 
-![MCP6V06-E/SN__1__1](/images/Microchip__MCP6V06-E-SN__1__1.png?raw=true) 
-![MCP6V06-E/SN__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![MCP6V06-E/SN__1__1](/images/AnalogDevices__AD8597ARZ__1__1.png?raw=true) 
+![MCP6V06-E/SN__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
+
+## MCP73831T-2ACI/OT
+Battery Charge Controller, Single Cell [SOT-23-5]
+
+![MCP73831T-2ACI/OT__1__1](/images/Microchip__MCP73831T-2ACI-OT__1__1.png?raw=true) 
+
+## MCP73871
+Battery Charge Controller, 4.4-6V, 1A, 1 Cell
+
+![MCP73871__1__1](/images/Microchip__MCP73871__1__1.png?raw=true) 
 
 ## MCP7940M-I/SN
 RT Clock/Cal SRAM I2C [SOIC-8]
@@ -186,4 +201,11 @@ MCU 32bit/MIPS ROM:16KB RAM:4KB [DIP-28]
 MCU 32bit/MIPS ROM:32KB RAM:8KB USB [DIP-28]
 
 ![PIC32MX220F032B-I/SP__1__1](/images/Microchip__PIC32MX220F032B-I-SP__1__1.png?raw=true) 
+
+## USB2512B
+USB2 Hub 2Port [QFN-36]
+
+![USB2512B__1__1](/images/Microchip__USB2512B__1__1.png?raw=true) 
+![USB2512B__2__1](/images/Microchip__USB2512B__2__1.png?raw=true) 
+![USB2512B__3__1](/images/Microchip__USB2512B__3__1.png?raw=true) 
 

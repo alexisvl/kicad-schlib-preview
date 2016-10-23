@@ -1,5 +1,10 @@
 # pasv-res
 
+## R-0201
+Chip resistor, EIA 0402, metric 1005
+
+![R-0201__1__1](/images/_passive__R__1__1.png?raw=true) 
+
 ## R-0402
 Chip resistor, EIA 0402, metric 1005
 

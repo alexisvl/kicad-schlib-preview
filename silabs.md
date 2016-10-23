@@ -51,7 +51,7 @@ Five-in, one-out digital isolator
 ## Si501-PKG-B
 4-pin oscillator module
 
-![Si501-PKG-B__1__1](/images/silabs__Si501-PKG-B__1__1.png?raw=true) 
+![Si501-PKG-B__1__1](/images/Abracon__ABRACON-ASDMB__1__1.png?raw=true) 
 
 ## Si8421
 ![Si8421__1__1](/images/silabs__Si8421__1__1.png?raw=true) 

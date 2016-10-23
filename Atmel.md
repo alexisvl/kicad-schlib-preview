@@ -55,6 +55,11 @@ MCU 8bit/AVR ROM:4KB RAM:512B [DIP-28]
 
 ![ATMEGA48A-PU__1__1](/images/Atmel__ATMEGA168A-PU__1__1.png?raw=true) 
 
+## ATMEGA644P-20AU
+MCU 8bit/AVR ROM:64KB RAM:4KB [TQFP-44]
+
+![ATMEGA644P-20AU__1__1](/images/Atmel__ATMEGA644P-20AU__1__1.png?raw=true) 
+
 ## ATMEGA88A-AU
 MCU 8bit/AVR ROM:8KB RAM:1KB [TQFP-32]
 
@@ -95,6 +100,17 @@ MCU 32bit/ARM-M4 ROM:256KB RAM:64KB USB 12bADC [LQFP-100]
 MCU 32bit/ARM-M4 ROM:512KB RAM:128KB USB 12bADC [LQFP-100]
 
 ![ATSAM4S8CA-AU__1__1](/images/Atmel__ATSAM4S16CA-AU__1__1.png?raw=true) 
+
+## ATSAMA5D26
+MCU 32bit/ARM-A5 ROM:160KB RAM:128KB [BGA-289]
+
+![ATSAMA5D26__1__1](/images/Atmel__ATSAMA5D26__1__1.png?raw=true) 
+![ATSAMA5D26__2__1](/images/Atmel__ATSAMA5D26__2__1.png?raw=true) 
+![ATSAMA5D26__3__1](/images/Atmel__ATSAMA5D26__3__1.png?raw=true) 
+![ATSAMA5D26__4__1](/images/Atmel__ATSAMA5D26__4__1.png?raw=true) 
+![ATSAMA5D26__5__1](/images/Atmel__ATSAMA5D26__5__1.png?raw=true) 
+![ATSAMA5D26__6__1](/images/Atmel__ATSAMA5D26__6__1.png?raw=true) 
+![ATSAMA5D26__7__1](/images/Atmel__ATSAMA5D26__7__1.png?raw=true) 
 
 ## ATSAMD20EnnA-AU
 MCU 32bit/ARM-M0+ ROM:16-256KB RAM:2-32KB [QFP-32]
@@ -146,6 +162,19 @@ MCU 32bit/ARM-M0+ ROM:32-256KB RAM:4-32KB USB [QFN-64]
 
 ![ATSAMD21Jnnc-MU__1__1](/images/Atmel__ATSAMD21Jnnc-MU__1__1.png?raw=true) 
 
+## ATSAME70NnnA-AN
+MCU 32bit/ARM-M7 ROM:512KB-2MB RAM:256-384KB USB Ethernet 12bADC 12bDAC [LQFP-100]
+
+![ATSAME70NnnA-AN__1__1](/images/Atmel__ATSAME70NnnA-AN__1__1.png?raw=true) 
+![ATSAME70NnnA-AN__2__1](/images/Atmel__ATSAM4E16CA-AU__2__1.png?raw=true) 
+![ATSAME70NnnA-AN__3__1](/images/Atmel__ATSAME70NnnA-AN__3__1.png?raw=true) 
+![ATSAME70NnnA-AN__4__1](/images/Atmel__ATSAM4E16CA-AU__4__1.png?raw=true) 
+
+## ATTINY24A-MU
+MCU 8bit/AVR ROM:2KB RAM:128B [QFN-20]
+
+![ATTINY24A-MU__1__1](/images/Atmel__ATTINY24A-MU__1__1.png?raw=true) 
+
 ## ATTINY24A-SS
 MCU 8bit/AVR ROM:2KB RAM:128B [SOIC-14]
 
@@ -155,6 +184,11 @@ MCU 8bit/AVR ROM:2KB RAM:128B [SOIC-14]
 MCU 8bit/AVR ROM:4KB RAM:256B [SOIC-14]
 
 ![ATTINY441-SSU__1__1](/images/Atmel__ATTINY24A-SS__1__1.png?raw=true) 
+
+## ATTINY48-MM
+MCU 8bit/AVR ROM:4KB RAM:256B [QFN-28]
+
+![ATTINY48-MM__1__1](/images/Atmel__ATTINY48-MM__1__1.png?raw=true) 
 
 ## ATXMEGA128A4U-AU
 MCU 8bit/AVR ROM:128KB RAM:8KB ADC12b DAC12b USB [QFP-44]

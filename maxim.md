@@ -30,6 +30,11 @@ AnSwitch SPST CMOS 36V [MSOP-8]
 ![DG419LEUA__1__1](/images/Vishay__DG449DS__1__1.png?raw=true) 
 ![DG419LEUA__2__1](/images/maxim__DG419CJ__2__1.png?raw=true) 
 
+## MAX11100EUB+
+ADC 16-bit 200kSa/s SPI INL:2 DNL:2
+
+![MAX11100EUB+__1__1](/images/maxim__MAX11100EUB+__1__1.png?raw=true) 
+
 ## MAX11644
 DAC 12bit I2C INL:1 VR=2.048 VS=3.3 [MSOP-8]
 
@@ -39,6 +44,11 @@ DAC 12bit I2C INL:1 VR=2.048 VS=3.3 [MSOP-8]
 DAC 12bit I2C INL:1 VR=4.096 VS=5 [MSOP-8]
 
 ![MAX11645__1__1](/images/maxim__MAX11644__1__1.png?raw=true) 
+
+## MAX2650
+RFAmp 1GHz 18dB [SOT-143]
+
+![MAX2650__1__1](/images/maxim__MAX2650__1__1.png?raw=true) 
 
 ## MAX4567EEE
 AnSwitch.2 SPDT CMOS ±6V [QSOP-16]

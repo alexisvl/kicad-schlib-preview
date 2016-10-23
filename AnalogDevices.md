@@ -116,8 +116,8 @@ OpAmp.4 1.5MHz RRI RRO CMOS VLowVos VLowIB [SOIC-14]
 ## AD8597ARZ
 OpAmp 10MHz VLowVos LowIB LowNoise [SOIC-8]
 
-![AD8597ARZ__1__1](/images/Microchip__MCP6V06-E-SN__1__1.png?raw=true) 
-![AD8597ARZ__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![AD8597ARZ__1__1](/images/AnalogDevices__AD8597ARZ__1__1.png?raw=true) 
+![AD8597ARZ__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## AD8599ARZ
 OpAmp.2 10MHz VLowVos LowIB LowNoise [SOIC-8]
@@ -263,8 +263,8 @@ OpAmp 1.3MHz VLowVos VLowIB AutoZero SSI RRO [SOT-23-5]
 ## AD8638ARZ
 OpAmp 1.3MHz VLowVos VLowIB AutoZero SSI RRO [SOIC-8]
 
-![AD8638ARZ__1__1](/images/Microchip__MCP6V06-E-SN__1__1.png?raw=true) 
-![AD8638ARZ__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![AD8638ARZ__1__1](/images/AnalogDevices__AD8597ARZ__1__1.png?raw=true) 
+![AD8638ARZ__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## AD8639ACPZ
 OpAmp.2 1.3MHz VLowVos VLowIB AutoZero SSI RRO [QFN-8]
@@ -290,20 +290,20 @@ OpAmp.2 1.3MHz VLowVos VLowIB AutoZero SSI RRO [SOIC-8]
 ## AD8663ARZ
 OpAmp 520kHz RRO CMOS LowVos VLowIB [SOIC-8]
 
-![AD8663ARZ__1__1](/images/Microchip__MCP6V06-E-SN__1__1.png?raw=true) 
-![AD8663ARZ__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![AD8663ARZ__1__1](/images/AnalogDevices__AD8597ARZ__1__1.png?raw=true) 
+![AD8663ARZ__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## AD8675ARMZ
 OpAmp 10MHz RRO VLowVos LowIB [MSOP-8]
 
 ![AD8675ARMZ__1__1](/images/AnalogDevices__AD8675ARMZ__1__1.png?raw=true) 
-![AD8675ARMZ__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![AD8675ARMZ__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## AD8675ARZ
 OpAmp 10MHz RRO VLowVos LowIB LowNoise [SOIC-8]
 
 ![AD8675ARZ__1__1](/images/AnalogDevices__AD8675ARMZ__1__1.png?raw=true) 
-![AD8675ARZ__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![AD8675ARZ__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## AD8676ARMZ
 OpAmp.2 10MHz RRO VLowVos LowIB LowNoise [MSOP-8]
@@ -383,6 +383,12 @@ Comp 1.6ns RRI LVDS ProgHysteresis IndepOutRail [LFCSP-12]
 ![ADCMP605BCPZ__1__1](/images/AnalogDevices__ADCMP605BCPZ__1__1.png?raw=true) 
 ![ADCMP605BCPZ__2__1](/images/AnalogDevices__ADCMP605BCPZ__2__1.png?raw=true) 
 
+## ADG849
+Power Switch SPDT [SC-70-6]
+
+![ADG849__1__1](/images/AnalogDevices__ADG849__1__1.png?raw=true) 
+![ADG849__2__1](/images/AnalogDevices__ADG849__2__1.png?raw=true) 
+
 ## ADP151AUJZ-v.v
 Reg LDO 200mA [TSOT-23-5]
 
@@ -412,6 +418,11 @@ Reg Buck in:20V AdjV 1.2A 1.4MHz [SOT-23-6]
 Reg LDO Triple 200mA [LFCSP-16]
 
 ![ADP322__1__1](/images/AnalogDevices__ADP322__1__1.png?raw=true) 
+
+## ADP5054
+Reg.4 Buck in:15.5V 2x6A 2x2A [QFN-48]
+
+![ADP5054__1__1](/images/AnalogDevices__ADP5054__1__1.png?raw=true) 
 
 ## ADR380
 VRef Series 2.048V 0.24% 25ppm/K [SOT-23]
@@ -482,19 +493,19 @@ VRef Series 5V 0.02% 2ppm/K [SOIC-8]
 OpAmp 600kHz LowVos LowIB [DIP-8]
 
 ![OP07CPZ__1__1](/images/AnalogDevices__AD8675ARMZ__1__1.png?raw=true) 
-![OP07CPZ__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![OP07CPZ__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## OP07CSZ
 OpAmp 600kHz LowVos LowIB [SOIC-8]
 
 ![OP07CSZ__1__1](/images/AnalogDevices__AD8675ARMZ__1__1.png?raw=true) 
-![OP07CSZ__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![OP07CSZ__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## OP07EPZ
 OpAmp 600kHz LowVos LowIB [DIP-8]
 
 ![OP07EPZ__1__1](/images/AnalogDevices__AD8675ARMZ__1__1.png?raw=true) 
-![OP07EPZ__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![OP07EPZ__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## OP2177ARMZ
 OpAmp.2 1.3MHz LowVos LowIB LowNoise [MSOP-8]

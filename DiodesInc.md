@@ -1,5 +1,10 @@
 # DiodesInc
 
+## AP2210K
+Reg LDO 300mA [SOT23-5]
+
+![AP2210K__1__1](/images/DiodesInc__AP2210K__1__1.png?raw=true) 
+
 ## AP3012
 Reg Boost in:16V AdjV 500mA 1.5MHz [SOT-23-5]
 

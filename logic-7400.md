@@ -166,6 +166,30 @@ PI, SO 8-bit latching shift register
 
 ![74165-TSSOP__1__1](/images/logic-7400__74165-DIP__1__1.png?raw=true) 
 
+## 741G00-SC70
+Single NAND gate
+
+![741G00-SC70__1__1](/images/logic-7400__741G00-SC70__1__1.png?raw=true) 
+![741G00-SC70__2__1](/images/logic-7400__741G00-SC70__2__1.png?raw=true) 
+
+## 741G00-SOT23
+Single NAND gate
+
+![741G00-SOT23__1__1](/images/logic-7400__741G00-SC70__1__1.png?raw=true) 
+![741G00-SOT23__2__1](/images/logic-7400__741G00-SC70__2__1.png?raw=true) 
+
+## 741G02-SC70
+Single NOR gate
+
+![741G02-SC70__1__1](/images/logic-7400__741G02-SC70__1__1.png?raw=true) 
+![741G02-SC70__2__1](/images/logic-7400__741G00-SC70__2__1.png?raw=true) 
+
+## 741G02-SOT23
+Single NOR gate
+
+![741G02-SOT23__1__1](/images/logic-7400__741G02-SC70__1__1.png?raw=true) 
+![741G02-SOT23__2__1](/images/logic-7400__741G00-SC70__2__1.png?raw=true) 
+
 ## 741G04-SC70
 Single inverter
 
@@ -177,16 +201,16 @@ Single inverter
 ![741G04-SOT23__1__1](/images/logic-7400__741G04-SC70__1__1.png?raw=true) 
 
 ## 741G08-SC70
-Quad NAND gate
+Single AND gate
 
 ![741G08-SC70__1__1](/images/logic-7400__741G08-SC70__1__1.png?raw=true) 
-![741G08-SC70__2__1](/images/logic-7400__741G08-SC70__2__1.png?raw=true) 
+![741G08-SC70__2__1](/images/logic-7400__741G00-SC70__2__1.png?raw=true) 
 
 ## 741G08-SOT23
-Quad NAND gate
+Single AND gate
 
 ![741G08-SOT23__1__1](/images/logic-7400__741G08-SC70__1__1.png?raw=true) 
-![741G08-SOT23__2__1](/images/logic-7400__741G08-SC70__2__1.png?raw=true) 
+![741G08-SOT23__2__1](/images/logic-7400__741G00-SC70__2__1.png?raw=true) 
 
 ## 74245-DIP
 Octal bus transciever

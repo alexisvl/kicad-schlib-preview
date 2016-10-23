@@ -43,6 +43,12 @@ Logic RX LVDS-CMOS 400Mbps [SOT-23-5]
 ![DS90LV012ATMF__1__1](/images/TexasInstruments__DS90LV012ATMF__1__1.png?raw=true) 
 ![DS90LV012ATMF__2__1](/images/TexasInstruments__DS90LT012ATMF__2__1.png?raw=true) 
 
+## INA199
+CSAmp 1.5% ZeroDrift 50/100/200V/V [SC-70-6]
+
+![INA199__1__1](/images/TexasInstruments__INA199__1__1.png?raw=true) 
+![INA199__2__1](/images/TexasInstruments__INA199__2__1.png?raw=true) 
+
 ## INA3221
 PowerMonitor 3chan I2C [QFN-16]
 
@@ -84,13 +90,13 @@ OpAmp.2 3MHz JFET VLowIB LowNoise [DIP-8]
 OpAmp 5MHz JFET VLowIB LowNoise [SOIC-8]
 
 ![LF356M__1__1](/images/TexasInstruments__LF356M__1__1.png?raw=true) 
-![LF356M__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![LF356M__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## LF356N
 OpAmp 5MHz JFET VLowIB LowNoise [DIP-8]
 
 ![LF356N__1__1](/images/TexasInstruments__LF356M__1__1.png?raw=true) 
-![LF356N__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![LF356N__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## LF398N
 Amp SampleHold 4µs LowIB [DIP-8]
@@ -100,7 +106,7 @@ Amp SampleHold 4µs LowIB [DIP-8]
 ## LM1086IT-v.v
 Reg LDO 1.5A [TO-220]
 
-![LM1086IT-v.v__1__1](/images/Microchip__MCP1700T-vv02E-TT__1__1.png?raw=true) 
+![LM1086IT-v.v__1__1](/images/TexasInstruments__LM1086IT-v.v__1__1.png?raw=true) 
 
 ## LM1117DT-ADJ
 Reg LDO AdjV 800mA [TO-252]
@@ -140,7 +146,7 @@ Reg LDO AdjV 800mA [TO-220]
 ## LM1117T-v.v
 Reg LDO 800mA [TO-220]
 
-![LM1117T-v.v__1__1](/images/Microchip__MCP1700T-vv02E-TT__1__1.png?raw=true) 
+![LM1117T-v.v__1__1](/images/TexasInstruments__LM1086IT-v.v__1__1.png?raw=true) 
 
 ## LM20323MH
 Reg Buck in:36V AdjV 3A 520kHz Sync [TSSOP-20-PP]
@@ -287,6 +293,11 @@ Comp.4 OpenColl [TSSOP-14]
 ![LM339PW__4__1](/images/TexasInstruments__LM339M__4__1.png?raw=true) 
 ![LM339PW__5__1](/images/TexasInstruments__LM339M__5__1.png?raw=true) 
 
+## LM3404
+Reg Buck 1.5A Vin:6-42V Constant Current
+
+![LM3404__1__1](/images/TexasInstruments__LM3404__1__1.png?raw=true) 
+
 ## LM34DM
 Sensor Temp -50-212F ±1F Analog [SOIC-8]
 
@@ -325,6 +336,11 @@ Sensor Temp -55-150C ±0.5C Analog [SOIC-8]
 
 ![LM35DM__1__1](/images/TexasInstruments__LM34DM__1__1.png?raw=true) 
 
+## LM3674
+Reg Buck Vin:2.7-5.5 Vout:1-3.3V 600mA [SOT-23-5]
+
+![LM3674__1__1](/images/TexasInstruments__LM3674__1__1.png?raw=true) 
+
 ## LM393M
 Comp.2 OpenColl [SOIC-8]
 
@@ -351,23 +367,28 @@ VRef Shunt 0.1% 100ppm/K [SOT-23]
 
 ![LM4040AvvDBZ__1__1](/images/TexasInstruments__LM4040AvvDBZ__1__1.png?raw=true) 
 
+## LM4040AvvDCK
+VRef Shunt 0.1-1% 100-150ppm/K [SC-70-5]
+
+![LM4040AvvDCK__1__1](/images/TexasInstruments__LM4040AvvDCK__1__1.png?raw=true) 
+
 ## LM7171AIM
 OpAmp VFB 200MHz 4100V/µs [SOIC-8]
 
-![LM7171AIM__1__1](/images/Microchip__MCP6V06-E-SN__1__1.png?raw=true) 
-![LM7171AIM__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![LM7171AIM__1__1](/images/AnalogDevices__AD8597ARZ__1__1.png?raw=true) 
+![LM7171AIM__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## LM7171BIM
 OpAmp VFB 200MHz 4100V/µs [SOIC-8]
 
-![LM7171BIM__1__1](/images/Microchip__MCP6V06-E-SN__1__1.png?raw=true) 
-![LM7171BIM__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![LM7171BIM__1__1](/images/AnalogDevices__AD8597ARZ__1__1.png?raw=true) 
+![LM7171BIM__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## LM7171BIN
 OpAmp VFB 200MHz 4100V/µs [DIP-8]
 
-![LM7171BIN__1__1](/images/Microchip__MCP6V06-E-SN__1__1.png?raw=true) 
-![LM7171BIN__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![LM7171BIN__1__1](/images/AnalogDevices__AD8597ARZ__1__1.png?raw=true) 
+![LM7171BIN__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## LM7705
 Reg SwCap in:5V -230mV 26mA 92kHz [VSSOP-8]
@@ -449,6 +470,9 @@ OpAmp.2 LowVos LowIB [SOIC-8]
 ![LT1013DDR__2__1](/images/TexasInstruments__LT1013DDR__2__1.png?raw=true) 
 ![LT1013DDR__3__1](/images/TexasInstruments__LT1013DDR__3__1.png?raw=true) 
 
+## MAX3232PW
+![MAX3232PW__1__1](/images/TexasInstruments__MAX3232PW__1__1.png?raw=true) 
+
 ## MC33078DGK
 OpAmp.2 16MHz LowVos LowIB LowNoise [MSOP-8]
 
@@ -504,8 +528,8 @@ OpAmp.2 900kHz RRI RRO VLowVos VLowIB AutoZero [SOT-23-8]
 ## OPA376AID
 OpAmp 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [SOIC-8]
 
-![OPA376AID__1__1](/images/Microchip__MCP6V06-E-SN__1__1.png?raw=true) 
-![OPA376AID__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![OPA376AID__1__1](/images/AnalogDevices__AD8597ARZ__1__1.png?raw=true) 
+![OPA376AID__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## OPA376AIDBV
 OpAmp 5.5MHz RRI RRO CMOS VLowVos VLowIB LowNoise [SOT-23-5]
@@ -588,7 +612,7 @@ TXRX TTL-RS422/485 30ns [SOIC-8]
 ## THS3001IDGN
 OpAmp CFA 420MHz 6500V/µs [MSOP-8-PAD]
 
-![THS3001IDGN__1__1](/images/Microchip__MCP6V06-E-SN__1__1.png?raw=true) 
+![THS3001IDGN__1__1](/images/AnalogDevices__AD8597ARZ__1__1.png?raw=true) 
 ![THS3001IDGN__2__1](/images/TexasInstruments__THS3001IDGN__2__1.png?raw=true) 
 
 ## THS4222D
@@ -679,7 +703,7 @@ OpAmp.4 12MHz RRO [SOIC-14]
 OpAmp 1.9MHz CMOS VLowVos VLowIB Chopper [SOIC-8]
 
 ![TLC2652AC__1__1](/images/TexasInstruments__TLC2652AC__1__1.png?raw=true) 
-![TLC2652AC__2__1](/images/Microchip__MCP6V06-E-SN__2__1.png?raw=true) 
+![TLC2652AC__2__1](/images/AnalogDevices__AD8597ARZ__2__1.png?raw=true) 
 
 ## TLC5926IDW
 Driver LED 16ch Linear 120mA SPI [SOIC-24]
@@ -733,6 +757,26 @@ PowerSwitch Mux2:1 Auto 1.25A [TSSOP-8]
 
 ![TPS2111A__1__1](/images/TexasInstruments__TPS2110A__1__1.png?raw=true) 
 
+## TPS2112A
+PowerSwitch Mux2:1 Auto 750mA [TSSOP-8]
+
+![TPS2112A__1__1](/images/TexasInstruments__TPS2112A__1__1.png?raw=true) 
+
+## TPS2113A
+PowerSwitch Mux2:1 Auto 1.25A [TSSOP-8]
+
+![TPS2113A__1__1](/images/TexasInstruments__TPS2112A__1__1.png?raw=true) 
+
+## TPS5130
+Reg.4 Buck.3+LDO in:28V 500kHz [QFP-48]
+
+![TPS5130__1__1](/images/TexasInstruments__TPS5130__1__1.png?raw=true) 
+
+## TPS5430DDA
+Reg Buck in:36V AdjV 3A 500kHz [SO-8-PP]
+
+![TPS5430DDA__1__1](/images/TexasInstruments__TPS5430DDA__1__1.png?raw=true) 
+
 ## TPS61045DRB
 Reg Boost in:6V AdjV 20mA 1MHz DigitalAdj [SON-8]
 
@@ -742,6 +786,16 @@ Reg Boost in:6V AdjV 20mA 1MHz DigitalAdj [SON-8]
 Reg Buck in:6V AdjV 1.2A 2MHz Sync [WSON-8]
 
 ![TPS62080DSGT__1__1](/images/TexasInstruments__TPS62080DSGT__1__1.png?raw=true) 
+
+## TPS62177
+Reg Buck 500mA Vin:4.7-28V Vout:3.3V
+
+![TPS62177__1__1](/images/TexasInstruments__TPS62177__1__1.png?raw=true) 
+
+## TPS63050
+Reg Buck-Boost in:2.5-5.5V AdjV 1A 2.5MHz [VQFN-12]
+
+![TPS63050__1__1](/images/TexasInstruments__TPS63050__1__1.png?raw=true) 
 
 ## TPS64200DBV
 RegCtrlr Buck in:6.5V AdjV 350kHz [SOT-23-6]
@@ -757,6 +811,11 @@ RegCtrlr Buck in:6.5V AdjV 350kHz [SOT-23-6]
 RegCtrlr Buck in:6.5V AdjV 350kHz [SOT-23-6]
 
 ![TPS64203DBV__1__1](/images/TexasInstruments__TPS64200DBV__1__1.png?raw=true) 
+
+## TS3USB30
+Mux SPDT USB [UQFN-10]
+
+![TS3USB30__1__1](/images/TexasInstruments__TS3USB30__1__1.png?raw=true) 
 
 ## TXB0104RGY
 LevelShift 4bit 3.6V/5.5V 100Mbps AutoBidi Tristate [QFN-14]

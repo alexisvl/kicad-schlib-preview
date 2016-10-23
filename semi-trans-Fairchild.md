@@ -3,22 +3,27 @@
 ## FDD7N20TM
 NMOS 200V 3A 580mR 5Vth [TO-252]
 
-![FDD7N20TM__1__1](/images/semi-trans-Infineon__IPP230N06L3__1__1.png?raw=true) 
+![FDD7N20TM__1__1](/images/semi-trans-IRF__IRF510__1__1.png?raw=true) 
+
+## FDG6331L
+PMOS/NMOS 8V 800mA 330mR 0.9Vth [SC-70-6]
+
+![FDG6331L__1__1](/images/semi-trans-Fairchild__FDG6331L__1__1.png?raw=true) 
 
 ## FDN5618P
 PMOS -60V -1.25A 230mR -3Vth [SOT-23]
 
-![FDN5618P__1__1](/images/semi-trans-NXP__PMV160UP__1__1.png?raw=true) 
+![FDN5618P__1__1](/images/semi-trans-IRF__IRFP9240__1__1.png?raw=true) 
 
 ## FQN1N50C
 NMOS 500V 380mA 6R 3Vth [TO-92]
 
-![FQN1N50C__1__1](/images/semi-trans-Infineon__IPP230N06L3__1__1.png?raw=true) 
+![FQN1N50C__1__1](/images/semi-trans-IRF__IRF510__1__1.png?raw=true) 
 
 ## FQP13N10L
 NMOS 100V 12.8A 180mR 2Vth [TO-220]
 
-![FQP13N10L__1__1](/images/semi-trans-Infineon__IPP230N06L3__1__1.png?raw=true) 
+![FQP13N10L__1__1](/images/semi-trans-IRF__IRF510__1__1.png?raw=true) 
 
 ## FQT7N10L
 NMOS 100V 1.7A 350mR 2Vth [SOT-223]

@@ -1,5 +1,10 @@
 # pasv-Murata
 
+## L-MURATA-DG6050C
+Inductor, power (to 6.3A)
+
+![L-MURATA-DG6050C__1__1](/images/pasv-ind__L-BOURNS-SRR7045__1__1.png?raw=true) 
+
 ## MURATA-NFL21SP106
 Filter LowPassLC 10MHz 100mA 16V [0805]
 

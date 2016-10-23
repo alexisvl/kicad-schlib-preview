@@ -16,10 +16,15 @@ USB-A 3.0 Receptacle
 
 ![CONN-10117835-001LF-USB3-A__1__1](/images/conn-fci__CONN-10117835-001LF-USB3-A__1__1.png?raw=true) 
 
+## CONN-10118193-0001LF-UUSB-B
+Micro USB-B
+
+![CONN-10118193-0001LF-UUSB-B__1__1](/images/conn-fci__CONN-10118193-0001LF-UUSB-B__1__1.png?raw=true) 
+
 ## CONN-10118194-0001LF-UUSB-B
 Micro USB-B
 
-![CONN-10118194-0001LF-UUSB-B__1__1](/images/conn-fci__CONN-10118194-0001LF-UUSB-B__1__1.png?raw=true) 
+![CONN-10118194-0001LF-UUSB-B__1__1](/images/conn-fci__CONN-10118193-0001LF-UUSB-B__1__1.png?raw=true) 
 
 ## CONN-61729-USB-B
 USB-B

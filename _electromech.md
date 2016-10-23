@@ -97,6 +97,21 @@ Switch, SPST
 
 ![SPST__1__1](/images/_electromech__DPST__1__1.png?raw=true) 
 
+## SW-DIP-4
+SPST.4 [DIP-8]
+
+![SW-DIP-4__1__1](/images/_electromech__SW-DIP-4__1__1.png?raw=true) 
+
+## SW-DIP-6
+SPST.6 [DIP-12]
+
+![SW-DIP-6__1__1](/images/_electromech__SW-DIP-6__1__1.png?raw=true) 
+
+## SW-DIP-8
+SPST.8 [DIP-16]
+
+![SW-DIP-8__1__1](/images/_electromech__SW-DIP-8__1__1.png?raw=true) 
+
 ## SW-MOM-OFF-MOM
 Switch, MOM-OFF-MOM
 

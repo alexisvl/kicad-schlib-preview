@@ -8,7 +8,15 @@ Connector SATA Vertical [SupportedSMD]
 ## CONN-MOLEX-0734120110
 CONN UMC RCPT STR 50 OHM SMD
 
-![CONN-MOLEX-0734120110__1__1](/images/conn-molex__CONN-MOLEX-0734120110__1__1.png?raw=true) 
+![CONN-MOLEX-0734120110__1__1](/images/conn-te__CONN-BNC-1-1337543-0__1__1.png?raw=true) 
+
+## CONN-MOLEX-501920-4001
+CONN STACK PLUG 0.5 PITCH 2x20 CIRCUITS
+
+![CONN-MOLEX-501920-4001__1__1](/images/conn-molex__CONN-MOLEX-501920-4001__1__1.png?raw=true) 
+
+## CONN-MOLEX-52610-0572
+![CONN-MOLEX-52610-0572__1__1](/images/conn-molex__CONN-MOLEX-52610-0572__1__1.png?raw=true) 
 
 ## CONN-MOLEX-52808-0471
 1mm FFC
@@ -18,7 +26,7 @@ CONN UMC RCPT STR 50 OHM SMD
 ## CONN-MOLEX-52808-0571
 1mm FFC
 
-![CONN-MOLEX-52808-0571__1__1](/images/conn-molex__CONN-MOLEX-52808-0571__1__1.png?raw=true) 
+![CONN-MOLEX-52808-0571__1__1](/images/conn-molex__CONN-MOLEX-52610-0572__1__1.png?raw=true) 
 
 ## CONN-MOLEX-52808-0671
 1mm FFC
@@ -84,4 +92,23 @@ CONN UMC RCPT STR 50 OHM SMD
 1mm FFC
 
 ![CONN-MOLEX-52808-1871__1__1](/images/conn-molex__CONN-MOLEX-52808-1871__1__1.png?raw=true) 
+
+## CONN-MOLEX-52991-0408
+CONN STACK RCPT 0.5 PITCH 2x20 CIRCUITS
+
+![CONN-MOLEX-52991-0408__1__1](/images/conn-molex__CONN-MOLEX-52991-0408__1__1.png?raw=true) 
+
+## CONN-MOLEX-53398-0271
+![CONN-MOLEX-53398-0271__1__1](/images/conn-molex__CONN-MOLEX-53398-0271__1__1.png?raw=true) 
+
+## CONN-MOLEX-53398-0471
+![CONN-MOLEX-53398-0471__1__1](/images/conn-molex__CONN-MOLEX-52808-0471__1__1.png?raw=true) 
+
+## CONN-MOLEX-53398-0571
+![CONN-MOLEX-53398-0571__1__1](/images/conn-molex__CONN-MOLEX-52610-0572__1__1.png?raw=true) 
+
+## CONN-MOLEX-73415-2063
+CONN MMCX RCPT STR 50 OHM SMD
+
+![CONN-MOLEX-73415-2063__1__1](/images/conn-te__CONN-BNC-1-1337543-0__1__1.png?raw=true) 
 

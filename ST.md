@@ -18,7 +18,7 @@ Reg Lin 1.5A [TO-220]
 ## L79vvCD2T
 Reg Lin -1.5A [TO-263]
 
-![L79vvCD2T__1__1](/images/Microchip__MCP1700T-vv02E-TT__1__1.png?raw=true) 
+![L79vvCD2T__1__1](/images/TexasInstruments__LM1086IT-v.v__1__1.png?raw=true) 
 
 ## L79vvCV
 Reg Lin -1.5A [TO-220]
@@ -36,6 +36,11 @@ Driver RS422 25Mbps FullDuplex [SOIC-8]
 MCU 32bit/ARM-M0 ROM:32KB RAM:6KB USB DFU [LQFP-32]
 
 ![STM32F042K6T__1__1](/images/ST__STM32F042K6T__1__1.png?raw=true) 
+
+## STM32F102C6
+MCU 32bit/ARM-M3 ROM:32KB RAM:16KB USB DFU [LQFP-48]
+
+![STM32F102C6__1__1](/images/ST__STM32F102C6__1__1.png?raw=true) 
 
 ## TSC101A
 CSAmp 500kHz 30V Gain=20V/V [SOT-23-5]

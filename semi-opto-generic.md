@@ -12,6 +12,11 @@ Optocoup NPN+base 3kV 60mA 30Vceo [DIP-6-SMD]
 ![4N35S__1__1](/images/semi-opto-generic__4N35__1__1.png?raw=true) 
 ![4N35S__2__1](/images/semi-opto-generic__4N35__2__1.png?raw=true) 
 
+## LED-0402
+LED Red [0603]
+
+![LED-0402__1__1](/images/_semi__LED__1__1.png?raw=true) 
+
 ## LED-0603
 LED Red [0603]
 

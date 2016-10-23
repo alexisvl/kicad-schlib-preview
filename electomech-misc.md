@@ -1,5 +1,10 @@
 # electomech-misc
 
+## MOTOR
+DC Motor
+
+![MOTOR__1__1](/images/electomech-misc__MOTOR__1__1.png?raw=true) 
+
 ## RELAY-HAMLIN-HE3600
 Relay SPST 200V
 

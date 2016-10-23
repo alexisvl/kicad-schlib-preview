@@ -1,5 +1,10 @@
 # _passive
 
+## ANTENNA
+Generic Antenna
+
+![ANTENNA__1__1](/images/_passive__ANTENNA__1__1.png?raw=true) 
+
 ## BATTERY-LONG
 Battery, many cells
 
@@ -13,12 +18,12 @@ Battery, few cells
 ## BEAD
 Ferrite bead
 
-![BEAD__1__1](/images/_passive__BEAD__1__1.png?raw=true) 
+![BEAD__1__1](/images/pasv-ind__BEAD-0402__1__1.png?raw=true) 
 
 ## C
 Capacitor
 
-![C__1__1](/images/_passive__C__1__1.png?raw=true) 
+![C__1__1](/images/pasv-cap__C-0201__1__1.png?raw=true) 
 
 ## CMBEAD
 Common-mode ferrite bead
@@ -33,27 +38,27 @@ Common-mode choke
 ## CPOL
 Capacitor, polarized
 
-![CPOL__1__1](/images/_passive__CPOL__1__1.png?raw=true) 
+![CPOL__1__1](/images/pasv-cap__C-ALUM-1030__1__1.png?raw=true) 
 
 ## CRYSTAL
 Crystal
 
-![CRYSTAL__1__1](/images/_passive__CRYSTAL__1__1.png?raw=true) 
+![CRYSTAL__1__1](/images/pasv-xtal__XTAL-ABRACON-ABM2__1__1.png?raw=true) 
 
 ## CRYSTALG
 Crystal, grounded
 
-![CRYSTALG__1__1](/images/_passive__CRYSTALG__1__1.png?raw=true) 
+![CRYSTALG__1__1](/images/pasv-xtal__XTAL-ABRACON-ABM8G__1__1.png?raw=true) 
 
 ## CVAR
 Capacitor, variable
 
-![CVAR__1__1](/images/_passive__CVAR__1__1.png?raw=true) 
+![CVAR__1__1](/images/pasv-cap__CV-MURATA-TZC3P__1__1.png?raw=true) 
 
 ## FUSE
 Fuse
 
-![FUSE__1__1](/images/_passive__FUSE__1__1.png?raw=true) 
+![FUSE__1__1](/images/pasv-BelFuse__BELFUSE-SSQ__1__1.png?raw=true) 
 
 ## GDT
 Gas discharge tube
@@ -63,7 +68,7 @@ Gas discharge tube
 ## L
 Inductor
 
-![L__1__1](/images/_passive__L__1__1.png?raw=true) 
+![L__1__1](/images/pasv-ind__L-0402__1__1.png?raw=true) 
 
 ## LAMP
 Incandescent lamp
@@ -88,7 +93,7 @@ Inductor, w/dot
 ## LFERR
 Inductor, ferrite core
 
-![LFERR__1__1](/images/_passive__LFERR__1__1.png?raw=true) 
+![LFERR__1__1](/images/pasv-ind__L-BOURNS-SRR7045__1__1.png?raw=true) 
 
 ## NEON
 Neon lamp
@@ -109,7 +114,7 @@ Potentiometer, dual
 ## POT-TRIM
 Potentiometer, preset/trim
 
-![POT-TRIM__1__1](/images/_passive__POT-TRIM__1__1.png?raw=true) 
+![POT-TRIM__1__1](/images/pasv-Bourns__POT-BOURNS-3296W__1__1.png?raw=true) 
 
 ## R
 Resistor
@@ -120,6 +125,11 @@ Resistor
 Rheostat
 
 ![RHEO__1__1](/images/_passive__RHEO__1__1.png?raw=true) 
+
+## SPEAKER
+Speaker
+
+![SPEAKER__1__1](/images/_passive__SPEAKER__1__1.png?raw=true) 
 
 ## THERMISTOR
 Thermistor

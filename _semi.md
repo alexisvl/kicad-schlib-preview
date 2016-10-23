@@ -79,7 +79,7 @@ NJF (semi) voltage Idss [footprint]
 ## NMOS
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
-![NMOS__1__1](/images/semi-trans-Infineon__IPP230N06L3__1__1.png?raw=true) 
+![NMOS__1__1](/images/semi-trans-IRF__IRF510__1__1.png?raw=true) 
 
 ## NMOS-2D
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
@@ -90,8 +90,8 @@ NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 ## NMOS-4D-3S
 NMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
-![NMOS-4D-3S__1__1](/images/_semi__NMOS-4D-3S__1__1.png?raw=true) 
-![NMOS-4D-3S__1__2](/images/_semi__NMOS-4D-3S__1__2.png?raw=true) 
+![NMOS-4D-3S__1__1](/images/semi-trans-DiodesInc__DMN3018SSS__1__1.png?raw=true) 
+![NMOS-4D-3S__1__2](/images/semi-trans-DiodesInc__DMN3018SSS__1__2.png?raw=true) 
 
 ## NMOS2G
 NMOS DG (semi) voltage current (Rdson) (Vgsth) [footprint]
@@ -121,7 +121,7 @@ NMOS DEP (semi) voltage current (Rdson) (Vgsth) [footprint]
 ## NPN
 NPN (semi) voltage current (power) (ft) [footprint]
 
-![NPN__1__1](/images/_semi__NPN__1__1.png?raw=true) 
+![NPN__1__1](/images/semi-trans-generic__TIP31A__1__1.png?raw=true) 
 
 ## NPN-2C
 NPN (semi) voltage current (power) (ft) [footprint]
@@ -132,8 +132,8 @@ NPN (semi) voltage current (power) (ft) [footprint]
 ## NPNDARL
 NPN Darl (semi) voltage current (power) (ft) [footprint]
 
-![NPNDARL__1__1](/images/_semi__NPNDARL__1__1.png?raw=true) 
-![NPNDARL__1__2](/images/_semi__NPNDARL__1__2.png?raw=true) 
+![NPNDARL__1__1](/images/semi-trans-generic__TIP120__1__1.png?raw=true) 
+![NPNDARL__1__2](/images/semi-trans-generic__TIP120__1__2.png?raw=true) 
 
 ## NPNDARL-2C
 NPN Darl (semi) voltage current (power) (ft) [footprint]
@@ -211,8 +211,8 @@ PMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 ## PMOS-4D-3S
 PMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
 
-![PMOS-4D-3S__1__1](/images/_semi__PMOS-4D-3S__1__1.png?raw=true) 
-![PMOS-4D-3S__1__2](/images/_semi__PMOS-4D-3S__1__2.png?raw=true) 
+![PMOS-4D-3S__1__1](/images/semi-trans-AOS__AO4441__1__1.png?raw=true) 
+![PMOS-4D-3S__1__2](/images/semi-trans-AOS__AO4441__1__2.png?raw=true) 
 
 ## PMOS4
 PMOS (semi) voltage current (Rdson) (Vgsth) [footprint]
@@ -227,7 +227,7 @@ PMOS DEP (semi) voltage current (Rdson) (Vgsth) [footprint]
 ## PNP
 PNP (semi) voltage current (power) (ft) [footprint]
 
-![PNP__1__1](/images/_semi__PNP__1__1.png?raw=true) 
+![PNP__1__1](/images/semi-trans-OnSemi__D45H11__1__1.png?raw=true) 
 
 ## PNP-2C
 PNP (semi) voltage current (power) (ft) [footprint]
@@ -238,8 +238,8 @@ PNP (semi) voltage current (power) (ft) [footprint]
 ## PNPDARL
 PNP Darl (semi) voltage current (power) (ft) [footprint]
 
-![PNPDARL__1__1](/images/_semi__PNPDARL__1__1.png?raw=true) 
-![PNPDARL__1__2](/images/_semi__PNPDARL__1__2.png?raw=true) 
+![PNPDARL__1__1](/images/semi-trans-generic__TIP125__1__1.png?raw=true) 
+![PNPDARL__1__2](/images/semi-trans-generic__TIP125__1__2.png?raw=true) 
 
 ## PNPDARL-2C
 PNP (semi) voltage current (power) (ft) [footprint]
@@ -329,5 +329,5 @@ Varicap voltage Cjrange [footprint]
 ## ZENER
 Zener voltage power Iz:zenertestcurrent [footprint]
 
-![ZENER__1__1](/images/semi-diode-generic__1N52XXB__1__1.png?raw=true) 
+![ZENER__1__1](/images/semi-diode-OnSemi__1SMA59xxBT3G__1__1.png?raw=true) 
 
